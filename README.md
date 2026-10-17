@@ -18,6 +18,20 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
+## Draft logo exploration 01
+
+**DRAFT — NOT FOR PUBLICATION. These are proposals for review; no mark, typography, or color decisions are approved.**
+
+![Three draft directions: Folded Sanctuary, Sanctuary Strings, and Praise Ligature](brand/concepts/exploration-01/three-directions.png)
+
+- [View the full-size comparison](brand/concepts/exploration-01/three-directions.png)
+- [Open the one-page PDF](brand/concepts/exploration-01/exports/three-directions.pdf)
+- [Read the symbolism, construction notes, tradeoffs, and test results](brand/concepts/exploration-01/README.md)
+- [View light/dark small-size tests](brand/concepts/exploration-01/small-size-tests.png)
+- [Download the draft concept bundle](brand/concepts/exploration-01/exports/draft-concepts.zip)
+
+Editable SVGs, meaningful prior iterations, and geometry sources are retained in the concept folder. The installed [logo-design skill](.agents/skills/logo-design/SKILL.md) is included with its upstream license and library trademark notices. Cloud setup and startup instructions are retained in [tools/cloud](tools/cloud/).
+
 ## Suggested future folders
 
 - `brand/concepts/` — new logo explorations, editable SVGs
