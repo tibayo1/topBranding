@@ -2,22 +2,26 @@
 
 **DRAFT — NOT FOR PUBLICATION. No logo, palette, typography, or official lockup is approved.**
 
-An interactive, reusable comparison of **B — Sanctuary Strings** and **C — Praise Ligature** across five color directions. The original v3 path geometry is unchanged. No third concept is introduced or proposed as a replacement.
+An interactive, reusable comparison of **B — Sanctuary Strings**, **C — Praise Ligature**, and the new **D — Resonant Sanctuary** across five color directions. B/C retain their original v3 path geometry. D adds a folded shared-space and rising-rhythm idea; no replacement is approved.
 
 ## View the work
 
 - **[Interactive explorer — single offline HTML file](exports/tabernacle-color-explorer.html)**: on GitHub, use **Download raw file** on the file page, save the `.html` file, and open it in a browser. The file contains its scripts, styles, and fonts; no installation or internet connection is required.
 - [All-five comparison image](exports/comparison-matrix.png): directly viewable on GitHub.
 - [Ten-page review PDF](exports/color-study-review.pdf): matrix, four application types in light/dark, and recommendations.
-- [Complete editable study ZIP](exports/color-study-02-editable.zip): source app, fonts/licenses, proposed palette data, editable SVGs, review images, PDF, and offline explorer.
+- [Complete editable study ZIP](exports/color-study-02-editable.zip): source app, fonts/licenses, proposed palette data, editable SVGs, review images, PDF, offline explorer, and the new concept sources.
 - [Source app](index.html): classic HTML/CSS/JavaScript with local fonts. Open it locally or serve this directory with any static server. GitHub's source viewer does not execute the app.
 
-![Every palette, B/C, light and dark](exports/comparison-matrix.png)
+![Every palette, B/C/D, light and dark](exports/comparison-matrix.png)
+
+## Meaning and construction
+
+[The visual breakdown](../../concepts/exploration-03/logo-meaning-breakdown.png) shows B’s harp-like outline minus its negative openings, C’s T plus P, and D’s enclosing folds plus rising rhythm. B communicates musical praise most clearly; C communicates the name; D tests sanctuary/gathering and praise in one abstract structure. D’s bands may suggest leaves or growth. Intended associations are distinguished from visible meaning. [Read the concept rationale and tradeoffs](../../concepts/exploration-03/README.md).
 
 ## What the explorer does
 
-- Switch between five palettes with the same B/C sizes, proportions, geometry, typography, and color-role assignments.
-- Inspect B and C side by side on light and dark backgrounds; the complete matrix keeps all 20 cases visible.
+- Switch between five palettes with the same B/C/D sizes, proportions, geometry, typography, and color-role assignments.
+- Inspect B, C, and D side by side on light and dark backgrounds; the complete matrix keeps all 30 cases visible.
 - Inspect 64/32/24/16 CSS-pixel symbols and use a pure black/white control. Color cannot repair missing strings or a closing monogram channel.
 - Read and copy all role HEX values, edit proposed colors locally, and see contrast recalculate immediately. Invalid HEX input is rejected; original proposals can be restored.
 - Enlarge each mark and each application, download editable SVGs, save pairings, and export study choices/HEX values as JSON.
@@ -51,16 +55,16 @@ Ratios use WCAG sRGB relative luminance. Normal text needs 4.5:1 and large text 
 
 ## Applications
 
-Both shortlisted palettes, **teal and navy**, are applied to both concepts in each of four layouts. The application tab and background toggle keep the conditions consistent.
+Both shortlisted palettes, **teal and navy**, are applied to all three concepts in each of four layouts. The application tab and background toggle keep the conditions consistent.
 
 | Application | Editable canvas | Review image |
 | --- | --- | --- |
-| Sunday service flyer | 1080 × 1350 | [Four equal comparisons](exports/application-flyer.png) |
-| Instagram post | 1080 × 1080 | [Four equal comparisons](exports/application-instagram.png) |
-| Social avatar | 512 × 512, circular-crop preview | [Four equal comparisons](exports/application-avatar.png) |
-| Simple church signage | 1400 × 840, illustrative vector elevation | [Four equal comparisons](exports/application-signage.png) |
+| Sunday service flyer | 1080 × 1350 | [Six equal comparisons](exports/application-flyer.png) |
+| Instagram post | 1080 × 1080 | [Six equal comparisons](exports/application-instagram.png) |
+| Social avatar | 512 × 512, circular-crop preview | [Six equal comparisons](exports/application-avatar.png) |
+| Simple church signage | 1400 × 840, illustrative vector elevation | [Six equal comparisons](exports/application-signage.png) |
 
-There are **32 editable application SVGs** in [exports/applications](exports/applications/) (2 palettes × 2 concepts × 4 applications × 2 backgrounds), plus **20 proposed-color symbol SVGs** in [exports/marks](exports/marks/).
+There are **48 editable application SVGs** in [exports/applications](exports/applications/) (2 palettes × 3 concepts × 4 applications × 2 backgrounds), plus **30 proposed-color symbol SVGs** in [exports/marks](exports/marks/).
 
 ![Sunday service flyer studies](exports/application-flyer.png)
 
@@ -75,17 +79,17 @@ Forest is a welcoming runner-up, with stronger nature/heritage associations. Bur
 
 **Concept C is the stronger current whole-parish direction.** Its broad monogram is more robust across signage and social contexts than B's fine string structure. Its editorial/classical terminals and T/P separation still need refinement; this is not logo approval. B remains an expressive musical alternative, particularly if the church wants music central to its identity. At 16px its strings lose independence; color is not a solution.
 
-**No third mark is introduced. Neither B nor C is replaced by an untested alternative.** This study compares the existing instrument-led and name-led approaches before introducing another structural variable.
+**D — Resonant Sanctuary is the new shared-space challenger.** Its folded surround and rising rhythm explore dwelling and praise together, addressing a weaker association in B/C. The possible leaf/growth reading and fine seams need testing. Compare D against C in the next refinement round; D could take B’s place if sanctuary should lead over music, but no replacement is approved and D has not proved stronger overall.
 
 ### RCCG affiliation and production limits
 
-Both B and C are shown next to an explicitly labeled, separate neutral-backed reservation for the official RCCG emblem. The authorized artwork has not been supplied; no emblem has been generated, redrawn, recolored, or merged. Actual emblem color competition and authorized combined lockups remain untested.
+B, C, and D are shown next to an explicitly labeled, separate neutral-backed reservation for the official RCCG emblem. The authorized artwork has not been supplied; no emblem has been generated, redrawn, recolored, or merged. Actual emblem color competition and authorized combined lockups remain untested.
 
 Screen HEX is not a print proof, Pantone specification, ink recipe, foil decision, or signage-material sample. Physical proofing remains necessary. Color/shape study does not establish trademark clearance or legal exclusivity.
 
 ## Editing and reuse
 
-- `data.js`: proposed palettes, role names, assessments, and exact existing B/C path data.
+- `data.js`: proposed palettes, role names, assessments, and exact existing B/C path data, new D geometry, and literal meaning notes.
 - `styles.css`: responsive explorer interface and local font declarations.
 - `app.js`: interaction, contrast calculations, local persistence, previews, color editing, and downloads.
 - `applications.js`: editable SVG layouts; same construction for every pairing.
@@ -93,7 +97,7 @@ Screen HEX is not a print proof, Pantone specification, ink recipe, foil decisio
 - `tools/build_exports.py`: makes the fully inlined offline page, proposed palette JSON, and SVG exports.
 - `tools/verify_explorer.py`: substantive Chromium interaction and export verification.
 - `tools/capture_review.py`: captures review images and builds the print review from the same layout renderer.
-- `tools/package_review.py`: packages the study without self-including the ZIP.
+- `tools/package_review.py`: packages the study, new concept sources, and B/C symbol originals with repository-relative paths, without self-including the ZIP.
 
 Individual application SVGs retain editable text and reference the supplied comparison font families (with common fallbacks). Install the included fonts or substitute fonts intentionally if editing those SVGs outside the explorer. Symbol SVGs contain paths and do not need fonts. The standalone explorer embeds fonts and requires no external assets.
 
@@ -107,7 +111,7 @@ For browser verification/captures, first serve this study directory with a loopb
 
 ## Validation evidence
 
-[The validation report](exports/validation-report.json) records 11 substantive checks: all five palettes and 20 cases; exact B/C path preservation; independent contrast and equal-size checks; keyboard/dark/mono state; large previews, download and focus return; saved pairings/JSON; failing-contrast and invalid-HEX behavior; all four application types and SVG downloads; 1440/768/390px responsive layouts; zero-external-request offline initialization and saved-page reopening; all 52 SVG exports parse and retain draft metadata.
+[The validation report](exports/validation-report.json) records 11 substantive checks: all five palettes and 30 cases; exact B/C path preservation and D source/transform fidelity; independent contrast and equal-size checks; keyboard/dark/mono state; large previews, download and focus return; B/D saved pairings/JSON; failing-contrast and invalid-HEX behavior; all four application types and SVG downloads; 1440/768/390px responsive layouts; zero-external-request offline initialization and saved-page reopening; all 78 mark/application SVG exports parse and retain draft metadata.
 
 Source was tested through an internal HTTP server. The environment's managed browser blocks `file://` navigation, so direct desktop double-click was not tested here; the actual self-contained HTML was executed in memory with no external requests, including its save/reopen behavior. Review images and the PDF were rendered in Chromium and visually inspected. PDF page content is checked against footer boundaries to prevent cropped matrix rows.
 

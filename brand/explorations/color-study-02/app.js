@@ -52,7 +52,7 @@
       if (paletteById(saved.palette)) state.palette = saved.palette;
       if (['light', 'dark'].includes(saved.mode)) state.mode = saved.mode;
       if (['flyer', 'instagram', 'avatar', 'signage'].includes(saved.application)) state.application = saved.application;
-      state.saved = Array.isArray(saved.saved) ? saved.saved.filter((key) => typeof key === 'string' && /^(navy|forest|teal|burgundy|charcoal):[BC]$/.test(key)) : [];
+      state.saved = Array.isArray(saved.saved) ? saved.saved.filter((key) => typeof key === 'string' && /^(navy|forest|teal|burgundy|charcoal):[BCD]$/.test(key)) : [];
       if (saved.edited && typeof saved.edited === 'object') {
         for (const [id, values] of Object.entries(saved.edited)) {
           const palette = paletteById(id);
@@ -92,7 +92,26 @@
     $('#palette-reading').innerHTML = `<p class="eyebrow">THE FEELING</p><p>${esc(palette.note)}${state.edited[palette.id] ? ' <strong>Colors have been adjusted locally; the original reading is a reference, not a fresh assessment of your edits.</strong>' : ''}<span class="print-reading"><strong>In print:</strong> ${esc(palette.print)}</span></p>`;
   }
 
+  function renderMeanings() {
+    $('#meaning-cards').innerHTML = concepts.map((concept) => {
+      const meaning = DATA.meanings[concept.id];
+      const paths = concept.mark.match(/<path\b[^>]*>/g);
+      let pieces;
+      if (concept.id === 'B') {
+        const subpaths = paths[0].match(/ d="([^"]+)"/)[1].match(/M.*?Z/g);
+        pieces = [`<path d="${subpaths[0]}"/>`, subpaths.slice(1).map((path) => `<path d="${path}"/>`).join(''), concept.mark];
+      } else if (concept.id === 'C') {
+        pieces = [paths[0], paths[1], concept.mark];
+      } else {
+        const wrap = (paths) => `<g transform="translate(-7 0)">${paths.join('')}</g>`;
+        pieces = [wrap(paths.slice(0, 3)), wrap(paths.slice(3)), concept.mark];
+      }
+      return `<article class="meaning-card" data-concept="${concept.id}"><p class="eyebrow">${concept.id} / ${esc(concept.category)}</p><h3>${esc(concept.name)}</h3><div class="meaning-construction">${pieces.map((piece, index) => `<figure><svg viewBox="0 0 256 256" width="72" height="72" role="img" aria-label="${esc(meaning.labels[index])}"><g fill="#000000">${piece}</g></svg><figcaption>${esc(meaning.labels[index])}</figcaption></figure>${index < 2 ? `<span class="meaning-operation" aria-hidden="true">${index === 0 ? meaning.operation : '='}</span>` : ''}`).join('')}</div><dl><dt>Visible in the drawing</dt><dd>${esc(meaning.visible)}</dd><dt>Intended association</dt><dd>${esc(meaning.intended)}</dd><dt>What needs testing</dt><dd>${esc(meaning.limit)}</dd></dl></article>`;
+    }).join('');
+  }
+
   function renderMatrix() {
+    $('.matrix-head').innerHTML = '<span role="columnheader">PALETTE DIRECTION</span>' + concepts.map((concept) => `<span role="columnheader">${concept.id} / ${esc(concept.name.toUpperCase())}</span>`).join('');
     $('#matrix-rows').innerHTML = palettes.map((palette) => `<div class="matrix-row" role="row" data-palette="${palette.id}"><div class="matrix-palette" role="rowheader"><span class="eyebrow">${palette.number} / ${palette.recommended ? 'SHORTLIST' : 'EXPLORE'}</span><h3>${esc(palette.name)}</h3><p>${esc(palette.mood)}</p><div class="matrix-values">${ROLES.map((role) => `<button type="button" data-action="copy" data-value="${palette[role]}" aria-label="Copy ${esc(palette.name)} ${role} ${palette[role]}"><i style="background:${palette[role]}" aria-hidden="true"></i><span><small>${role}</small><code>${palette[role]}</code></span></button>`).join('')}</div><span class="ratio-label">${contrast(palette.primary, palette.neutral).toFixed(2)}:1 · primary / neutral</span></div>${concepts.map((concept) => `<div class="matrix-cell" role="cell" data-concept="${concept.id}">${['light', 'dark'].map((mode) => {
       const treatment = colors(palette, mode, false);
       return `<button type="button" class="matrix-sample" data-action="inspect" data-palette="${palette.id}" data-concept="${concept.id}" data-mode="${mode}" style="background:${treatment.background};color:${treatment.ink}" aria-label="Inspect ${esc(palette.name)}, concept ${concept.id}, ${mode} background"><span class="sample-mode">${mode}</span>${mark(concept, treatment.ink, 61)}${wordmark()}<span class="sample-accent" style="background:${treatment.accent}"></span></button>`;
@@ -106,7 +125,7 @@
     const secondary = contrast(palette.secondary, palette.neutral);
     $('#contrast-summary').innerHTML = `<article class="contrast-card primary"><p class="eyebrow">PRIMARY / NEUTRAL</p><div class="contrast-number">${core.toFixed(2)}<small>:1</small></div><p>${core >= 4.5 ? 'A clear foundation for normal-sized text in either direction.' : 'This edited pair needs revision for normal-sized text.'}</p><span class="contrast-chip"><i class="tiny-status ${core < 4.5 ? 'caution' : ''}"></i>${core >= 4.5 ? 'Meets the 4.5:1 text threshold' : 'Below the 4.5:1 text threshold'}</span></article><article class="contrast-card"><p class="eyebrow">ACCENT / LIGHT GROUND</p><div class="contrast-number">${accent.toFixed(2)}<small>:1</small></div><p>${accent >= 4.5 ? 'Meets normal-text contrast in this edited pair.' : 'Decorative detail, not body text or fine logo structure.'}</p><span class="contrast-chip"><i class="tiny-status ${accent < 4.5 ? 'caution' : ''}"></i>${accent >= 4.5 ? 'Normal-text contrast' : 'Below normal-text contrast'}</span></article><article class="contrast-card"><p class="eyebrow">SUPPORTING COLORS</p><p>Secondary on neutral <strong>${secondary.toFixed(2)}:1</strong><br>Accent on primary <strong>${accentDark.toFixed(2)}:1</strong></p><p>Text needs 4.5:1; large text 3:1. Ratios are calculated from sRGB HEX values. A logo exemption is not a reason to use fragile low-contrast detail.</p></article>`;
     const treatment = colors(palette, state.mode, state.monochrome);
-    $('#size-tests').innerHTML = concepts.map((concept) => `<div class="size-row"><div class="size-row-label"><strong>${concept.id} / ${esc(concept.name)}</strong><small>${concept.id === 'B' ? 'Watch the strings, not just the silhouette.' : 'Watch the T/P channel and the inner counter.'}</small></div>${[64, 32, 24, 16].map((size) => `<div class="size-case"><div class="size-art" style="background:${treatment.background};color:${treatment.ink}">${mark(concept, treatment.ink, size)}</div><span>${size}px · actual CSS size</span></div>`).join('')}</div>`).join('');
+    $('#size-tests').innerHTML = concepts.map((concept) => `<div class="size-row"><div class="size-row-label"><strong>${concept.id} / ${esc(concept.name)}</strong><small>${concept.id === 'B' ? 'Watch the strings, not just the silhouette.' : concept.id === 'C' ? 'Watch the T/P channel and the inner counter.' : 'Watch the shared room, fine seams, and rising bands.'}</small></div>${[64, 32, 24, 16].map((size) => `<div class="size-case"><div class="size-art" style="background:${treatment.background};color:${treatment.ink}">${mark(concept, treatment.ink, size)}</div><span>${size}px · actual CSS size</span></div>`).join('')}</div>`).join('');
     $('#rccg-reservation').innerHTML = concepts.map((concept) => `<div class="pairing-example" style="background:${palette.neutral}"><span class="pairing-label">${concept.id}</span><div class="rccg-placeholder">AUTHORIZED<br>RCCG EMBLEM<br><strong>ASSET PENDING</strong><br>Placeholder only</div><span class="reservation-divider" aria-hidden="true"></span><div class="reservation-parish" style="color:${palette.primary}">${mark(concept, palette.primary, 48)}${wordmark()}</div></div>`).join('');
   }
 
@@ -132,6 +151,7 @@
   function render() {
     const focusKey = document.activeElement && document.activeElement.dataset.focusKey;
     const palette = paletteById(state.palette);
+    renderMeanings();
     renderPalettes();
     renderFocus(palette);
     renderMatrix();
@@ -190,14 +210,14 @@
       svg = window.TOPApplications.render({ type: preview.type, palette, concept, mode: preview.mode });
     } else {
       const treatment = colors(palette, preview.mode, preview.monochrome);
-      svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>${esc(concept.name)} · ${esc(palette.name)} — DRAFT</title><desc>DRAFT — NOT FOR PUBLICATION. Original exploration-01 geometry with proposed color. No approval implied.</desc><rect id="background" width="256" height="256" fill="${treatment.background}"/>${concept.mark.replace(/#000000/gi, treatment.ink)}</svg>`;
+      svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>${esc(concept.name)} · ${esc(palette.name)} — DRAFT</title><desc>DRAFT — NOT FOR PUBLICATION. Referenced draft geometry with proposed color. B/C retain exploration-01 v3; D is new exploration-03. No approval implied.</desc><rect id="background" width="256" height="256" fill="${treatment.background}"/>${concept.mark.replace(/#000000/gi, treatment.ink)}</svg>`;
     }
     download(svg, 'image/svg+xml', `DRAFT-${preview.concept}-${palette.id}-${preview.kind === 'application' ? preview.type : 'mark'}-${preview.mode}.svg`);
     toast('Editable draft SVG downloaded');
   }
 
   function exportNotes() {
-    const output = { study: 'Tabernacle of Praise — color study 02', status: DATA.status, approval: 'None. Logo, palette, and typography remain unapproved.', selectedPalette: state.palette, background: state.mode, savedPairings: state.saved, palettes: palettes.map((palette) => ({ id: palette.id, family: palette.family, primary: palette.primary, secondary: palette.secondary, accent: palette.accent, neutral: palette.neutral, contrastPrimaryNeutral: Number(contrast(palette.primary, palette.neutral).toFixed(4)) })), recommendations: { palettes: ['teal', 'navy'], concept: 'C', thirdConcept: 'Not introduced; neither current mark is displaced.' } };
+    const output = { study: 'Tabernacle of Praise — color study 02', status: DATA.status, approval: 'None. Logo, palette, and typography remain unapproved.', selectedPalette: state.palette, background: state.mode, savedPairings: state.saved, palettes: palettes.map((palette) => ({ id: palette.id, family: palette.family, primary: palette.primary, secondary: palette.secondary, accent: palette.accent, neutral: palette.neutral, contrastPrimaryNeutral: Number(contrast(palette.primary, palette.neutral).toFixed(4)) })), recommendations: { palettes: ['teal', 'navy'], concept: 'C', thirdConcept: 'D — Resonant Sanctuary introduces shared space and rising rhythm. Compare D against C; no replacement is approved.' } };
     download(JSON.stringify(output, null, 2), 'application/json', 'DRAFT-Tabernacle-of-Praise-color-study.json');
     toast('Study notes and HEX values downloaded');
   }

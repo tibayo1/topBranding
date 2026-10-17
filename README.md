@@ -20,16 +20,20 @@ Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.m
 
 ## Color study 02 — current exploration
 
-**DRAFT — NOT FOR PUBLICATION. B and C, five palette directions, no final identity decisions.**
+**DRAFT — NOT FOR PUBLICATION. B, C, and the additional original D concept; five palette directions; no final identity decisions.**
 
-![All five palettes with B and C, light and dark](brand/explorations/color-study-02/exports/comparison-matrix.png)
+[See what the logos mean, component by component](brand/concepts/exploration-03/README.md).
+
+![Meaning breakdown: B harp, C T/P, D shared space and rising rhythm](brand/concepts/exploration-03/logo-meaning-breakdown.png)
+
+![All five palettes with B, C, and D, light and dark](brand/explorations/color-study-02/exports/comparison-matrix.png)
 
 - **[Interactive explorer — download this single HTML file and open it in a browser](brand/explorations/color-study-02/exports/tabernacle-color-explorer.html)**. On the GitHub file page, use **Download raw file**; GitHub's code view does not run the app.
 - [View the ten-page color/application review PDF](brand/explorations/color-study-02/exports/color-study-review.pdf)
 - [Browse the editable study, exact HEX values, applications, and recommendations](brand/explorations/color-study-02/README.md)
 - [Download the complete editable study ZIP](brand/explorations/color-study-02/exports/color-study-02-editable.zip)
 
-The explorer includes equal B/C comparisons, light/dark and monochrome controls, swatches, contrast calculations, actual-size tests, editable colors, saved pairings, SVG downloads, and Sunday flyer/Instagram/avatar/signage studies. AGENTS.md and the church identity skill have not been updated.
+The explorer includes equal B/C/D comparisons and visual meaning breakdowns, light/dark and monochrome controls, swatches, contrast calculations, actual-size tests, editable colors, saved pairings, SVG downloads, and Sunday flyer/Instagram/avatar/signage studies. AGENTS.md and the church identity skill have not been updated.
 
 ## Draft logo exploration 01
 

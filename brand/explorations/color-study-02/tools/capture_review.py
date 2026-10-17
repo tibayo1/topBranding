@@ -25,6 +25,7 @@ with sync_playwright() as playwright:
     page.evaluate('document.activeElement.blur()')
     page.mouse.move(0, 0)
     page.screenshot(path=str(OUT / 'explorer-overview.png'), full_page=True)
+    page.locator('#meanings').screenshot(path=str(OUT / 'meaning-cards-desktop.png'), animations='disabled')
     page.locator('#matrix').screenshot(path=str(OUT / 'comparison-matrix.png'), animations='disabled')
     page.locator('#checks').screenshot(path=str(OUT / 'form-and-contrast.png'), animations='disabled')
     for palette in ('teal', 'navy'):
@@ -43,13 +44,14 @@ with sync_playwright() as playwright:
         page.locator('#applications').screenshot(path=str(OUT / f'application-{application}.png'), animations='disabled')
     page.set_viewport_size({'width': 390, 'height': 844})
     page.locator('#workbench').screenshot(path=str(OUT / 'mobile-workbench.png'), animations='disabled')
+    page.locator('#meanings').screenshot(path=str(OUT / 'meaning-cards-mobile.png'), animations='disabled')
     page.set_viewport_size({'width': 1440, 'height': 1100})
     page.locator('[data-action=application][data-value=flyer]').click()
     data = page.evaluate('window.TOPData')
     matrix = page.locator('#matrix-rows').inner_html()
 
     # The printable book uses exactly the same vector generator as the app.
-    # Fonts are embedded once into the review source, not duplicated in 52 SVGs.
+    # Fonts are embedded once into the review source, not duplicated in 78 SVGs.
     sans = base64.b64encode((ROOT / 'assets/noto-sans-regular.ttf').read_bytes()).decode()
     serif = base64.b64encode((ROOT / 'assets/noto-serif-regular.ttf').read_bytes()).decode()
     css = f"@font-face{{font-family:'Study Sans';src:url(data:font/ttf;base64,{sans})}}@font-face{{font-family:'Study Serif';src:url(data:font/ttf;base64,{serif})}}"
@@ -58,9 +60,10 @@ with sync_playwright() as playwright:
 """
     css += """
 .matrix-row{height:96px;padding:6px 0}.matrix-palette{font-size:8px;line-height:1.1}.matrix-palette .eyebrow{display:block;font-size:6px;line-height:1.2;margin-bottom:2px}.matrix-palette h3{font-size:11px;line-height:1.2}.matrix-palette>p{display:none}.matrix-values{margin:5px 0;gap:3px}.matrix-sample{height:82px;min-height:0;padding:10px 5px}.ratio-label{font-size:6px}
+.matrix-head,.matrix-row{grid-template-columns:150px repeat(3,minmax(0,1fr));gap:10px}.application-grid{grid-template-columns:repeat(6,minmax(0,1fr));gap:12px}.application-grid h2{font-size:9px;line-height:1.4;min-height:28px}.application-grid p{font-size:7px;line-height:1.5}.application-grid.avatar svg{margin-top:45px}.application-grid.signage{grid-template-columns:repeat(3,minmax(0,1fr));column-gap:16px;row-gap:12px}.application-grid.signage svg{max-height:175px;width:100%;height:auto}.application-grid.signage .study h2{margin-top:0}.review-copy{margin-top:23px;gap:30px}.review-copy h2{font-size:21px}.review-copy p{font-size:12px;line-height:1.8}.review-copy li{font-size:11px;line-height:1.7;margin:7px 0}
 """
     footer = '<div class="footer"><span>DRAFT — NOT FOR PUBLICATION · No logo, palette, or typography is approved.</span><span>Tabernacle of Praise / Color study 02</span></div>'
-    sheets = ['<section class="sheet"><p class="kicker">RCCG TABERNACLE OF PRAISE · ISTANBUL, TÜRKİYE</p><h1>One identity. Five color directions.</h1><p>Identical B/C geometry and presentation conditions. Light and dark for every palette. Proposed HEX values, not final standards.</p><div class="matrix-head"><span>PALETTE / ROLE VALUES</span><span>B / SANCTUARY STRINGS</span><span>C / PRAISE LIGATURE</span></div>' + matrix + footer + '</section>']
+    sheets = ['<section class="sheet"><p class="kicker">RCCG TABERNACLE OF PRAISE · ISTANBUL, TÜRKİYE</p><h1>Three concepts. Five color directions.</h1><p>B/C retain their existing geometry; D introduces a new original shared-space direction. Equal presentation conditions. Light and dark for every palette. Proposed HEX values.</p><div class="matrix-head"><span>PALETTE / ROLE VALUES</span><span>B / SANCTUARY STRINGS</span><span>C / PRAISE LIGATURE</span><span>D / RESONANT SANCTUARY</span></div>' + matrix + footer + '</section>']
     render_page = browser.new_page(viewport={'width': 1500, 'height': 1500}, reduced_motion='reduce')
     render_page.goto(URL, wait_until='networkidle')
     render_page.evaluate('document.fonts.ready')
@@ -73,7 +76,7 @@ with sync_playwright() as playwright:
                     svg = page.evaluate('(options) => window.TOPApplications.render(options)', {'type': application, 'palette': palette, 'concept': concept, 'mode': mode})
                     cards.append(f'<article class="study"><h2>{concept["id"]} / {escape(concept["name"])}</h2>{svg}<p>{escape(palette["name"])} / {mode}</p></article>')
             sheets.append(f'<section class="sheet"><p class="kicker">SHORTLISTED PALETTES / {mode.upper()} TREATMENT</p><h1>{title}</h1><p class="note">Editable vector layout study. Bracketed event information is a placeholder; typography is a shared provisional specimen.</p><div class="application-grid {application}">{"".join(cards)}</div>{footer}</section>')
-    sheets.append('<section class="sheet"><p class="kicker">RECOMMENDATIONS FOR DISCUSSION</p><h1>Two palettes. One next conversation.</h1><div class="review-copy"><div><h2>1 / Teal & sand</h2><p>The strongest contemporary distinction with tactile warmth. Keep sand as a surface and gold as a measured accent.</p><h2 style="margin-top:30px">2 / Navy & gold</h2><p>A dignified, dependable alternative with a strong dark-on-light foundation. Familiar territory; the mark must supply distinction.</p></div><div><h2>Concept C / Praise Ligature</h2><p>The stronger whole-parish platform of the current pair. Refine its T/P channel and its editorial character. B remains a meaningful musical alternative, with strings that need a small-size solution.</p><ul><li>No third concept introduced; neither B nor C is replaced.</li><li>Actual authorized RCCG emblem pairing is pending.</li><li>Screen HEX values require real print and material proofing.</li><li>Final geometry, typography, palette, and approval remain open.</li></ul></div></div>' + footer + '</section>')
+    sheets.append('<section class="sheet"><p class="kicker">RECOMMENDATIONS FOR DISCUSSION</p><h1>Two palettes. Three concepts to weigh.</h1><div class="review-copy"><div><h2>1 / Teal & sand</h2><p>The strongest contemporary distinction with tactile warmth. Keep sand as a surface and gold as a measured accent.</p><h2 style="margin-top:24px">2 / Navy & gold</h2><p>A dignified, dependable alternative with a strong dark-on-light foundation. Familiar territory; the mark must supply distinction.</p><h2 style="margin-top:24px">What the marks visibly communicate</h2><p>B is a harp-led musical direction; its shelter association is weaker. C identifies the name through a T/P monogram. D encloses shared space and opens into three rising bands, suggesting praise through rhythm. These are design intentions, not established church doctrine.</p></div><div><h2>C / Current durability benchmark</h2><p>C remains the current benchmark for a durable identifier, with its T/P channel and editorial character still open to refinement. B needs a small-size string solution.</p><h2 style="margin-top:24px">D / New shared-space challenger</h2><p>D gives the sacred-dwelling association more visual weight. Its enclosing surround and rising bands connect shared space with praise, although the bands can also suggest leaves or growth. No replacement is approved.</p><ul><li>The official RCCG emblem remains separate; an authorized source asset is pending.</li><li>Screen HEX values require real print and material proofing.</li><li>Final geometry, typography, palette, and approval remain open.</li></ul></div></div>' + footer + '</section>')
     review = '<!doctype html><html><head><meta charset="utf-8"><title>Tabernacle of Praise — Draft color review</title><style>' + css + '</style></head><body>' + ''.join(sheets) + '</body></html>'
     (OUT / 'printable-review.html').write_text(review)
     render_page.set_content(review, wait_until='networkidle')
@@ -85,6 +88,12 @@ with sync_playwright() as playwright:
       return {page:index+1, overlap:bottom > footer.top-2};
     }).filter(result => result.overlap)''')
     assert not overlaps, f'Review content overlaps footer: {overlaps}'
+    assert render_page.locator('.sheet').count() == 10
+    assert render_page.locator('.application-grid').count() == 8
+    for gallery in render_page.locator('.application-grid').all():
+        assert gallery.locator('.study').count() == 6
+        sizes = gallery.locator('svg').evaluate_all('(elements) => elements.map(element => [element.getBoundingClientRect().width,element.getBoundingClientRect().height])')
+        assert all(all(abs(value - reference) < .1 for value, reference in zip(size, sizes[0])) for size in sizes), f'Unequal application sizes: {sizes}'
     render_page.pdf(path=str(OUT / 'color-study-review.pdf'), print_background=True, prefer_css_page_size=True)
     browser.close()
 print('Captured matrix, workbench light/dark, application galleries, mobile preview, and printable review PDF.')

@@ -53,7 +53,7 @@ process.stdout.write(JSON.stringify(output));
 """
 result = subprocess.run(['node', '-e', runner, str(ROOT)], check=True, text=True, capture_output=True)
 data = json.loads(result.stdout)
-palette_data = {'status': 'DRAFT — NOT FOR PUBLICATION', 'palettes': data['data']['palettes'], 'recommendations': {'palettes': ['teal', 'navy'], 'concept': 'C'}, 'approved': False}
+palette_data = {'status': 'DRAFT — NOT FOR PUBLICATION', 'palettes': data['data']['palettes'], 'recommendations': {'palettes': ['teal', 'navy'], 'concept': 'C', 'challenger': 'D', 'note': 'C is the current durability benchmark. D introduces a stronger shared-space association, with a possible leaf/growth reading. No replacement is approved.'}, 'approved': False}
 (EXPORTS / 'proposed-palettes.json').write_text(json.dumps(palette_data, indent=2) + '\n')
 applications = EXPORTS / 'applications'
 applications.mkdir(exist_ok=True)
@@ -62,15 +62,19 @@ for item in data['applications']:
 
 marks = EXPORTS / 'marks'
 marks.mkdir(exist_ok=True)
+mark_count = 0
 for palette in data['data']['palettes']:
     for concept in data['data']['concepts']:
         for mode in ('light', 'dark'):
             ground, ink = (palette['neutral'], palette['primary']) if mode == 'light' else (palette['primary'], palette['neutral'])
             name = f"DRAFT-{concept['id']}-{palette['id']}-{mode}.svg"
+            provenance = ('New exploration-03 geometry with proposed color.' if concept['id'] == 'D'
+                          else 'Original exploration-01 geometry is unchanged; proposed color only.')
             svg = ('<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">'
                    f"<title>{escape(concept['name'])} — {escape(palette['name'])} — DRAFT</title>"
-                   '<desc>DRAFT — NOT FOR PUBLICATION. Proposed color only. Original exploration-01 geometry is unchanged.</desc>'
+                   f'<desc>DRAFT — NOT FOR PUBLICATION. {provenance} No approval implied.</desc>'
                    f'<rect id="background" width="256" height="256" fill="{ground}"/>'
                    + concept['mark'].replace('#000000', ink) + '</svg>\n')
             (marks / name).write_text(svg)
-print(f'Built offline HTML, palette data, {len(data["applications"])} application SVGs, and 20 mark SVGs.')
+            mark_count += 1
+print(f'Built offline HTML, palette data, {len(data["applications"])} application SVGs, and {mark_count} mark SVGs.')

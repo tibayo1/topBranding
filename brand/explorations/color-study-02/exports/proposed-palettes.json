@@ -107,7 +107,9 @@
       "teal",
       "navy"
     ],
-    "concept": "C"
+    "concept": "C",
+    "challenger": "D",
+    "note": "C is the current durability benchmark. D introduces a stronger shared-space association, with a possible leaf/growth reading. No replacement is approved."
   },
   "approved": false
 }
