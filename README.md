@@ -18,7 +18,22 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Color study 02 — current exploration
+## Strategic study 04 — current exploration
+
+**DRAFT — NOT FOR PUBLICATION. Research first; no existing concept is approved or a mandatory finalist.**
+
+![Four developed directions from the strategic exploration](brand/explorations/strategic-study-04/exports/four-developed-concepts.png)
+
+- **[Read the research-based identity strategy](brand/explorations/strategic-study-04/research/identity-strategy.md)**
+- **[Open the browser review — download raw HTML, then open in a browser](brand/explorations/strategic-study-04/exports/tabernacle-strategic-explorer.html)**
+- [See all 12 investigated ideas across six territories](brand/explorations/strategic-study-04/exports/initial-explorations.png)
+- [View the ten-page research/concept/application PDF](brand/explorations/strategic-study-04/exports/strategic-review.pdf)
+- [Study notes, editable SVGs, research evidence, and font licenses](brand/explorations/strategic-study-04/README.md)
+- [Complete editable study ZIP](brand/explorations/strategic-study-04/exports/strategic-study-04-editable.zip)
+
+The new review develops Responsive Cover, Common Ground, Cadenced Wall, and Shared Line in monochrome, with full names, construction explanations, real-size and reversed tests, and neutral identity applications. The earlier B/C/D and palette studies below remain historical explorations. No weekly flyer generator has been built. AGENTS.md and the RCCG identity skill remain unchanged.
+
+## Color study 02 — historical exploration
 
 **DRAFT — NOT FOR PUBLICATION. B, C, and the additional original D concept; five palette directions; no final identity decisions.**
 
