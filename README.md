@@ -18,7 +18,20 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Strategic study 04 — current exploration
+## Creative review 05 — current exploration
+
+**DRAFT — NOT FOR PUBLICATION. Five developed monochrome directions; no logo, palette or typography is approved.**
+
+![Five developed directions for Creative Review 05](brand/explorations/creative-review-05/exports/creative-review-05-overview.png)
+
+- **[Interactive creative review — download raw HTML, then open in a browser](brand/explorations/creative-review-05/exports/tabernacle-creative-review-05.html)**
+- [Six-page artwork and process PDF](brand/explorations/creative-review-05/exports/tabernacle-creative-review-05.pdf)
+- [Meanings, candid assessment, editable sources and file guide](brand/explorations/creative-review-05/README.md)
+- [Complete editable review ZIP](brand/explorations/creative-review-05/exports/creative-review-05-editable.zip)
+
+Open Crossing, Passing Shelter, The Joined Roundel, Open Counter and Opening Measure compare sacred space, expressive shelter, a crafted TP emblem, custom full-name lettering and a substantial rethinking of Cadenced Wall. The review includes 20 initial premises, construction breakdowns, black/reverse and small-size tests, complete wordmarks and limited identity applications. No weekly flyer templates or final standards are created. AGENTS.md and the RCCG identity skill remain unchanged.
+
+## Strategic study 04 — historical exploration
 
 **DRAFT — NOT FOR PUBLICATION. Research first; no existing concept is approved or a mandatory finalist.**
 

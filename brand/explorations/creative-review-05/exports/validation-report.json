@@ -1,0 +1,582 @@
+{
+  "study": "RCCG Tabernacle of Praise — Creative Review 05",
+  "status": "passed",
+  "checkedAtUtc": "2026-10-18T15:07:33.402763+00:00",
+  "browser": "Chromium / Python Playwright",
+  "checksPassed": 11,
+  "checks": [
+    "All five directions have distinct source-backed sketches (E at least six), developed artwork, construction, outlined complete-name lockups, applications and ten qualitative evaluations",
+    "Every displayed sketch, developed mark and full-name lockup preserves editable source geometry, viewBox, ancestor transforms and fill rules; no font substitution is used in the identities",
+    "Five directions receive the same monochrome stage dimensions and ten-question comparison; native 64/32/24/16px symbols and 320/240px full names disclose D’s wordmark limits; RCCG remains an explicit missing-asset reservation",
+    "Developed and sketch dialogs trap Tab/Shift+Tab, reverse, close with Escape or close button, and restore their opener; every tablist supports arrows, Home and End",
+    "All thirty offered online SVG downloads preserve actual geometry; primary/reverse symbols and D wordmark rasterize with correct dark/white inks and opaque black reverse backgrounds, including C currentColor",
+    "Selections, checkboxes, notes and view mode survive reload; notes JSON explicitly records four false approval flags and clearing removes saved notes",
+    "All five directions, all four proof panels and artwork dialogs fit 1440/900/390/320px viewports without page or dialog horizontal overflow",
+    "Every local source, file-guide, PDF and ZIP link resolves to a successful response",
+    "Developed and sketch dialogs trap Tab/Shift+Tab, reverse, close with Escape or close button, and restore their opener; every tablist supports arrows, Home and End",
+    "Standalone HTML contains identical artwork and embedded UI fonts; with every route blocked all thirty SVG downloads, reversal, keyboard dialogs/tabs, notes export and mobile layout work without network requests or JavaScript errors",
+    "Exported SVGs parse successfully and final review sources plus delivery artifacts are recorded with SHA-256 checksums"
+  ],
+  "evidence": {
+    "sketchCounts": {
+      "A": 4,
+      "B": 4,
+      "C": 3,
+      "D": 3,
+      "E": 6
+    },
+    "distinctSourceGeometries": {
+      "A": 4,
+      "B": 4,
+      "C": 3,
+      "D": 3,
+      "E": 6
+    },
+    "sourceArtworkSha256": {
+      "directions/a-sacred-space/developed.svg": "be22167da1e8458688dfd384564d70ae835e28668749e07b5deadc4777f3ec13",
+      "directions/a-sacred-space/a1-open-court.svg": "f0f09a87dc35edcfd7b0005eb8138c30db22f396ea524453a0b332dec7b880c7",
+      "directions/a-sacred-space/a2-resonant-chamber.svg": "32e32ac3ab315eea6cdc9f9cb8109c6962f9b520b36b7d88c217e541782aaba1",
+      "directions/a-sacred-space/a3-common-centre.svg": "3ef3e1001f90793a4b62043ad468805f1b14efe3e55a8675dce75dfda9a1dae7",
+      "directions/a-sacred-space/developed-v4.svg": "71529e999987360f2c666b4189d282ae2175e00f63d3be701f94c5d76a0f392b",
+      "directions/b-dwelling-expression/primary.svg": "9d75f95ad3a248df700f7e203b1ae8da6a0590543e337334999ec27867fcd660",
+      "directions/b-dwelling-expression/developed-v2.svg": "2c5d93b51d49a71ffff7c96a0dfab867a7a22a8dd6f794b9db906039a9c2f180",
+      "directions/b-dwelling-expression/initial-B3-breathing-court.svg": "21e68772873554d5fb582b8ecbb69894c14dfec960fdabfabfbb05bb7dbc09c9",
+      "directions/b-dwelling-expression/new-B5-common-bearing.svg": "5eb9560893293f906522ad855e5c117300c58e5ec3a743df8c7adbcdf0ab9c2b",
+      "directions/b-dwelling-expression/initial-B14-passing-shelter.svg": "f626fe2b839d0c7f59f158286710c8b56c968382de7b51835f06e74bce0e7b0d",
+      "directions/c-ecclesial-emblem/developed/c-developed-v3.svg": "6cacd81c1a9997ad9c1cdbf4ed47db50b3ccf621de7cbcd42efe76b587d9622a",
+      "directions/c-ecclesial-emblem/initials/c1-common-bond.svg": "cf0317b7408a54a18cdfccdd2defa9dc8ffaf06e90acee1df98766d8cd72acd1",
+      "directions/c-ecclesial-emblem/initials/c2-response-medallion.svg": "935b67230bcce6f3555d16ed967b9750290e4ebe29f1dedfbabba71c6846e467",
+      "directions/c-ecclesial-emblem/initials/c3-coupled-banner.svg": "c188fda38d8270d33f94c9c07cc67af19de4b77f17b4000dc73e41608f0302ca",
+      "directions/d-custom-typography/developed/open-counter-stacked-v3.svg": "238ad0d6dbec6fb869229631d2902e0766aa93f7c5c402a3b1875b1fd2578f00",
+      "directions/d-custom-typography/sketches/D1-open-counter.svg": "4e30e32fa9b11514b607b242fee7855148a7c91624dcfb6e33cb15d185d582f8",
+      "directions/d-custom-typography/sketches/D2-joined-voices.svg": "71c43829e7dac1cfb66ce3a6c3b0c2be0bcc5cf1c78149366a4c9471e935c6fb",
+      "directions/d-custom-typography/sketches/D3-inscribed-response.svg": "9947351ae449765ee85b6e4078acf61d1e5aeb213c50c2a19eb82cb03be1ef95",
+      "directions/e-cadenced-reimagined/developed-v4.svg": "44913920e12ad51df4ea8649b8a95b82f9f551ab832b791a9bddf112dbfb7923",
+      "directions/e-cadenced-reimagined/e1-returning-court-v1.svg": "6d9f3b1c84c2dca00e870417a4dc385a1969bedf8220a8a5743ac471ddc322f5",
+      "directions/e-cadenced-reimagined/e2-one-fold-v1.svg": "1aa5849d1fd6c4bd75262deed8b0bce62b6622f37c1dd688628c6a933ec14a9c",
+      "directions/e-cadenced-reimagined/e3-answering-surfaces-v1.svg": "c0a334a914fed8c7103ccfc83526ea4fffa8199a56082fdaa0b866f99ab04391",
+      "directions/e-cadenced-reimagined/e4-opening-measure-v1.svg": "f140606f3721c6006e119a4d889ebba3f9ecbfef16f63df004a8f6b23fc117aa",
+      "directions/e-cadenced-reimagined/e5-processional-fold-v1.svg": "5af8005b945957115d3e6322f7f243bb95825ba21ee220fbd1f81710939f1b74",
+      "directions/e-cadenced-reimagined/e6-common-vault-v1.svg": "18ef12f2c618a2cb753fb64e25a13bdc199d924d368f824646c07f49c4c3829b"
+    },
+    "rccgReservation": {
+      "manifest": "source/rccg-emblem-manifest.md",
+      "expectedAssetPath": "/workspace/topBranding/brand/assets/rccg-emblem/rccg-emblem-user-supplied.png",
+      "assetPresent": false
+    },
+    "equalStageDimensions": {
+      "width": 652,
+      "height": 430
+    },
+    "onlineDownloads": [
+      {
+        "direction": "A",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "a-open-crossing-symbol-DRAFT.svg",
+        "sha256": "0fdca06725e35f4bf830820cc37c25cb897eb431bf873ca16bddde329fc4f11c"
+      },
+      {
+        "direction": "A",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "a-open-crossing-symbol-reverse-DRAFT.svg",
+        "sha256": "49891a4335709166d1068b4c9db9a094b56d17153e05be6a538b52fe4a80f4e3"
+      },
+      {
+        "direction": "A",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "a-open-crossing-horizontal-DRAFT.svg",
+        "sha256": "f7026310e06ac4e8d00ca8991434365ba1933a9844aee5dda36c47669dae68fb"
+      },
+      {
+        "direction": "A",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "a-open-crossing-stacked-DRAFT.svg",
+        "sha256": "2d59904b2f747ade5140ebe41685a5d741f78bd882afd11a366f44d71ee96ac7"
+      },
+      {
+        "direction": "A",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "a-open-crossing-signage-DRAFT.svg",
+        "sha256": "d178bfd706dd76a651445f7c01478c8487ffeb4eb7f9fef6ad8432e363420e04"
+      },
+      {
+        "direction": "A",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "a-open-crossing-paper-DRAFT.svg",
+        "sha256": "cf7e78bd129966206826634bc754fcdc662603071fe0d5b42a997fd75dfaee16"
+      },
+      {
+        "direction": "B",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "b-passing-shelter-symbol-DRAFT.svg",
+        "sha256": "1218868f309bae4979430efd71ab48ea4741c36775d4d35b2c55133cfc1835ee"
+      },
+      {
+        "direction": "B",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "b-passing-shelter-symbol-reverse-DRAFT.svg",
+        "sha256": "4e60d2efa02bc5f1d2d5886abac3caf78aa61bdab82791717721b62f336b4001"
+      },
+      {
+        "direction": "B",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "b-passing-shelter-horizontal-DRAFT.svg",
+        "sha256": "339b1a2091cb9f6a62264cf1c7100437c81a8bded1f5797d8cd7138c2b3601e5"
+      },
+      {
+        "direction": "B",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "b-passing-shelter-stacked-DRAFT.svg",
+        "sha256": "28f6d9664feba9ca073fa9f566af91e32ac07026e7fd4b08f58789a688478e30"
+      },
+      {
+        "direction": "B",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "b-passing-shelter-signage-DRAFT.svg",
+        "sha256": "a16ffa4193fbb5098a52d288c34a1855319525853f45ccc78239b6db461fdf08"
+      },
+      {
+        "direction": "B",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "b-passing-shelter-paper-DRAFT.svg",
+        "sha256": "14062031b14488b2d4ef9d19e4dd59a379b3e77060c5b6d2b72899046d39d3ec"
+      },
+      {
+        "direction": "C",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-symbol-DRAFT.svg",
+        "sha256": "f821ff1877f15cb192649e8ccb80f8dce7c62f611975c5ab16e964ef42603d98"
+      },
+      {
+        "direction": "C",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "c-the-joined-roundel-symbol-reverse-DRAFT.svg",
+        "sha256": "2941d661367086debbda412ba81c852facf0f09768128608252fe390a8c635ea"
+      },
+      {
+        "direction": "C",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-horizontal-DRAFT.svg",
+        "sha256": "b0f88fb118368947312f0bca7948b6b1c02a7db860ceb66ede76002ae0cee7d7"
+      },
+      {
+        "direction": "C",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-stacked-DRAFT.svg",
+        "sha256": "446e224203ec5ced1768242aa4fb69b1f23bb40eed3a7bd1e6b7077faa501326"
+      },
+      {
+        "direction": "C",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-signage-DRAFT.svg",
+        "sha256": "5799886ec834d240abd13e583254dc12b8a2dfd91fa0e1cbf3320745414121c6"
+      },
+      {
+        "direction": "C",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-paper-DRAFT.svg",
+        "sha256": "e232cc37d1e0c27018c05d1fc894c6d55595387d1a5b2c98af52bcded614797e"
+      },
+      {
+        "direction": "D",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "d-open-counter-wordmark-DRAFT.svg",
+        "sha256": "c782e7139da7a2542c704b31c087d373eb4fb8646b5d19e203d1d0e58767f28a"
+      },
+      {
+        "direction": "D",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "d-open-counter-wordmark-reverse-DRAFT.svg",
+        "sha256": "1891be4e11c7b06f82f88cb456541087bb30a98b1218f86793d4329e24977186"
+      },
+      {
+        "direction": "D",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "d-open-counter-horizontal-DRAFT.svg",
+        "sha256": "285a058d04ffbfdef6912f51c50c3472f6f3b3b24b3527758cf16476503373a3"
+      },
+      {
+        "direction": "D",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "d-open-counter-stacked-DRAFT.svg",
+        "sha256": "1a2db07a794ab346c6574c53473d8856945a4435584ccf05c61319ded2dfc176"
+      },
+      {
+        "direction": "D",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "d-open-counter-signage-DRAFT.svg",
+        "sha256": "28d7978fec60bbf4020549f0955a817ce50e7f9f704cb1f6ac2140580a6a5dda"
+      },
+      {
+        "direction": "D",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "d-open-counter-paper-DRAFT.svg",
+        "sha256": "a7aed68fc17e0b4a7127b6aab8c72ef3b38e572e29c3741ed50b1aeb2e77776f"
+      },
+      {
+        "direction": "E",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "e-opening-measure-symbol-DRAFT.svg",
+        "sha256": "07cc58dc77294899f32e316e6fddea79882a7eb1907e5b3d743466e4ddff0695"
+      },
+      {
+        "direction": "E",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "e-opening-measure-symbol-reverse-DRAFT.svg",
+        "sha256": "b86dc4b8b53c1c2954590b453cd2eaa4ec926406cbf0826fcda00c02d283ca60"
+      },
+      {
+        "direction": "E",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "e-opening-measure-horizontal-DRAFT.svg",
+        "sha256": "7c1e7eb1baa355692d4e3bc86c341ab3aaa9b1a298c17f97180c83b7ad40883b"
+      },
+      {
+        "direction": "E",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "e-opening-measure-stacked-DRAFT.svg",
+        "sha256": "9cc64e384bd32a69e57d5c88f75b5d928d7520fd12c62fa4241327e767ca6d4b"
+      },
+      {
+        "direction": "E",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "e-opening-measure-signage-DRAFT.svg",
+        "sha256": "08d99cc17ba04950d382dac474e2995bef1ab73a668b8b44dea185e616c117f4"
+      },
+      {
+        "direction": "E",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "e-opening-measure-paper-DRAFT.svg",
+        "sha256": "2509e5a7ce6f7416d14754c94c6a1acb7f663712c372cdc4832ff565fb2c9967"
+      }
+    ],
+    "localReferenceLinksChecked": [
+      "http://127.0.0.1:8767/directions/a-sacred-space/a1-open-court.svg",
+      "http://127.0.0.1:8767/directions/a-sacred-space/a2-resonant-chamber.svg",
+      "http://127.0.0.1:8767/directions/a-sacred-space/a3-common-centre.svg",
+      "http://127.0.0.1:8767/directions/a-sacred-space/developed-v4.svg",
+      "http://127.0.0.1:8767/directions/b-dwelling-expression/developed-v2.svg",
+      "http://127.0.0.1:8767/directions/b-dwelling-expression/initial-B3-breathing-court.svg",
+      "http://127.0.0.1:8767/directions/b-dwelling-expression/new-B5-common-bearing.svg",
+      "http://127.0.0.1:8767/directions/b-dwelling-expression/initial-B14-passing-shelter.svg",
+      "http://127.0.0.1:8767/directions/c-ecclesial-emblem/initials/c1-common-bond.svg",
+      "http://127.0.0.1:8767/directions/c-ecclesial-emblem/initials/c2-response-medallion.svg",
+      "http://127.0.0.1:8767/directions/c-ecclesial-emblem/initials/c3-coupled-banner.svg",
+      "http://127.0.0.1:8767/directions/d-custom-typography/sketches/D1-open-counter.svg",
+      "http://127.0.0.1:8767/directions/d-custom-typography/sketches/D2-joined-voices.svg",
+      "http://127.0.0.1:8767/directions/d-custom-typography/sketches/D3-inscribed-response.svg",
+      "http://127.0.0.1:8767/directions/e-cadenced-reimagined/e1-returning-court-v1.svg",
+      "http://127.0.0.1:8767/directions/e-cadenced-reimagined/e2-one-fold-v1.svg",
+      "http://127.0.0.1:8767/directions/e-cadenced-reimagined/e3-answering-surfaces-v1.svg",
+      "http://127.0.0.1:8767/directions/e-cadenced-reimagined/e4-opening-measure-v1.svg",
+      "http://127.0.0.1:8767/directions/e-cadenced-reimagined/e5-processional-fold-v1.svg",
+      "http://127.0.0.1:8767/directions/e-cadenced-reimagined/e6-common-vault-v1.svg",
+      "http://127.0.0.1:8767/source/rccg-emblem-manifest.md",
+      "http://127.0.0.1:8767/source/cadenced-wall-context.md",
+      "http://127.0.0.1:8767/source/user-brief.md",
+      "http://127.0.0.1:8767/source/art-direction.md",
+      "http://127.0.0.1:8767/source/research/identity-strategy.md",
+      "http://127.0.0.1:8767/source/research/scriptural-foundations.md",
+      "http://127.0.0.1:8767/README.md",
+      "http://127.0.0.1:8767/exports/tabernacle-creative-review-05.pdf",
+      "http://127.0.0.1:8767/exports/creative-review-05-editable.zip"
+    ],
+    "offlineDownloads": [
+      {
+        "direction": "A",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "a-open-crossing-symbol-DRAFT.svg",
+        "sha256": "0fdca06725e35f4bf830820cc37c25cb897eb431bf873ca16bddde329fc4f11c"
+      },
+      {
+        "direction": "A",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "a-open-crossing-symbol-reverse-DRAFT.svg",
+        "sha256": "49891a4335709166d1068b4c9db9a094b56d17153e05be6a538b52fe4a80f4e3"
+      },
+      {
+        "direction": "A",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "a-open-crossing-horizontal-DRAFT.svg",
+        "sha256": "f7026310e06ac4e8d00ca8991434365ba1933a9844aee5dda36c47669dae68fb"
+      },
+      {
+        "direction": "A",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "a-open-crossing-stacked-DRAFT.svg",
+        "sha256": "2d59904b2f747ade5140ebe41685a5d741f78bd882afd11a366f44d71ee96ac7"
+      },
+      {
+        "direction": "A",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "a-open-crossing-signage-DRAFT.svg",
+        "sha256": "d178bfd706dd76a651445f7c01478c8487ffeb4eb7f9fef6ad8432e363420e04"
+      },
+      {
+        "direction": "A",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "a-open-crossing-paper-DRAFT.svg",
+        "sha256": "cf7e78bd129966206826634bc754fcdc662603071fe0d5b42a997fd75dfaee16"
+      },
+      {
+        "direction": "B",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "b-passing-shelter-symbol-DRAFT.svg",
+        "sha256": "1218868f309bae4979430efd71ab48ea4741c36775d4d35b2c55133cfc1835ee"
+      },
+      {
+        "direction": "B",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "b-passing-shelter-symbol-reverse-DRAFT.svg",
+        "sha256": "4e60d2efa02bc5f1d2d5886abac3caf78aa61bdab82791717721b62f336b4001"
+      },
+      {
+        "direction": "B",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "b-passing-shelter-horizontal-DRAFT.svg",
+        "sha256": "339b1a2091cb9f6a62264cf1c7100437c81a8bded1f5797d8cd7138c2b3601e5"
+      },
+      {
+        "direction": "B",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "b-passing-shelter-stacked-DRAFT.svg",
+        "sha256": "28f6d9664feba9ca073fa9f566af91e32ac07026e7fd4b08f58789a688478e30"
+      },
+      {
+        "direction": "B",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "b-passing-shelter-signage-DRAFT.svg",
+        "sha256": "a16ffa4193fbb5098a52d288c34a1855319525853f45ccc78239b6db461fdf08"
+      },
+      {
+        "direction": "B",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "b-passing-shelter-paper-DRAFT.svg",
+        "sha256": "14062031b14488b2d4ef9d19e4dd59a379b3e77060c5b6d2b72899046d39d3ec"
+      },
+      {
+        "direction": "C",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-symbol-DRAFT.svg",
+        "sha256": "f821ff1877f15cb192649e8ccb80f8dce7c62f611975c5ab16e964ef42603d98"
+      },
+      {
+        "direction": "C",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "c-the-joined-roundel-symbol-reverse-DRAFT.svg",
+        "sha256": "2941d661367086debbda412ba81c852facf0f09768128608252fe390a8c635ea"
+      },
+      {
+        "direction": "C",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-horizontal-DRAFT.svg",
+        "sha256": "b0f88fb118368947312f0bca7948b6b1c02a7db860ceb66ede76002ae0cee7d7"
+      },
+      {
+        "direction": "C",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-stacked-DRAFT.svg",
+        "sha256": "446e224203ec5ced1768242aa4fb69b1f23bb40eed3a7bd1e6b7077faa501326"
+      },
+      {
+        "direction": "C",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-signage-DRAFT.svg",
+        "sha256": "5799886ec834d240abd13e583254dc12b8a2dfd91fa0e1cbf3320745414121c6"
+      },
+      {
+        "direction": "C",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "c-the-joined-roundel-paper-DRAFT.svg",
+        "sha256": "e232cc37d1e0c27018c05d1fc894c6d55595387d1a5b2c98af52bcded614797e"
+      },
+      {
+        "direction": "D",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "d-open-counter-wordmark-DRAFT.svg",
+        "sha256": "c782e7139da7a2542c704b31c087d373eb4fb8646b5d19e203d1d0e58767f28a"
+      },
+      {
+        "direction": "D",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "d-open-counter-wordmark-reverse-DRAFT.svg",
+        "sha256": "1891be4e11c7b06f82f88cb456541087bb30a98b1218f86793d4329e24977186"
+      },
+      {
+        "direction": "D",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "d-open-counter-horizontal-DRAFT.svg",
+        "sha256": "285a058d04ffbfdef6912f51c50c3472f6f3b3b24b3527758cf16476503373a3"
+      },
+      {
+        "direction": "D",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "d-open-counter-stacked-DRAFT.svg",
+        "sha256": "1a2db07a794ab346c6574c53473d8856945a4435584ccf05c61319ded2dfc176"
+      },
+      {
+        "direction": "D",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "d-open-counter-signage-DRAFT.svg",
+        "sha256": "28d7978fec60bbf4020549f0955a817ce50e7f9f704cb1f6ac2140580a6a5dda"
+      },
+      {
+        "direction": "D",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "d-open-counter-paper-DRAFT.svg",
+        "sha256": "a7aed68fc17e0b4a7127b6aab8c72ef3b38e572e29c3741ed50b1aeb2e77776f"
+      },
+      {
+        "direction": "E",
+        "kind": "primary",
+        "reverse": false,
+        "filename": "e-opening-measure-symbol-DRAFT.svg",
+        "sha256": "07cc58dc77294899f32e316e6fddea79882a7eb1907e5b3d743466e4ddff0695"
+      },
+      {
+        "direction": "E",
+        "kind": "primary",
+        "reverse": true,
+        "filename": "e-opening-measure-symbol-reverse-DRAFT.svg",
+        "sha256": "b86dc4b8b53c1c2954590b453cd2eaa4ec926406cbf0826fcda00c02d283ca60"
+      },
+      {
+        "direction": "E",
+        "kind": "horizontal",
+        "reverse": false,
+        "filename": "e-opening-measure-horizontal-DRAFT.svg",
+        "sha256": "7c1e7eb1baa355692d4e3bc86c341ab3aaa9b1a298c17f97180c83b7ad40883b"
+      },
+      {
+        "direction": "E",
+        "kind": "stacked",
+        "reverse": false,
+        "filename": "e-opening-measure-stacked-DRAFT.svg",
+        "sha256": "9cc64e384bd32a69e57d5c88f75b5d928d7520fd12c62fa4241327e767ca6d4b"
+      },
+      {
+        "direction": "E",
+        "kind": "signage",
+        "reverse": false,
+        "filename": "e-opening-measure-signage-DRAFT.svg",
+        "sha256": "08d99cc17ba04950d382dac474e2995bef1ab73a668b8b44dea185e616c117f4"
+      },
+      {
+        "direction": "E",
+        "kind": "paper",
+        "reverse": false,
+        "filename": "e-opening-measure-paper-DRAFT.svg",
+        "sha256": "2509e5a7ce6f7416d14754c94c6a1acb7f663712c372cdc4832ff565fb2c9967"
+      }
+    ],
+    "browser": "154.0.8037.57",
+    "networkRequestsOutsideReview": [],
+    "offlineRequestsAttempted": [],
+    "consolePageErrors": [],
+    "exportSvgCount": 30,
+    "deliveryArtifactSha256": {
+      "app.js": "f74713f633f0ced05d42b3c4644c70ec612c9f63f87e276f2b7d484d5a955438",
+      "data.js": "68da6ab6ff1087531b49f33851b4019535eaba735ea78132d379ca4ee7650a19",
+      "exports/A-open-crossing-horizontal-DRAFT.svg": "cad3c4d00d05efa56bb4ea06885a347fd352a68acb412289cf55d4a7beecd5da",
+      "exports/A-open-crossing-paper-DRAFT.svg": "2778ca7aee4bd45049deda743e88474e7f56852d83bdc8d2a4d2b0aab7700687",
+      "exports/A-open-crossing-primary-DRAFT.svg": "44cfc351d2124835d7f0475ba3370276f6feaaf9cb4085d8eb5807734ec2b5bc",
+      "exports/A-open-crossing-reverse-DRAFT.svg": "4bc5dbdcae50a9812924664ee5137e6c87c068ff819ad7edcddb0c7501c2ae4a",
+      "exports/A-open-crossing-signage-DRAFT.svg": "7d92dc1e03b66bf5e3d3f16daf4b4f30bd3bcae561920662f408e037e085ad41",
+      "exports/A-open-crossing-stacked-DRAFT.svg": "38cfdb240d166a451f699935cfc8868ce496bbb303c118094daf15c9fe4c559c",
+      "exports/B-passing-shelter-horizontal-DRAFT.svg": "d09312309249eff2c4bdf7b1ee0745dd4118afb3dd82156cb2166048ffe42bc8",
+      "exports/B-passing-shelter-paper-DRAFT.svg": "c8450318bff09f0dd141349d31c9cdf3056a42f2a7c92bcb3d1a1aab4dfae76d",
+      "exports/B-passing-shelter-primary-DRAFT.svg": "c136d08ca576760f7676709ea984ddb1caf37ce61304e08a61da382000ba8268",
+      "exports/B-passing-shelter-reverse-DRAFT.svg": "29f62262669e9a33ee4596bff51810f9e50397032205b1859f8c2f744d3ed6c9",
+      "exports/B-passing-shelter-signage-DRAFT.svg": "3e484acbd3ee5fd41b0806f8747dc2d3f681bde66dd3ead3082476b555e4b154",
+      "exports/B-passing-shelter-stacked-DRAFT.svg": "666dc03d824fa6f419b609a4bbc404821ac07463c1442bab475c6cda1df62ff2",
+      "exports/C-the-joined-roundel-horizontal-DRAFT.svg": "090174dd69944abc30535f39558e00c1c13f1faf62a7e765f1c10573abb56dec",
+      "exports/C-the-joined-roundel-paper-DRAFT.svg": "89d8369e8d5c40a8c73706bfa7ee104e2bf2622bbb43cd6062bc6ac5b1a21ca1",
+      "exports/C-the-joined-roundel-primary-DRAFT.svg": "b8daabd851ca10449ee0d0c302df052a0357279278d69020cd35f0452cb11e11",
+      "exports/C-the-joined-roundel-reverse-DRAFT.svg": "75e83b888229c5f171aadb4764854815af7d9cb7497c1751cdf60f4e9dedad6c",
+      "exports/C-the-joined-roundel-signage-DRAFT.svg": "bb9557d57dfe731781ea9aebc586639fedea68d469fa79f67efb472827e7bb03",
+      "exports/C-the-joined-roundel-stacked-DRAFT.svg": "34e6d2f616586d020d6dfc16e20de0124f27369529501e49e805ec073a9bf2a5",
+      "exports/D-open-counter-horizontal-DRAFT.svg": "1005677382640bd3aba5cc49bb43726aa211a78641719b16721938f0e24f4ea3",
+      "exports/D-open-counter-paper-DRAFT.svg": "a1f571cd0ef3eaa1f1745ff32c6985a2fad9fa79e8403c0af7930688d0bb9b74",
+      "exports/D-open-counter-primary-DRAFT.svg": "653f3c97708094f1abcedecf401e36cbc9195485c9dd5d8c93e576b6a467a560",
+      "exports/D-open-counter-reverse-DRAFT.svg": "e096b25fd1d6cff0a05228576e49ef097c88b27057f6fa1f9ef8f3efe5d58f4b",
+      "exports/D-open-counter-signage-DRAFT.svg": "827151d84b471ab96ea0a38da83363155b53252324bfce4cf3a52a35664fc156",
+      "exports/D-open-counter-stacked-DRAFT.svg": "20ea413afa37a7522472a1d13476e4d5238660b96e27fa2a4e09d255bf30945e",
+      "exports/E-opening-measure-horizontal-DRAFT.svg": "451317188426426b543ea603258b2b8e255c7969cd796557c1a33cfa562f1d29",
+      "exports/E-opening-measure-paper-DRAFT.svg": "b84fea635c1fa1e095a3ac725cee37ff652be3957f109b1525c7f2deaa85a116",
+      "exports/E-opening-measure-primary-DRAFT.svg": "9befb3f4dfaf907e428094bb7f6d5bd36f835bf0670c035b7a108a53e602d8f3",
+      "exports/E-opening-measure-reverse-DRAFT.svg": "0f598e6cd444088c419c48f23a3d8fd97d130bb1f697816790b3d9be8e5fae1c",
+      "exports/E-opening-measure-signage-DRAFT.svg": "965e4c452cbe8fbd382532b744031b3481278f66d38ded49d400e430c0a388a6",
+      "exports/E-opening-measure-stacked-DRAFT.svg": "5ad98b63c5c439027fa983eca34e8a9ea2e0a7a591f6a9a2bfcab41dc224b2da",
+      "exports/creative-review-05-editable.zip": "0ce8a144654a53cb83194ec1a24a47d6e63ac8ce00f088ad6d9f22c796db7cf8",
+      "exports/creative-review-05-overview.png": "42baaec219517d8f7581ec16c3f0ca9254c53ce28e92d3b804e32eaa8e5d92ee",
+      "exports/direction-a.png": "180b4050bb84b24c8edf0d44fc255c0d8a34303b7808ad8530a69ead7a6f5daf",
+      "exports/direction-b.png": "adea1121dba0e7ff84dc00da00e79f7a40f29b1bda7b6975b5f6c51e0e153b79",
+      "exports/direction-c.png": "cdf07d5792d3492016033a9275cf8567ce56fdccd0982813048343f86ef20721",
+      "exports/direction-d.png": "16f9481ba2e07f1fc99eb36e0953067aba0b474deead15f98754727355b751ab",
+      "exports/direction-e.png": "bf9785ec35d2ded535e1d7b6586973e777430550e2b8350c2384f29551ce9929",
+      "exports/package-manifest.json": "8ef0b9c39932f91b308c689779e6c1bbe388c2efd5f1811bc659051da8b9becc",
+      "exports/review-data.json": "ed7c2c5c56a2ce58761f76c5928ca5d62b274f507775b07e0cfb026435ce52af",
+      "exports/tabernacle-creative-review-05.html": "239882a9066a1c18d826f26657a60d4d7073d2bc764a635d33e38e49e9dff2fc",
+      "exports/tabernacle-creative-review-05.pdf": "109bee22d3f7c5a78e4b130632bb69bc39358be1b832859c01b63ced5cfd5834",
+      "index.html": "e5381af115b661bb41dfc2d5ecb31d6363c819ee38060338d4b93ddf1c2c5953",
+      "styles.css": "2f049969e4473f641be763c8f5510b4f6a8f7158d0af3e5c5010efe42de1a36b",
+      "tools/verify_review.py": "e253e78d4a18f0218ac4f6b822bb65935f1380a5202c531e1ca1a8d0242fef5e"
+    }
+  },
+  "failure": null,
+  "limits": "Functional delivery and source-fidelity checks only. Human assessment of artistic quality, meaningful symbolism, unintended associations and small-size recognition remains necessary. No identity approval, theological endorsement, originality guarantee or trademark clearance is implied."
+}

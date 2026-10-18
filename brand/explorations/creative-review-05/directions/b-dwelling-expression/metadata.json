@@ -1,0 +1,62 @@
+{
+  "direction": "B",
+  "title": "Dwelling and Expression",
+  "sketches": [
+    {
+      "id": "B-R1",
+      "name": "Opening Offering",
+      "idea": "An enclosing wall turns upward at its opening, so the shelter itself begins to lift.",
+      "approach": "A continuous curved enclosure with two rising terminals.",
+      "sourceFile": "directions/b-dwelling-expression/developed-v2.svg",
+      "reason": "Rejected. The construction remains a generic U, cup or open ring; optical polishing cannot supply the missing distinction."
+    },
+    {
+      "id": "B3",
+      "name": "Breathing Court",
+      "idea": "The roof of a shared place turns outward as the room opens.",
+      "approach": "A square court with an extended, lifting upper boundary.",
+      "sourceFile": "directions/b-dwelling-expression/initial-B3-breathing-court.svg",
+      "reason": "Rejected. The room is legible, but the result resembles an app container or folder; the moving corner does too little expressive work."
+    },
+    {
+      "id": "B5",
+      "name": "Common Bearing",
+      "idea": "Two counter-moving surfaces meet around a common interval.",
+      "approach": "Broad transverse bands with a central crossing.",
+      "sourceFile": "directions/b-dwelling-expression/new-B5-common-bearing.svg",
+      "reason": "Rejected. The familiar bow-tie or infinity construction supplies movement but does not establish a convincing sheltered space."
+    },
+    {
+      "id": "B14",
+      "name": "Passing Shelter",
+      "idea": "A sheltering surface turns inward around a shared interval, then passes outward in uplift.",
+      "approach": "An integrated returning fold and an upper continuation crossing over one another.",
+      "sourceFile": "directions/b-dwelling-expression/initial-B14-passing-shelter.svg",
+      "reason": "Developed. The return belongs to the same sheltering surface, while the crossing gives the whole a distinct outward gesture. Broad planes offer more expressive character than the earlier ring and box constructions."
+    }
+  ],
+  "developed": {
+    "name": "Passing Shelter",
+    "sourceFile": "directions/b-dwelling-expression/primary.svg",
+    "chosenSketchId": "B14",
+    "idea": "A sheltering surface turns inward around a shared interval, then passes outward in uplift.",
+    "visible": "One broad sweep, an integral lower return, and a rising continuation separated by an open over-under cut.",
+    "meaning": "The same movement both holds a shared space and opens outward. Dwelling and collective response are proposed through the behavior of the surfaces, without adding a separate praise symbol.",
+    "construction": [
+      "A broad curved surface shelters the long interior interval and turns back into its lower boundary; the return is integral, with a softened left bend rather than a detached crescent.",
+      "A rising continuation passes behind the main sweep. Its 45-degree cut keeps the crossing visibly open rather than relying on a tangent pinch.",
+      "The two lower terminals use related 105-degree cuts. Nineteen path anchors describe the black proposal, with no strokes, masks, filters or raster elements."
+    ],
+    "risk": "A wave, bird or folded material reads more strongly unaided than a dwelling. The held interval and the passing gesture carry the intended integration, but the church association depends on the complete parish name. It is less explicitly Christian than Direction A or C.",
+    "smallSize": "Rendered and inspected at native 16, 24, 32 and 64 pixels in black and reverse. At 24 pixels the return, shared interval and rising continuation remain distinct. At 16 pixels the silhouette and uplift survive, while the interior compresses and the bird or wave reading strengthens. Use 24 pixels or larger when the spatial idea matters.",
+    "longevity": "The monochrome silhouette and broad planes avoid dependence on effects or fine detail. Long-term suitability depends on whether the congregation finds the material gesture sufficiently specific to its identity.",
+    "selectionReason": "This is the most expressive B construction and differs visibly from the static chamber, roundel, wordmark and architectural cadence in the other directions. It advances the interlaced-surface premise while replacing the detached smile/base, pointed lower-left sail and accidental crossing slivers.",
+    "iterations": [
+      "directions/b-dwelling-expression/passing-v1.svg",
+      "directions/b-dwelling-expression/passing-v3.svg",
+      "directions/b-dwelling-expression/passing-v4.svg",
+      "directions/b-dwelling-expression/passing-v5.svg",
+      "directions/b-dwelling-expression/passing-v6.svg"
+    ]
+  }
+}
