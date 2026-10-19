@@ -18,7 +18,19 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Praise integration 07 — latest visual test
+## Team comparison 08 — latest development
+
+**DRAFT — NOT FOR PUBLICATION.** Shared Rhythm is the user's preferred direction for development. Open Praise is a distinct new letter-based proposal for comparison; neither is a final identity approval.
+
+![Shared Rhythm and Open Praise team comparison](brand/explorations/team-pair-08/exports/two-directions.png)
+
+- **[Open the two-direction comparison](brand/explorations/team-pair-08/exports/two-directions.png)**
+- **[Open the three-page team PDF](brand/explorations/team-pair-08/exports/team-review-08.pdf)**
+- [Meanings, limitations, editable SVGs and sources](brand/explorations/team-pair-08/README.md)
+
+Both options have complete-name horizontal/stacked lockups, black/reverse views, and inspected small-size proofs. The reference logos informed visual principles; their artwork was not copied. Typography remains provisional, and AGENTS.md and the RCCG identity skill are unchanged.
+
+## Praise integration 07 — preceding visual test
 
 **DRAFT — NOT FOR PUBLICATION.** [See the before/after comparison](brand/explorations/praise-study-07/exports/praise-comparison.png), [open the PDF](brand/explorations/praise-study-07/exports/praise-comparison.pdf), or [read the short assessment](brand/explorations/praise-study-07/README.md). Sketches 1, 4 and 5 test worship rhythm or musical detail within their forms, with **Tabernacle of Praise** beneath each. The string-like centre in sketch 5 communicates music most clearly; the other tests remain more ambiguous.
 
