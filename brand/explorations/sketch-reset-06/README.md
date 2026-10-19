@@ -10,6 +10,8 @@ The chat image viewer showed blank placeholders for the user. These ordinary PNG
 
 **[Open all three boards as a PDF](exports/sketch-boards-06.pdf).** The PNGs contain the original image pixels unchanged. The PDF places one image on each page for easier viewing; it does not change the designs.
 
+Follow-up: **[See Praise integrated into sketches 1, 4 and 5](../praise-study-07/exports/praise-comparison.png)**, with the complete name and before/after views. [Notes and PDF](../praise-study-07/README.md).
+
 These are working drawings, not a presentation of three selected directions. The [visual edit log](source/edit-log.md) records the first cuts: most rising-panel, map, sail and loop constructions need to be discarded. The folded P and the open-facing-fold premise merit further drawing. The full-name lettering in `alternatives/` is an unfinished vector experiment, with previous versions retained.
 
 Read the [reset brief](source/brief.md) for the agreed scope. Original S3 reference artwork, AI-generated ideation, editable lettering SVGs and source scripts are preserved in their respective folders. AI-generated boards are exploratory art, not copied external inspiration or production logo masters. No palette, final typography, official RCCG lockup or brand standards are approved. AGENTS.md and the RCCG identity skill are unchanged.

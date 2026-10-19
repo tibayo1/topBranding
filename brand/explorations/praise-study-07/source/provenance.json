@@ -1,0 +1,13 @@
+{
+  "status": "DRAFT \u2014 NOT FOR PUBLICATION",
+  "method": "AI image edit of the original six-sketch board; exploratory raster comparison, not production vectors",
+  "reference": "../../sketch-reset-06/exports/02-new-construction-roughs.png",
+  "prompt": "image-prompt.txt",
+  "generated_source": "exec-cdb5a4d2-d9c7-43e7-b9e5-13513ded2c0e.png",
+  "output": "../exports/praise-comparison.png",
+  "sha256": "7cc4cf69d8c30893d3f5a5593ccd83bf51e34372f5eff9a77a4b0444aca7b856",
+  "dimensions": [
+    1536,
+    1024
+  ]
+}

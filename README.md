@@ -18,7 +18,13 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Sketch reset 06 — latest rough drawings
+## Praise integration 07 — latest visual test
+
+**DRAFT — NOT FOR PUBLICATION.** [See the before/after comparison](brand/explorations/praise-study-07/exports/praise-comparison.png), [open the PDF](brand/explorations/praise-study-07/exports/praise-comparison.pdf), or [read the short assessment](brand/explorations/praise-study-07/README.md). Sketches 1, 4 and 5 test worship rhythm or musical detail within their forms, with **Tabernacle of Praise** beneath each. The string-like centre in sketch 5 communicates music most clearly; the other tests remain more ambiguous.
+
+![Praise integration comparison for sketches 1, 4 and 5](brand/explorations/praise-study-07/exports/praise-comparison.png)
+
+## Sketch reset 06 — rough drawings
 
 **DRAFT — NOT FOR PUBLICATION. Raw exploration includes rejected ideas; no shortlist or identity is approved.**
 
