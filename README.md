@@ -18,7 +18,13 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Creative review 05 — current exploration
+## Sketch reset 06 — latest rough drawings
+
+**DRAFT — NOT FOR PUBLICATION. Raw exploration includes rejected ideas; no shortlist or identity is approved.**
+
+The chat image previews did not load for the user. Open the saved files directly: [Cadenced Wall roughs A–D](brand/explorations/sketch-reset-06/exports/01-cadenced-roughs.png), [new construction roughs 1–6](brand/explorations/sketch-reset-06/exports/02-new-construction-roughs.png), [lettering roughs A–F](brand/explorations/sketch-reset-06/exports/03-lettering-roughs.png), or [all three boards as a PDF](brand/explorations/sketch-reset-06/exports/sketch-boards-06.pdf). [Working notes and preserved sources](brand/explorations/sketch-reset-06/README.md).
+
+## Creative review 05 — previous exploration
 
 **DRAFT — NOT FOR PUBLICATION. Five developed monochrome directions; no logo, palette or typography is approved.**
 

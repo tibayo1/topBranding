@@ -1,0 +1,21 @@
+{
+  "status": "DRAFT \u2014 NOT FOR PUBLICATION",
+  "note": "Raw ideation boards include rejected sketches. This is not a selected logo set.",
+  "images": [
+    {
+      "file": "01-cadenced-roughs.png",
+      "sha256": "cba5d88cb282f163c27f30c03e3e98d7675bad60fb035b3b945c1bd6d2c4d16a",
+      "bytes": 943980
+    },
+    {
+      "file": "02-new-construction-roughs.png",
+      "sha256": "35738f0cb0a05d4e46bd22d1469c6a1076f73ff9b4a9a39549b7457209f1740f",
+      "bytes": 1120541
+    },
+    {
+      "file": "03-lettering-roughs.png",
+      "sha256": "db1c526272e9ca5264a1538981398bbfaa4742555d72623c30fcaa74388c4e5a",
+      "bytes": 1479481
+    }
+  ]
+}
