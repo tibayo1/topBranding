@@ -1,0 +1,1473 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "approval": false,
+  "palettes": [
+    {
+      "id": "navy",
+      "number": "01",
+      "name": "Navy & gold",
+      "family": "Navy + Gold + Ivory",
+      "mood": "Timeless · elegant · dignified",
+      "primary": "#14263D",
+      "secondary": "#946B2E",
+      "accent": "#C9A467",
+      "neutral": "#F6F1E8",
+      "names": {
+        "primary": "Midnight navy",
+        "secondary": "Antique gold",
+        "accent": "Pale warm gold",
+        "neutral": "Ivory"
+      },
+      "note": "A dignified, dependable foundation. The familiar church and luxury associations place more responsibility on the mark to feel distinctive.",
+      "print": "Strong dark-on-light reproduction. Gold is a flat screen color here; foil or metallic ink would be a separate material decision."
+    },
+    {
+      "id": "forest",
+      "number": "02",
+      "name": "Forest & cream",
+      "family": "Forest Green + Warm Gold + Cream",
+      "mood": "Welcoming · calm · grounded",
+      "primary": "#1C3D32",
+      "secondary": "#8B6838",
+      "accent": "#C2A069",
+      "neutral": "#F5F0E4",
+      "names": {
+        "primary": "Deep forest",
+        "secondary": "Warm bronze",
+        "accent": "Warm gold",
+        "neutral": "Cream"
+      },
+      "note": "Warm and grounded, with a generous feeling of welcome. It can lean toward heritage, nature, or hospitality rather than a distinctive contemporary church.",
+      "print": "A useful everyday one-color foundation. Proof cream papers and dark green inks together; screen warmth is not a paper specification."
+    },
+    {
+      "id": "teal",
+      "number": "03",
+      "name": "Teal & sand",
+      "family": "Deep Teal + Sand + Soft Gold",
+      "mood": "Contemporary · refined · distinctive",
+      "primary": "#10494C",
+      "secondary": "#D9CBB4",
+      "accent": "#B69255",
+      "neutral": "#F6F3EC",
+      "names": {
+        "primary": "Deep teal",
+        "secondary": "Sand",
+        "accent": "Soft gold",
+        "neutral": "Warm porcelain"
+      },
+      "note": "The strongest balance of contemporary distinction and tactile warmth. Sand softens the cool foundation, while gold adds a measured ceremonial note.",
+      "print": "Test teal on the intended stock and sign material. Sand works as a supporting surface with dark teal type; it is not a text color on porcelain."
+    },
+    {
+      "id": "burgundy",
+      "number": "04",
+      "name": "Burgundy & stone",
+      "family": "Burgundy + Muted Gold + Light Stone",
+      "mood": "Warm · expressive · ceremonial",
+      "primary": "#562C3B",
+      "secondary": "#96784D",
+      "accent": "#C7AA7D",
+      "neutral": "#F1EDE5",
+      "names": {
+        "primary": "Deep burgundy",
+        "secondary": "Muted gold",
+        "accent": "Champagne gold",
+        "neutral": "Light stone"
+      },
+      "note": "Expressive and ceremonial, with an intimate warmth. It feels more solemn than the other options; potentially useful seasonal territory.",
+      "print": "Deep burgundy can gain density in print. Proof it on the real stock; keep small text on the high-contrast primary/neutral pair."
+    },
+    {
+      "id": "charcoal",
+      "number": "05",
+      "name": "Charcoal & copper",
+      "family": "Charcoal + Ivory + Copper Accent",
+      "mood": "Sophisticated · minimal · versatile",
+      "primary": "#282C32",
+      "secondary": "#616A74",
+      "accent": "#C78362",
+      "neutral": "#F5F0E8",
+      "names": {
+        "primary": "Warm charcoal",
+        "secondary": "Slate",
+        "accent": "Muted copper",
+        "neutral": "Soft ivory"
+      },
+      "note": "The most neutral and versatile system. Copper supplies warmth; recognition depends heavily on the symbol and wordmark rather than the hue.",
+      "print": "A practical signage and monochrome foundation. Copper is a flat accent, not a promise of a metallic finish."
+    },
+    {
+      "id": "mono",
+      "number": "00",
+      "name": "Monochrome control",
+      "family": "Black + White",
+      "mood": "Shape before color",
+      "primary": "#000000",
+      "secondary": "#727272",
+      "accent": "#FFFFFF",
+      "neutral": "#FFFFFF",
+      "names": {
+        "primary": "Black",
+        "secondary": "Gray",
+        "accent": "White",
+        "neutral": "White"
+      },
+      "note": "Control only. Revisit the underlying form without any palette association."
+    }
+  ],
+  "directions": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "inkBounds": [
+        16.0,
+        18.0,
+        240.0,
+        217.0
+      ]
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "inkBounds": [
+        28.0,
+        28.0,
+        228.0,
+        223.0
+      ]
+    }
+  ],
+  "comparison": "Overview symbols have equal actual ink height. Practical lockups reduce the denser Open Praise symbol 7% at equal name scale; no nonuniform scaling.",
+  "geometry": "Every source path d, group transform, path transform and fill rule is unchanged from Review 09.",
+  "compact": "16–20 px provisional cuts only. Dark compact art uses neutral ivory/white ink for every palette; larger dark symbols use the accent.",
+  "contrastNote": "WCAG relative-luminance ratios describe these actual flat screen pairings. Logo marks are exempt from WCAG text contrast; ordinary body copy still needs an appropriate 4.5:1 pairing. Ratios do not prove symbol or letter recognition.",
+  "sources": {
+    "palettes": {
+      "path": "brand/explorations/color-development-10/source/palettes.json",
+      "sha256": "50512faa79a3899240153edde077e08be6cd613d5f377dfbf955e38c514c102e"
+    },
+    "review09Manifest": {
+      "path": "brand/explorations/identity-development-09/exports/development-artwork.json",
+      "sha256": "bef4809a636b557890fbe58bdd4a31ea0144dc3c4c0c9cf762cf31963bc9789a"
+    },
+    "shared-rhythm:primaryFile": {
+      "path": "brand/explorations/identity-development-09/shared-rhythm/primary.svg",
+      "sha256": "2ace4fe86078526e6bb0a75d2e2a315944cf30de1ba9d2821e0b5ca25ddc41ca"
+    },
+    "shared-rhythm:compactFile": {
+      "path": "brand/explorations/identity-development-09/shared-rhythm/compact.svg",
+      "sha256": "a3301366062f4097508962ffb1d0a8778e11b34ee307f4a387ad0de2f6fc8621"
+    },
+    "shared-rhythm:horizontal": {
+      "path": "brand/explorations/identity-development-09/exports/shared-rhythm-horizontal-DRAFT.svg",
+      "sha256": "fbea86ed1c1a3a4ea5fd13bce6a84925c2870287422d46596863dc29bd92131f"
+    },
+    "shared-rhythm:stacked": {
+      "path": "brand/explorations/identity-development-09/exports/shared-rhythm-stacked-DRAFT.svg",
+      "sha256": "b9e2c5a569bb2c1db7057f1fe774e3b65344d5adaa82e89a571c8f21f70991ba"
+    },
+    "open-praise:primaryFile": {
+      "path": "brand/explorations/identity-development-09/open-praise/primary.svg",
+      "sha256": "c94946244aa0e95ffe2f89698ce6014adb14c6b08c3c8bbed8ef64bb9b4f603d"
+    },
+    "open-praise:compactFile": {
+      "path": "brand/explorations/identity-development-09/open-praise/compact.svg",
+      "sha256": "0fa719481613e14c074b327d4c41dec9adb59ac0ae418a1a11ec26e43ccaf0d3"
+    },
+    "open-praise:horizontal": {
+      "path": "brand/explorations/identity-development-09/exports/open-praise-horizontal-DRAFT.svg",
+      "sha256": "59f90ab38a9ed6f9eab3a7e028ceee69690e135d65f9a749c60de184422c363c"
+    },
+    "open-praise:stacked": {
+      "path": "brand/explorations/identity-development-09/exports/open-praise-stacked-DRAFT.svg",
+      "sha256": "66eb993c5128b31df9408810a285671b9525c253f35ed0e51cd6d7c802675b50"
+    }
+  },
+  "entries": [
+    {
+      "paletteId": "navy",
+      "directionId": "shared-rhythm",
+      "mode": "light",
+      "colors": {
+        "background": "#F6F1E8",
+        "symbol": "#14263D",
+        "name": "#14263D",
+        "compact": "#14263D"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/navy/shared-rhythm/light/symbol.svg",
+      "compact": "artwork/navy/shared-rhythm/light/compact.svg",
+      "horizontal": "artwork/navy/shared-rhythm/light/horizontal.svg",
+      "stacked": "artwork/navy/shared-rhythm/light/stacked.svg",
+      "symbolHighContrast": "artwork/navy/shared-rhythm/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "navy",
+      "directionId": "shared-rhythm",
+      "mode": "dark",
+      "colors": {
+        "background": "#14263D",
+        "symbol": "#C9A467",
+        "name": "#F6F1E8",
+        "compact": "#F6F1E8"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/navy/shared-rhythm/dark/symbol.svg",
+      "compact": "artwork/navy/shared-rhythm/dark/compact.svg",
+      "horizontal": "artwork/navy/shared-rhythm/dark/horizontal.svg",
+      "stacked": "artwork/navy/shared-rhythm/dark/stacked.svg",
+      "symbolHighContrast": "artwork/navy/shared-rhythm/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "navy",
+      "directionId": "open-praise",
+      "mode": "light",
+      "colors": {
+        "background": "#F6F1E8",
+        "symbol": "#14263D",
+        "name": "#14263D",
+        "compact": "#14263D"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/navy/open-praise/light/symbol.svg",
+      "compact": "artwork/navy/open-praise/light/compact.svg",
+      "horizontal": "artwork/navy/open-praise/light/horizontal.svg",
+      "stacked": "artwork/navy/open-praise/light/stacked.svg",
+      "symbolHighContrast": "artwork/navy/open-praise/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "navy",
+      "directionId": "open-praise",
+      "mode": "dark",
+      "colors": {
+        "background": "#14263D",
+        "symbol": "#C9A467",
+        "name": "#F6F1E8",
+        "compact": "#F6F1E8"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/navy/open-praise/dark/symbol.svg",
+      "compact": "artwork/navy/open-praise/dark/compact.svg",
+      "horizontal": "artwork/navy/open-praise/dark/horizontal.svg",
+      "stacked": "artwork/navy/open-praise/dark/stacked.svg",
+      "symbolHighContrast": "artwork/navy/open-praise/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "forest",
+      "directionId": "shared-rhythm",
+      "mode": "light",
+      "colors": {
+        "background": "#F5F0E4",
+        "symbol": "#1C3D32",
+        "name": "#1C3D32",
+        "compact": "#1C3D32"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/forest/shared-rhythm/light/symbol.svg",
+      "compact": "artwork/forest/shared-rhythm/light/compact.svg",
+      "horizontal": "artwork/forest/shared-rhythm/light/horizontal.svg",
+      "stacked": "artwork/forest/shared-rhythm/light/stacked.svg",
+      "symbolHighContrast": "artwork/forest/shared-rhythm/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "forest",
+      "directionId": "shared-rhythm",
+      "mode": "dark",
+      "colors": {
+        "background": "#1C3D32",
+        "symbol": "#C2A069",
+        "name": "#F5F0E4",
+        "compact": "#F5F0E4"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/forest/shared-rhythm/dark/symbol.svg",
+      "compact": "artwork/forest/shared-rhythm/dark/compact.svg",
+      "horizontal": "artwork/forest/shared-rhythm/dark/horizontal.svg",
+      "stacked": "artwork/forest/shared-rhythm/dark/stacked.svg",
+      "symbolHighContrast": "artwork/forest/shared-rhythm/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "forest",
+      "directionId": "open-praise",
+      "mode": "light",
+      "colors": {
+        "background": "#F5F0E4",
+        "symbol": "#1C3D32",
+        "name": "#1C3D32",
+        "compact": "#1C3D32"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/forest/open-praise/light/symbol.svg",
+      "compact": "artwork/forest/open-praise/light/compact.svg",
+      "horizontal": "artwork/forest/open-praise/light/horizontal.svg",
+      "stacked": "artwork/forest/open-praise/light/stacked.svg",
+      "symbolHighContrast": "artwork/forest/open-praise/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "forest",
+      "directionId": "open-praise",
+      "mode": "dark",
+      "colors": {
+        "background": "#1C3D32",
+        "symbol": "#C2A069",
+        "name": "#F5F0E4",
+        "compact": "#F5F0E4"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/forest/open-praise/dark/symbol.svg",
+      "compact": "artwork/forest/open-praise/dark/compact.svg",
+      "horizontal": "artwork/forest/open-praise/dark/horizontal.svg",
+      "stacked": "artwork/forest/open-praise/dark/stacked.svg",
+      "symbolHighContrast": "artwork/forest/open-praise/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "teal",
+      "directionId": "shared-rhythm",
+      "mode": "light",
+      "colors": {
+        "background": "#F6F3EC",
+        "symbol": "#10494C",
+        "name": "#10494C",
+        "compact": "#10494C"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/teal/shared-rhythm/light/symbol.svg",
+      "compact": "artwork/teal/shared-rhythm/light/compact.svg",
+      "horizontal": "artwork/teal/shared-rhythm/light/horizontal.svg",
+      "stacked": "artwork/teal/shared-rhythm/light/stacked.svg",
+      "symbolHighContrast": "artwork/teal/shared-rhythm/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "teal",
+      "directionId": "shared-rhythm",
+      "mode": "dark",
+      "colors": {
+        "background": "#10494C",
+        "symbol": "#B69255",
+        "name": "#F6F3EC",
+        "compact": "#F6F3EC"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/teal/shared-rhythm/dark/symbol.svg",
+      "compact": "artwork/teal/shared-rhythm/dark/compact.svg",
+      "horizontal": "artwork/teal/shared-rhythm/dark/horizontal.svg",
+      "stacked": "artwork/teal/shared-rhythm/dark/stacked.svg",
+      "symbolHighContrast": "artwork/teal/shared-rhythm/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "teal",
+      "directionId": "open-praise",
+      "mode": "light",
+      "colors": {
+        "background": "#F6F3EC",
+        "symbol": "#10494C",
+        "name": "#10494C",
+        "compact": "#10494C"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/teal/open-praise/light/symbol.svg",
+      "compact": "artwork/teal/open-praise/light/compact.svg",
+      "horizontal": "artwork/teal/open-praise/light/horizontal.svg",
+      "stacked": "artwork/teal/open-praise/light/stacked.svg",
+      "symbolHighContrast": "artwork/teal/open-praise/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "teal",
+      "directionId": "open-praise",
+      "mode": "dark",
+      "colors": {
+        "background": "#10494C",
+        "symbol": "#B69255",
+        "name": "#F6F3EC",
+        "compact": "#F6F3EC"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/teal/open-praise/dark/symbol.svg",
+      "compact": "artwork/teal/open-praise/dark/compact.svg",
+      "horizontal": "artwork/teal/open-praise/dark/horizontal.svg",
+      "stacked": "artwork/teal/open-praise/dark/stacked.svg",
+      "symbolHighContrast": "artwork/teal/open-praise/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "burgundy",
+      "directionId": "shared-rhythm",
+      "mode": "light",
+      "colors": {
+        "background": "#F1EDE5",
+        "symbol": "#562C3B",
+        "name": "#562C3B",
+        "compact": "#562C3B"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/burgundy/shared-rhythm/light/symbol.svg",
+      "compact": "artwork/burgundy/shared-rhythm/light/compact.svg",
+      "horizontal": "artwork/burgundy/shared-rhythm/light/horizontal.svg",
+      "stacked": "artwork/burgundy/shared-rhythm/light/stacked.svg",
+      "symbolHighContrast": "artwork/burgundy/shared-rhythm/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "burgundy",
+      "directionId": "shared-rhythm",
+      "mode": "dark",
+      "colors": {
+        "background": "#562C3B",
+        "symbol": "#C7AA7D",
+        "name": "#F1EDE5",
+        "compact": "#F1EDE5"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/burgundy/shared-rhythm/dark/symbol.svg",
+      "compact": "artwork/burgundy/shared-rhythm/dark/compact.svg",
+      "horizontal": "artwork/burgundy/shared-rhythm/dark/horizontal.svg",
+      "stacked": "artwork/burgundy/shared-rhythm/dark/stacked.svg",
+      "symbolHighContrast": "artwork/burgundy/shared-rhythm/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "burgundy",
+      "directionId": "open-praise",
+      "mode": "light",
+      "colors": {
+        "background": "#F1EDE5",
+        "symbol": "#562C3B",
+        "name": "#562C3B",
+        "compact": "#562C3B"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/burgundy/open-praise/light/symbol.svg",
+      "compact": "artwork/burgundy/open-praise/light/compact.svg",
+      "horizontal": "artwork/burgundy/open-praise/light/horizontal.svg",
+      "stacked": "artwork/burgundy/open-praise/light/stacked.svg",
+      "symbolHighContrast": "artwork/burgundy/open-praise/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "burgundy",
+      "directionId": "open-praise",
+      "mode": "dark",
+      "colors": {
+        "background": "#562C3B",
+        "symbol": "#C7AA7D",
+        "name": "#F1EDE5",
+        "compact": "#F1EDE5"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/burgundy/open-praise/dark/symbol.svg",
+      "compact": "artwork/burgundy/open-praise/dark/compact.svg",
+      "horizontal": "artwork/burgundy/open-praise/dark/horizontal.svg",
+      "stacked": "artwork/burgundy/open-praise/dark/stacked.svg",
+      "symbolHighContrast": "artwork/burgundy/open-praise/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "charcoal",
+      "directionId": "shared-rhythm",
+      "mode": "light",
+      "colors": {
+        "background": "#F5F0E8",
+        "symbol": "#282C32",
+        "name": "#282C32",
+        "compact": "#282C32"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/charcoal/shared-rhythm/light/symbol.svg",
+      "compact": "artwork/charcoal/shared-rhythm/light/compact.svg",
+      "horizontal": "artwork/charcoal/shared-rhythm/light/horizontal.svg",
+      "stacked": "artwork/charcoal/shared-rhythm/light/stacked.svg",
+      "symbolHighContrast": "artwork/charcoal/shared-rhythm/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "charcoal",
+      "directionId": "shared-rhythm",
+      "mode": "dark",
+      "colors": {
+        "background": "#282C32",
+        "symbol": "#C78362",
+        "name": "#F5F0E8",
+        "compact": "#F5F0E8"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/charcoal/shared-rhythm/dark/symbol.svg",
+      "compact": "artwork/charcoal/shared-rhythm/dark/compact.svg",
+      "horizontal": "artwork/charcoal/shared-rhythm/dark/horizontal.svg",
+      "stacked": "artwork/charcoal/shared-rhythm/dark/stacked.svg",
+      "symbolHighContrast": "artwork/charcoal/shared-rhythm/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "charcoal",
+      "directionId": "open-praise",
+      "mode": "light",
+      "colors": {
+        "background": "#F5F0E8",
+        "symbol": "#282C32",
+        "name": "#282C32",
+        "compact": "#282C32"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/charcoal/open-praise/light/symbol.svg",
+      "compact": "artwork/charcoal/open-praise/light/compact.svg",
+      "horizontal": "artwork/charcoal/open-praise/light/horizontal.svg",
+      "stacked": "artwork/charcoal/open-praise/light/stacked.svg",
+      "symbolHighContrast": "artwork/charcoal/open-praise/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "charcoal",
+      "directionId": "open-praise",
+      "mode": "dark",
+      "colors": {
+        "background": "#282C32",
+        "symbol": "#C78362",
+        "name": "#F5F0E8",
+        "compact": "#F5F0E8"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/charcoal/open-praise/dark/symbol.svg",
+      "compact": "artwork/charcoal/open-praise/dark/compact.svg",
+      "horizontal": "artwork/charcoal/open-praise/dark/horizontal.svg",
+      "stacked": "artwork/charcoal/open-praise/dark/stacked.svg",
+      "symbolHighContrast": "artwork/charcoal/open-praise/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "mono",
+      "directionId": "shared-rhythm",
+      "mode": "light",
+      "colors": {
+        "background": "#FFFFFF",
+        "symbol": "#000000",
+        "name": "#000000",
+        "compact": "#000000"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/mono/shared-rhythm/light/symbol.svg",
+      "compact": "artwork/mono/shared-rhythm/light/compact.svg",
+      "horizontal": "artwork/mono/shared-rhythm/light/horizontal.svg",
+      "stacked": "artwork/mono/shared-rhythm/light/stacked.svg",
+      "symbolHighContrast": "artwork/mono/shared-rhythm/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "mono",
+      "directionId": "shared-rhythm",
+      "mode": "dark",
+      "colors": {
+        "background": "#000000",
+        "symbol": "#FFFFFF",
+        "name": "#FFFFFF",
+        "compact": "#FFFFFF"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/mono/shared-rhythm/dark/symbol.svg",
+      "compact": "artwork/mono/shared-rhythm/dark/compact.svg",
+      "horizontal": "artwork/mono/shared-rhythm/dark/horizontal.svg",
+      "stacked": "artwork/mono/shared-rhythm/dark/stacked.svg",
+      "symbolHighContrast": "artwork/mono/shared-rhythm/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    },
+    {
+      "paletteId": "mono",
+      "directionId": "open-praise",
+      "mode": "light",
+      "colors": {
+        "background": "#FFFFFF",
+        "symbol": "#000000",
+        "name": "#000000",
+        "compact": "#000000"
+      },
+      "compactInkRole": "primary",
+      "symbol": "artwork/mono/open-praise/light/symbol.svg",
+      "compact": "artwork/mono/open-praise/light/compact.svg",
+      "horizontal": "artwork/mono/open-praise/light/horizontal.svg",
+      "stacked": "artwork/mono/open-praise/light/stacked.svg",
+      "symbolHighContrast": "artwork/mono/open-praise/light/symbol.svg",
+      "highContrastSymbolInkRole": "primary"
+    },
+    {
+      "paletteId": "mono",
+      "directionId": "open-praise",
+      "mode": "dark",
+      "colors": {
+        "background": "#000000",
+        "symbol": "#FFFFFF",
+        "name": "#FFFFFF",
+        "compact": "#FFFFFF"
+      },
+      "compactInkRole": "neutral",
+      "symbol": "artwork/mono/open-praise/dark/symbol.svg",
+      "compact": "artwork/mono/open-praise/dark/compact.svg",
+      "horizontal": "artwork/mono/open-praise/dark/horizontal.svg",
+      "stacked": "artwork/mono/open-praise/dark/stacked.svg",
+      "symbolHighContrast": "artwork/mono/open-praise/dark/symbol-high-contrast.svg",
+      "highContrastSymbolInkRole": "neutral"
+    }
+  ],
+  "contrast": [
+    {
+      "paletteId": "navy",
+      "lightSymbolAndName": 13.581,
+      "darkSymbolAccent": 6.541,
+      "darkNameAndCompactNeutral": 13.581,
+      "primaryOnSecondarySurface": 3.203,
+      "secondaryOnNeutral": 4.241,
+      "accentOnNeutral": 2.076,
+      "note": "Accent on light neutral is shown as a limitation, not an approved text pairing."
+    },
+    {
+      "paletteId": "forest",
+      "lightSymbolAndName": 10.475,
+      "darkSymbolAccent": 4.836,
+      "darkNameAndCompactNeutral": 10.475,
+      "primaryOnSecondarySurface": 2.346,
+      "secondaryOnNeutral": 4.466,
+      "accentOnNeutral": 2.166,
+      "note": "Accent on light neutral is shown as a limitation, not an approved text pairing."
+    },
+    {
+      "paletteId": "teal",
+      "lightSymbolAndName": 9.113,
+      "darkSymbolAccent": 3.478,
+      "darkNameAndCompactNeutral": 9.113,
+      "primaryOnSecondarySurface": 6.325,
+      "secondaryOnNeutral": 1.441,
+      "accentOnNeutral": 2.62,
+      "note": "Accent on light neutral is shown as a limitation, not an approved text pairing."
+    },
+    {
+      "paletteId": "burgundy",
+      "lightSymbolAndName": 9.887,
+      "darkSymbolAccent": 5.208,
+      "darkNameAndCompactNeutral": 9.887,
+      "primaryOnSecondarySurface": 2.798,
+      "secondaryOnNeutral": 3.533,
+      "accentOnNeutral": 1.898,
+      "note": "Accent on light neutral is shown as a limitation, not an approved text pairing."
+    },
+    {
+      "paletteId": "charcoal",
+      "lightSymbolAndName": 12.37,
+      "darkSymbolAccent": 4.578,
+      "darkNameAndCompactNeutral": 12.37,
+      "primaryOnSecondarySurface": 2.554,
+      "secondaryOnNeutral": 4.843,
+      "accentOnNeutral": 2.702,
+      "note": "Accent on light neutral is shown as a limitation, not an approved text pairing."
+    },
+    {
+      "paletteId": "mono",
+      "lightSymbolAndName": 21.0,
+      "darkSymbolAccent": 21.0,
+      "darkNameAndCompactNeutral": 21.0,
+      "primaryOnSecondarySurface": 4.365,
+      "secondaryOnNeutral": 4.811,
+      "accentOnNeutral": 1.0,
+      "note": "Accent on light neutral is shown as a limitation, not an approved text pairing."
+    }
+  ],
+  "audit": {
+    "svgCount": 108,
+    "geometryComparisonsPassed": 108,
+    "allBackgroundsExplicit": true,
+    "liveText": 0,
+    "rasters": 0,
+    "masks": 0,
+    "filters": 0,
+    "sharedRhythmFaces": "One identical ink per four-face symbol; no color-coded bars."
+  },
+  "proofs": {
+    "overview": "artwork/native-small-size-proof.png",
+    "rasterCount": 96,
+    "sizes": [
+      32,
+      24,
+      20,
+      16
+    ],
+    "entries": [
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/navy/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/light-symbol-32.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/navy/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/light-symbol-24.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/navy/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/light-compact-20.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/navy/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/light-compact-16.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/navy/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/navy/open-praise/light-symbol-32.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/navy/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/navy/open-praise/light-symbol-24.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/navy/open-praise/light/compact.svg",
+        "png": "artwork/proofs/navy/open-praise/light-compact-20.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/navy/open-praise/light/compact.svg",
+        "png": "artwork/proofs/navy/open-praise/light-compact-16.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/navy/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/navy/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/navy/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/dark-compact-20.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/navy/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/navy/shared-rhythm/dark-compact-16.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/navy/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/navy/open-praise/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/navy/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/navy/open-praise/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/navy/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/navy/open-praise/dark-compact-20.png"
+      },
+      {
+        "paletteId": "navy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/navy/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/navy/open-praise/dark-compact-16.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/forest/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/light-symbol-32.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/forest/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/light-symbol-24.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/forest/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/light-compact-20.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/forest/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/light-compact-16.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/forest/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/forest/open-praise/light-symbol-32.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/forest/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/forest/open-praise/light-symbol-24.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/forest/open-praise/light/compact.svg",
+        "png": "artwork/proofs/forest/open-praise/light-compact-20.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/forest/open-praise/light/compact.svg",
+        "png": "artwork/proofs/forest/open-praise/light-compact-16.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/forest/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/forest/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/forest/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/dark-compact-20.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/forest/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/forest/shared-rhythm/dark-compact-16.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/forest/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/forest/open-praise/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/forest/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/forest/open-praise/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/forest/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/forest/open-praise/dark-compact-20.png"
+      },
+      {
+        "paletteId": "forest",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/forest/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/forest/open-praise/dark-compact-16.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/teal/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/light-symbol-32.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/teal/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/light-symbol-24.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/teal/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/light-compact-20.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/teal/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/light-compact-16.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/teal/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/teal/open-praise/light-symbol-32.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/teal/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/teal/open-praise/light-symbol-24.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/teal/open-praise/light/compact.svg",
+        "png": "artwork/proofs/teal/open-praise/light-compact-20.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/teal/open-praise/light/compact.svg",
+        "png": "artwork/proofs/teal/open-praise/light-compact-16.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/teal/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/teal/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/teal/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/dark-compact-20.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/teal/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/teal/shared-rhythm/dark-compact-16.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/teal/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/teal/open-praise/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/teal/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/teal/open-praise/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/teal/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/teal/open-praise/dark-compact-20.png"
+      },
+      {
+        "paletteId": "teal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/teal/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/teal/open-praise/dark-compact-16.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/burgundy/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/light-symbol-32.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/burgundy/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/light-symbol-24.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/burgundy/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/light-compact-20.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/burgundy/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/light-compact-16.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/burgundy/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/burgundy/open-praise/light-symbol-32.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/burgundy/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/burgundy/open-praise/light-symbol-24.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/burgundy/open-praise/light/compact.svg",
+        "png": "artwork/proofs/burgundy/open-praise/light-compact-20.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/burgundy/open-praise/light/compact.svg",
+        "png": "artwork/proofs/burgundy/open-praise/light-compact-16.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/burgundy/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/burgundy/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/burgundy/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/dark-compact-20.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/burgundy/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/burgundy/shared-rhythm/dark-compact-16.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/burgundy/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/burgundy/open-praise/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/burgundy/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/burgundy/open-praise/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/burgundy/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/burgundy/open-praise/dark-compact-20.png"
+      },
+      {
+        "paletteId": "burgundy",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/burgundy/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/burgundy/open-praise/dark-compact-16.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/charcoal/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/light-symbol-32.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/charcoal/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/light-symbol-24.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/charcoal/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/light-compact-20.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/charcoal/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/light-compact-16.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/charcoal/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/charcoal/open-praise/light-symbol-32.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/charcoal/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/charcoal/open-praise/light-symbol-24.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/charcoal/open-praise/light/compact.svg",
+        "png": "artwork/proofs/charcoal/open-praise/light-compact-20.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/charcoal/open-praise/light/compact.svg",
+        "png": "artwork/proofs/charcoal/open-praise/light-compact-16.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/charcoal/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/charcoal/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/charcoal/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/dark-compact-20.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/charcoal/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/charcoal/shared-rhythm/dark-compact-16.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/charcoal/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/charcoal/open-praise/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/charcoal/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/charcoal/open-praise/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/charcoal/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/charcoal/open-praise/dark-compact-20.png"
+      },
+      {
+        "paletteId": "charcoal",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/charcoal/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/charcoal/open-praise/dark-compact-16.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/mono/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/light-symbol-32.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/mono/shared-rhythm/light/symbol.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/light-symbol-24.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/mono/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/light-compact-20.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/mono/shared-rhythm/light/compact.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/light-compact-16.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 32,
+        "source": "artwork/mono/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/mono/open-praise/light-symbol-32.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 24,
+        "source": "artwork/mono/open-praise/light/symbol.svg",
+        "png": "artwork/proofs/mono/open-praise/light-symbol-24.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 20,
+        "source": "artwork/mono/open-praise/light/compact.svg",
+        "png": "artwork/proofs/mono/open-praise/light-compact-20.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "light",
+        "size": 16,
+        "source": "artwork/mono/open-praise/light/compact.svg",
+        "png": "artwork/proofs/mono/open-praise/light-compact-16.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/mono/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/mono/shared-rhythm/dark/symbol.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/mono/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/dark-compact-20.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "shared-rhythm",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/mono/shared-rhythm/dark/compact.svg",
+        "png": "artwork/proofs/mono/shared-rhythm/dark-compact-16.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 32,
+        "source": "artwork/mono/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/mono/open-praise/dark-symbol-32.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 24,
+        "source": "artwork/mono/open-praise/dark/symbol.svg",
+        "png": "artwork/proofs/mono/open-praise/dark-symbol-24.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 20,
+        "source": "artwork/mono/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/mono/open-praise/dark-compact-20.png"
+      },
+      {
+        "paletteId": "mono",
+        "directionId": "open-praise",
+        "mode": "dark",
+        "size": 16,
+        "source": "artwork/mono/open-praise/dark/compact.svg",
+        "png": "artwork/proofs/mono/open-praise/dark-compact-16.png"
+      }
+    ]
+  }
+}

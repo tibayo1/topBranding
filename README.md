@@ -18,7 +18,20 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Identity development 09 — latest development
+## Color development 10 — latest exploration
+
+**DRAFT — NOT FOR PUBLICATION.** Five palette families now compare Shared Rhythm and Open Praise on light and dark backgrounds, with the same geometry and lettering. Teal/sand and navy/gold are provisional shortlist recommendations, not approved colors.
+
+![Five color families on Shared Rhythm and Open Praise](brand/explorations/color-development-10/exports/palette-comparison.png)
+
+- **[Open the larger teal/navy shortlist](brand/explorations/color-development-10/exports/color-shortlist.png)**
+- **[Open the color review PDF](brand/explorations/color-development-10/exports/color-review-10.pdf)**
+- [Interactive explorer — download raw HTML, then open in a browser](brand/explorations/color-development-10/exports/color-explorer.html)
+- [Color roles, exact HEX values, applications and reusable SVG/source](brand/explorations/color-development-10/README.md)
+
+The study includes monochrome controls and small-size contrast checks. Team feedback remains deferred. No branding decisions are finalized, and AGENTS.md and the identity skill remain unchanged.
+
+## Identity development 09 — preceding development
 
 **DRAFT — NOT FOR PUBLICATION.** Both Shared Rhythm and Open Praise continue in development; team feedback comes later. This iteration preserves the favored Shared Rhythm primary, refines Open Praise's counter, compares three lettering approaches, improves name spacing and tests both on signage, correspondence and social layouts.
 

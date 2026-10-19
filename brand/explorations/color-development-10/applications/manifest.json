@@ -1,0 +1,208 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "approval": false,
+  "metadata": {
+    "file": "../exports/artwork.json",
+    "sha256": "696834030a088fdcb8eb145877dbe9fbfdf33b72f2fc9c14df7b2b572a09476a"
+  },
+  "palettes": {
+    "file": "../source/palettes.json",
+    "sha256": "50512faa79a3899240153edde077e08be6cd613d5f377dfbf955e38c514c102e"
+  },
+  "conditions": "Identical layouts, placement boxes and copy for both marks, repeated across teal and navy. Existing Review 09 core contours and lettering are unchanged.",
+  "applicationLabelFont": "Instrument Sans 450, width 100; outlined from Review 09's existing licensed font. Core name remains the Review 09 Instrument Sans 470 outline.",
+  "smallAvatar": "Profile avatars embed the recorded symbolHighContrast primary contours in ivory rather than soft gold. No contour or source fill is modified, and compact drawings are not enlarged.",
+  "copy": "Only church names and Istanbul, Türkiye verified. [CORRESPONDENCE TEXT], [CONTACT DETAILS], [CHURCH HANDLE] are placeholders.",
+  "limitations": [
+    "Entrance is an imagined diagram, not actual premises or a fabrication specification.",
+    "Gold is a flat color, not a metallic material.",
+    "Authorized official RCCG PNG is absent; emblem not reconstructed or paired.",
+    "No application, palette or type choice is approved for publication."
+  ],
+  "applications": [
+    {
+      "paletteId": "teal",
+      "directionId": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "entrance": "teal-shared-rhythm-entrance-sign.svg",
+      "letterhead": "teal-shared-rhythm-a4-letterhead.svg",
+      "welcome": "teal-shared-rhythm-welcome-post.svg",
+      "social": "teal-shared-rhythm-avatar-profile.svg",
+      "masters": {
+        "light/symbol": {
+          "file": "artwork/teal/shared-rhythm/light/symbol.svg",
+          "sha256": "0a33a89d79817777ca5b31ee7274ac44770e0abc467562045e3d525a78ba93ae"
+        },
+        "light/symbolHighContrast": {
+          "file": "artwork/teal/shared-rhythm/light/symbol.svg",
+          "sha256": "0a33a89d79817777ca5b31ee7274ac44770e0abc467562045e3d525a78ba93ae"
+        },
+        "light/horizontal": {
+          "file": "artwork/teal/shared-rhythm/light/horizontal.svg",
+          "sha256": "30b637a31167c0055104ecb3e7ec5d35cd69a99546c1c4dc6422467df6517dec"
+        },
+        "light/stacked": {
+          "file": "artwork/teal/shared-rhythm/light/stacked.svg",
+          "sha256": "a8737ba4d06616ff85d073b69499ee47fae493406960f908c11bd5e6744e4164"
+        },
+        "dark/symbol": {
+          "file": "artwork/teal/shared-rhythm/dark/symbol.svg",
+          "sha256": "036a4b35f590dd00f14a146c2f91dd4e6f9a3806beb233a2affe7a0638730e08"
+        },
+        "dark/symbolHighContrast": {
+          "file": "artwork/teal/shared-rhythm/dark/symbol-high-contrast.svg",
+          "sha256": "ebbff45f1e70b4c5a7cd94b7b3cd97461ee66f0f77e11565ba6021b611bf5f58"
+        },
+        "dark/horizontal": {
+          "file": "artwork/teal/shared-rhythm/dark/horizontal.svg",
+          "sha256": "5ef7e966f1b080eba19bc1a264b5170b1599ef55080acf564f50ebd06309398d"
+        },
+        "dark/stacked": {
+          "file": "artwork/teal/shared-rhythm/dark/stacked.svg",
+          "sha256": "f5395d445a3392a011a9958391438635f7df1d60eb3f00c6700797732937df36"
+        }
+      }
+    },
+    {
+      "paletteId": "teal",
+      "directionId": "open-praise",
+      "name": "Open Praise",
+      "entrance": "teal-open-praise-entrance-sign.svg",
+      "letterhead": "teal-open-praise-a4-letterhead.svg",
+      "welcome": "teal-open-praise-welcome-post.svg",
+      "social": "teal-open-praise-avatar-profile.svg",
+      "masters": {
+        "light/symbol": {
+          "file": "artwork/teal/open-praise/light/symbol.svg",
+          "sha256": "2b9fbef17c844216448d8f2b6bea52b071706ef7f78653f3eb221352b11c25cf"
+        },
+        "light/symbolHighContrast": {
+          "file": "artwork/teal/open-praise/light/symbol.svg",
+          "sha256": "2b9fbef17c844216448d8f2b6bea52b071706ef7f78653f3eb221352b11c25cf"
+        },
+        "light/horizontal": {
+          "file": "artwork/teal/open-praise/light/horizontal.svg",
+          "sha256": "e0e6d10e2c438a5167d576ede07176fb3e8ffcf7b855dc3fbe8243489fe0d39a"
+        },
+        "light/stacked": {
+          "file": "artwork/teal/open-praise/light/stacked.svg",
+          "sha256": "f4f182ce690477ff3abae3305c89b733d6502b6352bcec5641d2d76c1e4fa840"
+        },
+        "dark/symbol": {
+          "file": "artwork/teal/open-praise/dark/symbol.svg",
+          "sha256": "dd200c1ed135188404e59bf51f459f287bc96c622392ffe78bc2ae84fded0702"
+        },
+        "dark/symbolHighContrast": {
+          "file": "artwork/teal/open-praise/dark/symbol-high-contrast.svg",
+          "sha256": "2e5006741d6635fba4dfe290495547be9c2a3e011e33f38c7718ee4ba49e6589"
+        },
+        "dark/horizontal": {
+          "file": "artwork/teal/open-praise/dark/horizontal.svg",
+          "sha256": "d90361d37c46f6ccff68dd3909e5ed30dd87379c82f1a4fad573ff6c930bdc7e"
+        },
+        "dark/stacked": {
+          "file": "artwork/teal/open-praise/dark/stacked.svg",
+          "sha256": "4d227a98c1b1a77baa1e430bfed4cbe1b2b02214ee97e95dab51e6bab62eda28"
+        }
+      }
+    },
+    {
+      "paletteId": "navy",
+      "directionId": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "entrance": "navy-shared-rhythm-entrance-sign.svg",
+      "letterhead": "navy-shared-rhythm-a4-letterhead.svg",
+      "welcome": "navy-shared-rhythm-welcome-post.svg",
+      "social": "navy-shared-rhythm-avatar-profile.svg",
+      "masters": {
+        "light/symbol": {
+          "file": "artwork/navy/shared-rhythm/light/symbol.svg",
+          "sha256": "06bbc71c76d4ebf7589d22140ee50d0167e5f5e85c553c7a043eebc1eea94a6f"
+        },
+        "light/symbolHighContrast": {
+          "file": "artwork/navy/shared-rhythm/light/symbol.svg",
+          "sha256": "06bbc71c76d4ebf7589d22140ee50d0167e5f5e85c553c7a043eebc1eea94a6f"
+        },
+        "light/horizontal": {
+          "file": "artwork/navy/shared-rhythm/light/horizontal.svg",
+          "sha256": "9ef563f03a98924935312b903a21b862fb3edb70b549430714210137bb9a84be"
+        },
+        "light/stacked": {
+          "file": "artwork/navy/shared-rhythm/light/stacked.svg",
+          "sha256": "048d3a71fc8f6be928f82db3bf163860602c1e6d16b4236fe7c5a5fa51d86b74"
+        },
+        "dark/symbol": {
+          "file": "artwork/navy/shared-rhythm/dark/symbol.svg",
+          "sha256": "c207e19144cde87371ffd864ff78ec770be852286c9e8271726543aecc135d74"
+        },
+        "dark/symbolHighContrast": {
+          "file": "artwork/navy/shared-rhythm/dark/symbol-high-contrast.svg",
+          "sha256": "dd1c149d4c153e10026d228d96bf46664e9111389ccc4ef6cd167d5836209424"
+        },
+        "dark/horizontal": {
+          "file": "artwork/navy/shared-rhythm/dark/horizontal.svg",
+          "sha256": "d11be744b70488beb667143ee6d73cc1055a1e016fcae6c2802b2ea5d9238209"
+        },
+        "dark/stacked": {
+          "file": "artwork/navy/shared-rhythm/dark/stacked.svg",
+          "sha256": "d4e33d1d0ba9e268529bc8ec4fc2bff7051d5c7e79bf5bbb68d718837fce7d78"
+        }
+      }
+    },
+    {
+      "paletteId": "navy",
+      "directionId": "open-praise",
+      "name": "Open Praise",
+      "entrance": "navy-open-praise-entrance-sign.svg",
+      "letterhead": "navy-open-praise-a4-letterhead.svg",
+      "welcome": "navy-open-praise-welcome-post.svg",
+      "social": "navy-open-praise-avatar-profile.svg",
+      "masters": {
+        "light/symbol": {
+          "file": "artwork/navy/open-praise/light/symbol.svg",
+          "sha256": "49c49372acbd62c927469ae44e11a8c31f54b5e64e75780626af760d46025269"
+        },
+        "light/symbolHighContrast": {
+          "file": "artwork/navy/open-praise/light/symbol.svg",
+          "sha256": "49c49372acbd62c927469ae44e11a8c31f54b5e64e75780626af760d46025269"
+        },
+        "light/horizontal": {
+          "file": "artwork/navy/open-praise/light/horizontal.svg",
+          "sha256": "6c15d458d657589f48f5485056022dd81a1fbcb31c5d18225ad3b1ff57b2c945"
+        },
+        "light/stacked": {
+          "file": "artwork/navy/open-praise/light/stacked.svg",
+          "sha256": "c0e4693f1d5cd0e648c352c26b12131d2c16a6054108a83de384d1db3ccdc37b"
+        },
+        "dark/symbol": {
+          "file": "artwork/navy/open-praise/dark/symbol.svg",
+          "sha256": "f01dd1aedd7302a6a157934a0ce3d33387fc259aa0d416e6abff1d5c2e981a06"
+        },
+        "dark/symbolHighContrast": {
+          "file": "artwork/navy/open-praise/dark/symbol-high-contrast.svg",
+          "sha256": "6559f584ad85b28d095838e99c1e4e0ac8c3f9a1278f62fb6d5e1d88da8769a0"
+        },
+        "dark/horizontal": {
+          "file": "artwork/navy/open-praise/dark/horizontal.svg",
+          "sha256": "061ed357a80b8531381b565d0fc7a30bce443ff597336798cf73201d0794e9b4"
+        },
+        "dark/stacked": {
+          "file": "artwork/navy/open-praise/dark/stacked.svg",
+          "sha256": "0696284e362a888b35be847d925a54846d5c7920dcb3366fa74071c577004caa"
+        }
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "paletteId": "teal",
+      "svg": "applications-teal.svg",
+      "png": "applications-teal.png"
+    },
+    {
+      "paletteId": "navy",
+      "svg": "applications-navy.svg",
+      "png": "applications-navy.png"
+    }
+  ]
+}
