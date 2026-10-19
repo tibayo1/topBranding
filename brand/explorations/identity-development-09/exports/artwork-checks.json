@@ -1,0 +1,158 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "coreSvg": [
+    {
+      "file": "exports/open-praise-horizontal-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        28.523076968,
+        36.859999968,
+        654.9999998971624,
+        219.140000013
+      ],
+      "viewBox": "0 0 680 256",
+      "sha256": "59f90ab38a9ed6f9eab3a7e028ceee69690e135d65f9a749c60de184422c363c"
+    },
+    {
+      "file": "exports/open-praise-horizontal-reverse-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        28.523076968,
+        36.859999968,
+        654.9999998971624,
+        219.140000013
+      ],
+      "viewBox": "0 0 680 256",
+      "sha256": "75ce901f653dea4356b10a0675d5d95e50d22ea638e325a410f02ccfb1801bd8"
+    },
+    {
+      "file": "exports/open-praise-stacked-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        66.25855265249,
+        29.350000036,
+        333.74144714859744,
+        368.999999902
+      ],
+      "viewBox": "0 0 400 410",
+      "sha256": "66eb993c5128b31df9408810a285671b9525c253f35ed0e51cd6d7c802675b50"
+    },
+    {
+      "file": "exports/open-praise-stacked-reverse-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        66.25855265249,
+        29.350000036,
+        333.74144714859744,
+        368.999999902
+      ],
+      "viewBox": "0 0 400 410",
+      "sha256": "1a362d7d309bda2faae00e6b55bcfe6f4d2778442c39a9172135c9354f171dbe"
+    },
+    {
+      "file": "exports/open-praise-wordmark-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        41.48577628195,
+        17.99999996,
+        378.51422378411246,
+        144.00000001
+      ],
+      "viewBox": "0 0 420 162",
+      "sha256": "236aa7bdc9e5a3a8ed8cd2b8047b01246603bd6c816d3d5510fe6a876457e3e2"
+    },
+    {
+      "file": "exports/shared-rhythm-horizontal-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        19.999999976,
+        37.383928548,
+        654.9999998971624,
+        218.616071462
+      ],
+      "viewBox": "0 0 680 256",
+      "sha256": "fbea86ed1c1a3a4ea5fd13bce6a84925c2870287422d46596863dc29bd92131f"
+    },
+    {
+      "file": "exports/shared-rhythm-horizontal-reverse-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        19.999999976,
+        37.383928548,
+        654.9999998971624,
+        218.616071462
+      ],
+      "viewBox": "0 0 680 256",
+      "sha256": "ca076e37377e1f6d66600e1968c0a4f556e74112dc565937731cbac4bc94391f"
+    },
+    {
+      "file": "exports/shared-rhythm-stacked-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        66.25855265249,
+        21.999999976,
+        333.74144714859744,
+        368.999999902
+      ],
+      "viewBox": "0 0 400 410",
+      "sha256": "b9e2c5a569bb2c1db7057f1fe774e3b65344d5adaa82e89a571c8f21f70991ba"
+    },
+    {
+      "file": "exports/shared-rhythm-stacked-reverse-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        66.25855265249,
+        21.999999976,
+        333.74144714859744,
+        368.999999902
+      ],
+      "viewBox": "0 0 400 410",
+      "sha256": "1fd09a12a1a0db341cc2b3ac89620ac9533f63a7148031162d765672804f9ee8"
+    },
+    {
+      "file": "exports/shared-rhythm-wordmark-DRAFT.svg",
+      "outlinedLetterCount": 18,
+      "inkBounds": [
+        41.48577628195,
+        17.99999996,
+        378.51422378411246,
+        144.00000001
+      ],
+      "viewBox": "0 0 420 162",
+      "sha256": "53a8bcd6fef5e18f51940f5294abbd2a150ca3021ffe76a0f14d4bc8364c2032"
+    }
+  ],
+  "fonts": [
+    {
+      "file": "type-study/fonts/instrumentsans/METADATA.pb",
+      "byteIdenticalToPriorSource": true,
+      "sha256": "111191daf841919d5d09b88ca7a17fb691c4b835c61ca81c958f334c40c11535"
+    },
+    {
+      "file": "type-study/fonts/instrumentsans/OFL.txt",
+      "byteIdenticalToPriorSource": true,
+      "sha256": "9e27a72ed30eb49a08678f6a5d6ed98ec7ba5368f541637ee0683ec9134ef966"
+    },
+    {
+      "file": "type-study/fonts/instrumentsans/InstrumentSans[wdth,wght].ttf",
+      "byteIdenticalToPriorSource": true,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "file": "type-study/fonts/sourceserif4/METADATA.pb",
+      "byteIdenticalToPriorSource": true,
+      "sha256": "f7b88902c1d2f41839a3f7bf6723d1e64044c7c183b82871ce770a95f24b84e3"
+    },
+    {
+      "file": "type-study/fonts/sourceserif4/OFL.txt",
+      "byteIdenticalToPriorSource": true,
+      "sha256": "5f94c3fd3a23131a417ab5a0c8452de57e70c3cfb9f604d88241f7065ebf9fd9"
+    },
+    {
+      "file": "type-study/fonts/sourceserif4/SourceSerif4[opsz,wght].ttf",
+      "byteIdenticalToPriorSource": true,
+      "sha256": "97b2d4da6e3cb494b5a1e66ae176914d852ccabef49e0c02c0df25f3e39aca0b"
+    }
+  ],
+  "limitations": "These checks verify file integrity and layout bounds, not aesthetic quality, recognition, originality or production approval."
+}

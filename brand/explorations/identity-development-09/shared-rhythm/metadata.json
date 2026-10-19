@@ -1,0 +1,98 @@
+{
+  "id": "shared-rhythm",
+  "name": "Shared Rhythm",
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "viewBox": "0 0 256 256",
+  "primaryFile": "primary.svg",
+  "reverseFile": "reverse.svg",
+  "compactFile": "compact.svg",
+  "compactReverseFile": "compact-reverse.svg",
+  "primaryVersion": "v1-primary-preserved.svg",
+  "compactVersion": "v5-compact-pixel-intervals.svg",
+  "sourceFile": "source/build.py",
+  "browserProofSource": "source/browser_proof.py",
+  "previewFile": "renders/primary-and-compact.png",
+  "developmentPreviewFile": "renders/optical-development.png",
+  "idea": "Four unequal folded faces hold an open gathering space; changing height and spacing suggest shared praise.",
+  "meaning": {
+    "tabernacle": "Architectural faces turn around a shared open forecourt.",
+    "praise": "Their unequal heights and intervals suggest collective rhythm, rather than a literal instrument.",
+    "relationship": "The same faces express both gathering space and rhythm; no separate icon is added."
+  },
+  "construction": [
+    "Four separate flat filled polygons on a 256 × 256 canvas.",
+    "Inner-right face remains tallest; outer faces stay lower and the lower edges frame an open forecourt.",
+    "The primary preserves the projecting second-face apex from the favored direction.",
+    "The compact cut narrows the faces and opens the three intervals for tiny raster sizes, while retaining the small second-face shoulder."
+  ],
+  "changes": [
+    "Primary geometry is identical to the favored Review 08 v2, not a fresh redesign.",
+    "Two compact premises tested: retain a shortened fold shoulder versus remove it for four simpler facets.",
+    "The simpler-facet option was rejected for becoming too bar-like.",
+    "The selected shoulder version opens the intervals further, then receives a one-unit upper-left correction on the tall face to remove faint diagonal pixel contact at 16 px."
+  ],
+  "versions": [
+    {
+      "file": "v1-primary-preserved.svg",
+      "label": "Favored primary preserved"
+    },
+    {
+      "file": "v2-compact-open-fold.svg",
+      "label": "Initial compact: shoulder retained"
+    },
+    {
+      "file": "v3-compact-facets.svg",
+      "label": "Alternative: shoulder removed — not selected"
+    },
+    {
+      "file": "v4-compact-generous-intervals.svg",
+      "label": "More open tiny-use intervals"
+    },
+    {
+      "file": "v5-compact-pixel-intervals.svg",
+      "label": "Selected tiny-use cut: pixel interval correction"
+    }
+  ],
+  "strengths": [
+    "Keeps the favored primary silhouette and its welcoming asymmetric arrangement.",
+    "A single spatial arrangement carries dwelling and rhythmic expression.",
+    "The compact drawing separates all four faces at native 16 and 20 px in both tested renderers."
+  ],
+  "risks": [
+    "The primary can still read as a cultural venue, property identity or sculptural architecture.",
+    "Praise remains abstract; the mark does not independently identify a Christian church without name/context.",
+    "The compact cut feels more disconnected at large sizes and must not replace the primary globally.",
+    "Four raster components do not prove semantic recognition or aesthetic quality."
+  ],
+  "smallSize": "Use the primary provisionally from 24 px, preferably 32 px and above for the folded-space reading. Use the compact cut only at 16–20 px: all four faces remain separated, but at 16 px the result is still a tiny abstract cadence; the folded-space construction is clearer at 20–24 px and beyond.",
+  "provisionalUsage": {
+    "primary": "24 px and above; 32 px preferred for spatial reading.",
+    "compact": "Only where constrained to 16–20 px; not for normal avatars or large presentations.",
+    "print": "No physical process-specific minimum established; needs real print, vinyl and embroidery proofs before production."
+  },
+  "pixelTest": {
+    "method": "8-neighbor connected components of alpha coverage. Checked thresholds 1, 32, 64, 128, 192 and 224; alpha1 includes faint antialias fringe pixels.",
+    "renderers": [
+      "Inkscape native PNG",
+      "Chromium canvas drawImage native PNG"
+    ],
+    "sizes": [
+      16,
+      20,
+      24,
+      32,
+      64,
+      512
+    ],
+    "selectedCompactResult": "Four components in both renderers, in positive and reverse, at every tested threshold and size.",
+    "primaryResult": "At 16 px the primary has three components at alpha128, so it remains unsuitable for that tiny use. At 20 px+ it has four substantial components at alpha128, while faint fringes can still meet.",
+    "limitations": "Single rendering setup per renderer, whole-pixel aligned, device scale1. Arbitrary subpixel placement, resampling, CSS transforms and printing can change results."
+  },
+  "pixelResults": [
+    "source/inkscape-pixel-components.json",
+    "source/chromium-pixel-components.json"
+  ],
+  "visualInspection": "Viewed primary and both initial compact premises at large scale and native 16/20/24/32 positives/reverses. Viewed wider-interval follow-up. Final primary/compact board and native files inspected; component metrics support separation only.",
+  "font": "No font dependency in the symbol. Board annotations use the repository Noto Sans file only; that is not a wordmark recommendation.",
+  "approval": "Neither mark, palette, typography nor production rule is final. No RCCG emblem is redrawn or embedded."
+}

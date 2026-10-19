@@ -1,0 +1,64 @@
+{
+  "id": "B",
+  "name": "Open Praise",
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "primary": "primary.svg",
+  "reverse": "reverse.svg",
+  "compact": "compact.svg",
+  "compactReverse": "compact-reverse.svg",
+  "viewBox": "0 0 256 256",
+  "primaryType": "symbol",
+  "source": "source/build.py",
+  "selectedVersion": "v1-counter-balance",
+  "compactVersion": "v3-compact-cut",
+  "baseline": "../../team-pair-08/second-direction/primary.svg",
+  "idea": "A P-like outer gesture holds an open T-shaped interior.",
+  "visible": "One broad, compact contour with a negative crossbar, descending stem and open lower exit.",
+  "meaning": "T and P refer to Tabernacle and Praise. An interior held open can suggest welcome and response. This is a name-based figure-ground proposal; it is not a literal worshipper, sanctuary or musical instrument.",
+  "construction": "One closed path traces the open indentation. Negative space stays connected to the surrounding background. No white overlay, clipping path, mask, font glyph or stock icon is used.",
+  "changes": {
+    "baseline": "Review08 geometry preserved as v0-review-08.svg for direct comparison.",
+    "primary": "Outer silhouette unchanged. The long tapered counter hook ends fourteen units earlier with a five-unit blunt terminal. The negative stem increases from 42 to 43 units. Crossbar and lower turn remain fluid.",
+    "rejected": "The level-terminal trial replaces the hook with an eight-unit shelf. It is preserved but not chosen because it feels more mechanical and makes the P dominate.",
+    "compact": "A separate provisional raster cut widens the negative stem from 43 to 46 units and replaces the curved tip with a shorter, eight-unit terminal. Outer silhouette remains identical. This improves the held vertical interval but makes the counter less expressive."
+  },
+  "risk": "The negative T remains inferential and the P may dominate. The compact monogram can suggest a creative studio, publisher or luxury identity. The blunt counter reduces the former beak-like hook but does not guarantee a particular reading. No originality or trademark clearance is claimed.",
+  "smallSize": "Actual native 16/20/24/32/64 px black and reverse renders were inspected, alongside 512 px curves. At 16–20 px, silhouette recognition is stronger than full letter reading. At 24–32 px, the internal T is more dependable. Compact is a provisional raster compensation, not a final minimum-size rule or a proven readability advantage for every placement.",
+  "reverseNote": "Reverse is an explicit white path on a black proof background. Transparent white geometry may be obtained by removing only the background rect. No separate reversed outline is prescribed yet.",
+  "referencePrinciples": "Original Review08 figure-ground premise. User-supplied logos contribute compact confidence and purposeful negative space only. Their shields, figures, books, stars, NV geometry and typographic letterforms are not reused.",
+  "proofs": [
+    "renders/outline-comparison.png",
+    "renders/pixel-detail.png"
+  ],
+  "versions": [
+    {
+      "name": "v0-review-08",
+      "source": "versions/v0-review-08.svg",
+      "selected": false,
+      "smallUse": false
+    },
+    {
+      "name": "v1-counter-balance",
+      "source": "versions/v1-counter-balance.svg",
+      "selected": true,
+      "smallUse": false
+    },
+    {
+      "name": "v2-level-terminal",
+      "source": "versions/v2-level-terminal.svg",
+      "selected": false,
+      "smallUse": false
+    },
+    {
+      "name": "v3-compact-cut",
+      "source": "versions/v3-compact-cut.svg",
+      "selected": false,
+      "smallUse": true
+    }
+  ],
+  "checks": {
+    "actualRendersInspected": true,
+    "audit": "20 anchors, one closed filled path, one color; no SVG audit issues. The heuristic score is not a design endorsement or approval."
+  },
+  "approval": false
+}

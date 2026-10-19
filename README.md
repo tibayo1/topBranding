@@ -18,7 +18,21 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Team comparison 08 — latest development
+## Identity development 09 — latest development
+
+**DRAFT — NOT FOR PUBLICATION.** Both Shared Rhythm and Open Praise continue in development; team feedback comes later. This iteration preserves the favored Shared Rhythm primary, refines Open Praise's counter, compares three lettering approaches, improves name spacing and tests both on signage, correspondence and social layouts.
+
+![Shared Rhythm and Open Praise developed side by side](brand/explorations/identity-development-09/exports/two-directions-development.png)
+
+- **[Open the comparison PNG](brand/explorations/identity-development-09/exports/two-directions-development.png)**
+- **[Open the development PDF](brand/explorations/identity-development-09/exports/development-review-09.pdf)**
+- [Three lettering approaches](brand/explorations/identity-development-09/type-study/typographic-comparison.png)
+- [Both directions in the same four applications](brand/explorations/identity-development-09/applications/applications-comparison.png)
+- [What changed, editable SVGs and sources](brand/explorations/identity-development-09/README.md)
+
+The working title-case lettering, monochrome layouts and tiny-use cuts are provisional. No logo, color palette or typography is finalized. AGENTS.md and the identity skill remain unchanged.
+
+## Team comparison 08 — preceding development
 
 **DRAFT — NOT FOR PUBLICATION.** Shared Rhythm is the user's preferred direction for development. Open Praise is a distinct new letter-based proposal for comparison; neither is a final identity approval.
 
