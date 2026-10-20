@@ -18,7 +18,20 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Teal refinement 11 — latest development
+## RCCG pairing 12 — latest draft
+
+**DRAFT — NOT FOR PUBLICATION.** Both teal parish options now have separate light/dark pairing previews with an existing RCCG emblem reference. The emblem remains full color and unaltered on its own white field/panel.
+
+![RCCG reference paired with both parish options](brand/explorations/rccg-pairing-12/exports/paired-comparison.png)
+
+- **[Open the paired preview](brand/explorations/rccg-pairing-12/exports/paired-comparison.png)**
+- **[Download the PNG/SVG/PDF ZIP](brand/explorations/rccg-pairing-12/exports/RCCG-and-Tabernacle-of-Praise-DRAFT.zip)**
+- [Download the existing emblem PNG](brand/assets/rccg-emblem/references/rccg-wayforward-reference.png)
+- [Asset source and integrity record](brand/assets/rccg-emblem/references/README.md)
+
+The PNG is an unchanged 236×236 reference from a public RCCG parish website's source files. It is a separate copy with recorded provenance, not the previously recorded 1200×1200 user-original upload. Final master quality and publication approval remain open. AGENTS.md and the identity skill are unchanged.
+
+## Teal refinement 11 — preceding development
 
 **DRAFT — NOT FOR PUBLICATION.** Teal + sand is the selected working palette for both Shared Rhythm and Open Praise. This pass refines the monogram counter, polishes full-name spacing, adds a single-line arrangement and prepares an actual-size vector print proof. Final branding approval remains open.
 

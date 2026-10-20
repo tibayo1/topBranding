@@ -21,3 +21,7 @@ The user supplied a **PNG image of the Redeemed Christian Church of God (RCCG) e
 5. If missing, show a clearly marked temporary placeholder in review mockups and flag the missing official asset.
 
 A standalone logo for the parish reads **Tabernacle of Praise**, while the circular parent emblem communicates RCCG affiliation.
+
+## Draft reference added on 20 October 2026
+
+The user asked the assistant to handle the PNG/ZIP after the inline image remained inaccessible as downloadable bytes. A separate [existing parish-source reference](references/README.md) now supports draft pairing previews. It is the untouched 236×236 embedded PNG from the public WayForward parish website repository, with its own source provenance and checksum. It is not the 1200×1200 user-original file recorded above, and does not establish final publication authorization. The original file's status and intended path remain unchanged.
