@@ -1,0 +1,24 @@
+{
+  "brokenImages": 0,
+  "sheets": [
+    {
+      "id": "overview",
+      "lastContentBottom": 733.75,
+      "footerTop": 753
+    },
+    {
+      "id": "applications",
+      "lastContentBottom": 731.078125,
+      "footerTop": 753
+    },
+    {
+      "id": "refinements",
+      "lastContentBottom": 694.171875,
+      "footerTop": 753
+    }
+  ],
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "pdfPages": 3,
+  "metadataSHA256": "edd7284732f53567b9b338e4f44e1190ffd90fbe34632936412eb5a42ff01a8b",
+  "limitations": "Draft review only. No physical print result, RCCG pairing, audience recognition or final approval is claimed."
+}

@@ -18,7 +18,20 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Color development 10 — latest exploration
+## Teal refinement 11 — latest development
+
+**DRAFT — NOT FOR PUBLICATION.** Teal + sand is the selected working palette for both Shared Rhythm and Open Praise. This pass refines the monogram counter, polishes full-name spacing, adds a single-line arrangement and prepares an actual-size vector print proof. Final branding approval remains open.
+
+![Both refined options in teal](brand/explorations/teal-refinement-11/exports/two-options-teal.png)
+
+- **[Open the refined comparison PNG](brand/explorations/teal-refinement-11/exports/two-options-teal.png)**
+- **[Open the three-page review PDF](brand/explorations/teal-refinement-11/exports/two-option-review-11.pdf)**
+- **[Download the A4 vector print proof](brand/explorations/teal-refinement-11/proofs/a4-print-proof.pdf)** — print at 100% / Actual size and check the 50 mm ruler.
+- [What changed, editable SVGs, screen proof and outstanding RCCG pairing](brand/explorations/teal-refinement-11/README.md)
+
+Shared Rhythm's favored primary shape is intact. The actual RCCG emblem pairing awaits the original PNG, and physical print results remain unverified. Both directions stay available for later team feedback; AGENTS.md and the identity skill are unchanged.
+
+## Color development 10 — preceding exploration
 
 **DRAFT — NOT FOR PUBLICATION.** Five palette families now compare Shared Rhythm and Open Praise on light and dark backgrounds, with the same geometry and lettering. Teal/sand and navy/gold are provisional shortlist recommendations, not approved colors.
 
