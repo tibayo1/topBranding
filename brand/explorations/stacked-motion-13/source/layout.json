@@ -1,0 +1,34 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "layoutPreference": "Full parish name below the symbol for both options, selected by the user on 21 October 2026.",
+  "workingPalette": {
+    "primary": "#10494C",
+    "secondary": "#D9CBB4",
+    "accent": "#B69255",
+    "neutral": "#F6F3EC"
+  },
+  "directions": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "stacked": {
+        "light": "exports/shared-rhythm-name-below-light-DRAFT.svg",
+        "dark": "exports/shared-rhythm-name-below-dark-DRAFT.svg"
+      },
+      "symbolSource": "../teal-refinement-11/shared-rhythm/primary.svg",
+      "meaning": "Rising response to praise: four unequal folded faces suggest a congregation responding together in worship, held around a shared gathering space."
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "stacked": {
+        "light": "exports/open-praise-name-below-light-DRAFT.svg",
+        "dark": "exports/open-praise-name-below-dark-DRAFT.svg"
+      },
+      "symbolSource": "../teal-refinement-11/open-praise/primary.svg",
+      "meaning": "A compact name-based T/P gesture, with an open counter; letter recognition remains interpretive."
+    }
+  ],
+  "rccgReference": "../../../assets/rccg-emblem/references/rccg-wayforward-reference.png",
+  "animation": "Standalone parish logos only. Keep RCCG reference separate and static; do not send it into generative animation."
+}

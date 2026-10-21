@@ -1,0 +1,71 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "date": "2026-10-21",
+  "finalApproval": false,
+  "googleGenerationPerformed": false,
+  "checks": {
+    "pythonSyntax": true,
+    "cleanInputPNGs": 20,
+    "allNames18OutlinedLetters": true,
+    "googleInputSVGsHaveNoEmblemImages": true,
+    "fourPairingsPreserveAllParishPathsAndReferenceBytes": true,
+    "twoSilentVideos1080Square8Seconds240Frames": true,
+    "motionFrameReport": [
+      {
+        "durationSeconds": 8,
+        "frames": 240,
+        "fps": 30,
+        "size": [
+          1080,
+          1080
+        ],
+        "codec": "h264",
+        "pixelFormat": "yuv420p",
+        "silent": true,
+        "namePixelsStatic": true,
+        "sharedPlaneComponentsAllFrames": [
+          4
+        ],
+        "sharedGapMethod": "All 240 native pre-encode frames: 8-neighbor components in the symbol region, grayscale < 155. This supports separation only.",
+        "losslessFinalFramesMatchRootPNG": true,
+        "encodedVideoNote": "H.264/YUV is lossy; exact equality is verified before encoding.",
+        "file": "shared-rhythm-rising-response-1080-DRAFT.mp4",
+        "sha256": "1021e4c36daddab8d85bee803762d15abe615c18551de9b703b644f58b96909d"
+      },
+      {
+        "durationSeconds": 8,
+        "frames": 240,
+        "fps": 30,
+        "size": [
+          1080,
+          1080
+        ],
+        "codec": "h264",
+        "pixelFormat": "yuv420p",
+        "silent": true,
+        "namePixelsStatic": true,
+        "sharedPlaneComponentsAllFrames": null,
+        "sharedGapMethod": null,
+        "losslessFinalFramesMatchRootPNG": true,
+        "encodedVideoNote": "H.264/YUV is lossy; exact equality is verified before encoding.",
+        "file": "open-praise-rising-response-1080-DRAFT.mp4",
+        "sha256": "447906aea96e2bee9c5ec5b7eb37cbb8f235cb2059ca3b0fc978f08f3f3feda4"
+      }
+    ],
+    "localMarkdownLinks": true,
+    "AGENTSAndIdentitySkillUnchanged": true,
+    "zipPayloadsByteChecked": 60,
+    "zipEmbeddedManifestMatchesEntryList": true,
+    "packageSHA256": "89053e3e440a16ad3173918fa52be94849db799757bdf2c02f572c1c5c643828",
+    "offlinePlayerBothFinalPosesMatchPNG": true,
+    "offlinePlayerErrors": [],
+    "offlinePlayerNetworkRequests": []
+  },
+  "limitations": [
+    "Draft identities, palette and motion; no final brand approval.",
+    "Controlled vector motion, not Google generation; user performs any upload.",
+    "H264 is lossy; exact final-hold match was checked on pre-encode frames.",
+    "Preserved 236px RCCG reference is not the inaccessible original 1200px upload or a production master.",
+    "Offline browser check uses set_content; local file navigation is blocked by managed browser policy."
+  ]
+}

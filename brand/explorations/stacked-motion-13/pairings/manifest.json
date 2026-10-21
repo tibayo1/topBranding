@@ -1,0 +1,81 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "finalApproval": false,
+  "namePlacement": "Centered below each parish symbol; complete Tabernacle of Praise name.",
+  "emblem": {
+    "file": "brand/assets/rccg-emblem/references/rccg-wayforward-reference.png",
+    "sha256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+    "sourceDimensions": [
+      236,
+      236
+    ],
+    "displayDimensions": [
+      180,
+      180
+    ],
+    "originalChatUploadVerified": false
+  },
+  "layout": {
+    "viewBox": [
+      0,
+      0,
+      960,
+      500
+    ],
+    "emblemXY": [
+      155,
+      82
+    ],
+    "parishTranslation": [
+      465,
+      45
+    ],
+    "emblemAlignment": "Centered on the parish symbol, with parish name below."
+  },
+  "entries": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "mode": "light",
+      "file": "shared-rhythm-stacked-light-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/shared-rhythm-stacked-DRAFT.svg",
+      "parishSHA256": "e54db0607cda8e9e9d6bfb23bde9a760db23614f69f9078e0aee28c3eac52507"
+    },
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "mode": "dark",
+      "file": "shared-rhythm-stacked-dark-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/shared-rhythm-stacked-reverse-DRAFT.svg",
+      "parishSHA256": "b7430786c8834b198e3ec750dc96d96c03a8e1639a90dcd71421753f679c41bc"
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "mode": "light",
+      "file": "open-praise-stacked-light-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/open-praise-stacked-DRAFT.svg",
+      "parishSHA256": "23c7847db87f01e33130c6580ce383833d84f8af6533f5d56833315e95917768"
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "mode": "dark",
+      "file": "open-praise-stacked-dark-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/open-praise-stacked-reverse-DRAFT.svg",
+      "parishSHA256": "d725b47704f3e66b05e4160bc0150db61dac41f7d277e0e54fe99047fbdf198e"
+    }
+  ],
+  "checks": {
+    "allParishPathsPreserved": true,
+    "allFullNamesComplete": true,
+    "allEmblemBytesPreserved": true,
+    "noEmblemClipOrMask": true,
+    "pdfPages": 1,
+    "renderLayout": {
+      "broken": 0,
+      "noteBottom": 834.171875,
+      "footerTop": 886.40625
+    }
+  }
+}

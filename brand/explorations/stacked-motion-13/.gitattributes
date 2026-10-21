@@ -1,0 +1,5 @@
+exports/*.pdf binary
+pairings/*.pdf binary
+exports/*.zip binary
+animation/*.mp4 binary
+animation/*.gif binary

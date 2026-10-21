@@ -18,7 +18,21 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## RCCG pairing 12 — latest draft
+## Name-below and animation handoff 13 — latest development
+
+**DRAFT — NOT FOR PUBLICATION.** Both parish options now use the full name below the symbol, including their separate RCCG pairings. Shared Rhythm's motion expresses a **rising response to praise**, with four planes lifting in sequence and the name remaining still below.
+
+![Both logos with the name below](brand/explorations/stacked-motion-13/pairings/stacked-pairing-comparison.png)
+
+- **[Download updated logos, Google prompts and motion previews](brand/explorations/stacked-motion-13/exports/UPDATED-LOGOS-AND-GOOGLE-ANIMATION-DRAFT.zip)**
+- **[Watch the Shared Rhythm motion study](brand/explorations/stacked-motion-13/animation/shared-rhythm-rising-response-1080-DRAFT.mp4)**
+- [Google prompt to copy](brand/explorations/stacked-motion-13/exports/shared-rhythm-google-prompt.txt)
+- [Clean landscape PNG for Google](brand/explorations/stacked-motion-13/animation-inputs/shared-rhythm/landscape/full-logo-end-DRAFT.png)
+- [Updated static pairings, both upload images and instructions](brand/explorations/stacked-motion-13/README.md)
+
+The animation studies are controlled vector previews; no Google upload or generation has been performed. The RCCG reference remains separate, unchanged and excluded from generative animation inputs. Final brand and motion approval remain open; AGENTS.md and the identity skill are unchanged.
+
+## RCCG pairing 12 — preceding draft
 
 **DRAFT — NOT FOR PUBLICATION.** Both teal parish options now have separate light/dark pairing previews with an existing RCCG emblem reference. The emblem remains full color and unaltered on its own white field/panel.
 

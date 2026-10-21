@@ -1,0 +1,383 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "finalApproval": false,
+  "manualGoogleHandoff": true,
+  "googleGenerationPerformed": false,
+  "layout": "Full name below each parish symbol; static typography.",
+  "sharedRhythmMeaning": "A rising response to praise, reflecting the user phrase a rising reaction to praises.",
+  "defaultUpload": "01-upload-to-google/Shared-Rhythm/full-logo-end-landscape-DRAFT.png",
+  "rccg": "Static reference pairings only; excluded from every Google upload image.",
+  "entries": [
+    {
+      "file": "01-upload-to-google/Open-Praise/full-logo-end-landscape-DRAFT.png",
+      "bytes": 45445,
+      "sha256": "aaa48a92efb32c9650646ec2d3c0ceaee62a318cdaaa93db6f5797b916cac9b7",
+      "source": "animation-inputs/open-praise/landscape/full-logo-end-DRAFT.png"
+    },
+    {
+      "file": "01-upload-to-google/Open-Praise/full-logo-end-square-DRAFT.png",
+      "bytes": 41311,
+      "sha256": "eb22e4c6866af71e14f4f8d992f26b5238d91ca38aa5f5f7d8825ad4610c6a15",
+      "source": "animation-inputs/open-praise/square/full-logo-end-DRAFT.png"
+    },
+    {
+      "file": "01-upload-to-google/Open-Praise/full-logo-start-landscape-DRAFT.png",
+      "bytes": 45405,
+      "sha256": "c76172a01f26d068fa29f8e56a11d0385cda2572ae853a27c46e8e218f39cb3b",
+      "source": "animation-inputs/open-praise/landscape/full-logo-start-DRAFT.png"
+    },
+    {
+      "file": "01-upload-to-google/Open-Praise/full-logo-start-square-DRAFT.png",
+      "bytes": 41217,
+      "sha256": "67503447f3c65d8c1e274d27058982d11f8520cd36025bdd5a7b664f24fd7f74",
+      "source": "animation-inputs/open-praise/square/full-logo-start-DRAFT.png"
+    },
+    {
+      "file": "01-upload-to-google/Shared-Rhythm/full-logo-end-landscape-DRAFT.png",
+      "bytes": 48794,
+      "sha256": "9605a7c20782e75fcb2a173bd519b15894934fab824d014ecfd8a5a7ec20115d",
+      "source": "animation-inputs/shared-rhythm/landscape/full-logo-end-DRAFT.png"
+    },
+    {
+      "file": "01-upload-to-google/Shared-Rhythm/full-logo-end-square-DRAFT.png",
+      "bytes": 43643,
+      "sha256": "351dc4ad726b7ff91de49b34cb3013b85b936160fccd5f3da0371d8b927468dd",
+      "source": "animation-inputs/shared-rhythm/square/full-logo-end-DRAFT.png"
+    },
+    {
+      "file": "01-upload-to-google/Shared-Rhythm/full-logo-start-landscape-DRAFT.png",
+      "bytes": 48852,
+      "sha256": "3385bca675e9f499b5184f1d7dcfba5e38053a32d1412dc71471f1543ab01e27",
+      "source": "animation-inputs/shared-rhythm/landscape/full-logo-start-DRAFT.png"
+    },
+    {
+      "file": "01-upload-to-google/Shared-Rhythm/full-logo-start-square-DRAFT.png",
+      "bytes": 43565,
+      "sha256": "5f0260fb51227bccecd13600def29efd5b04adbcf4e9944a1e8db603bf191f94",
+      "source": "animation-inputs/shared-rhythm/square/full-logo-start-DRAFT.png"
+    },
+    {
+      "file": "02-copy-paste-prompts/Full-handoff-and-fallbacks-DRAFT.md",
+      "bytes": 4941,
+      "sha256": "4a852b729782592c91dd934d0347865059acca54031a9c26b87dc1fce4b97893",
+      "source": "animation/google-animation-prompts.md"
+    },
+    {
+      "file": "02-copy-paste-prompts/Open-Praise-google-prompt.txt",
+      "bytes": 849,
+      "sha256": "08792addf052ba58d2904653527724a4ee7ec51b95f07435812120641eccb816",
+      "source": "exports/open-praise-google-prompt.txt"
+    },
+    {
+      "file": "02-copy-paste-prompts/Shared-Rhythm-google-prompt.txt",
+      "bytes": 1407,
+      "sha256": "d0653bec97f3ed4e4253fe04b13a97248a69aad44e76b14970c3aa112e77187e",
+      "source": "exports/shared-rhythm-google-prompt.txt"
+    },
+    {
+      "file": "03-motion-previews/motion-preview-DRAFT.html",
+      "bytes": 232938,
+      "sha256": "d12619865182f410a4517de69496eae46904f06a01c88fba29f8991c80faba75",
+      "source": "animation/motion-preview-DRAFT.html"
+    },
+    {
+      "file": "03-motion-previews/open-praise-rising-response-1080-DRAFT.mp4",
+      "bytes": 59143,
+      "sha256": "447906aea96e2bee9c5ec5b7eb37cbb8f235cb2059ca3b0fc978f08f3f3feda4",
+      "source": "animation/open-praise-rising-response-1080-DRAFT.mp4"
+    },
+    {
+      "file": "03-motion-previews/shared-rhythm-motion-contact-sheet.png",
+      "bytes": 99952,
+      "sha256": "b98e711e3d61c1eafaf159113739b3c2f6bb35f26da327fab3448208eefab7b5",
+      "source": "animation/shared-rhythm-motion-contact-sheet.png"
+    },
+    {
+      "file": "03-motion-previews/shared-rhythm-rising-response-1080-DRAFT.mp4",
+      "bytes": 56041,
+      "sha256": "1021e4c36daddab8d85bee803762d15abe615c18551de9b703b644f58b96909d",
+      "source": "animation/shared-rhythm-rising-response-1080-DRAFT.mp4"
+    },
+    {
+      "file": "03-motion-previews/shared-rhythm-rising-response-540-DRAFT.gif",
+      "bytes": 244176,
+      "sha256": "ac7609cd29cd313a8c453d0e8ef1e894704a3d0b51b817b88ea4b7b2c274b78d",
+      "source": "animation/shared-rhythm-rising-response-540-DRAFT.gif"
+    },
+    {
+      "file": "04-static-RCCG-pairings/README-DRAFT.md",
+      "bytes": 1780,
+      "sha256": "0aaa8373770065cec16221bfc59e6e144a2cdbb4245771f3f629db9b5966aa77",
+      "source": "pairings/README.md"
+    },
+    {
+      "file": "04-static-RCCG-pairings/manifest-DRAFT.json",
+      "bytes": 2464,
+      "sha256": "ac027db90108f5f471896c2597e10ae7706b3c584bd3642be18aea5c3cbc2863",
+      "source": "pairings/manifest.json"
+    },
+    {
+      "file": "04-static-RCCG-pairings/open-praise-stacked-dark-pairing-DRAFT.svg",
+      "bytes": 52367,
+      "sha256": "ade51314a6c13481e085e1cb5d51efb37b87a446146a9c4396dd576e1f331de9",
+      "source": "pairings/open-praise-stacked-dark-pairing-DRAFT.svg"
+    },
+    {
+      "file": "04-static-RCCG-pairings/open-praise-stacked-light-pairing-DRAFT.svg",
+      "bytes": 52307,
+      "sha256": "7d562e597cc4ecba8430e07f5e1a46586a6f1be5c0718ea2f050202130737035",
+      "source": "pairings/open-praise-stacked-light-pairing-DRAFT.svg"
+    },
+    {
+      "file": "04-static-RCCG-pairings/shared-rhythm-stacked-dark-pairing-DRAFT.svg",
+      "bytes": 52348,
+      "sha256": "ee2468461196d4a1eaad0437e0e54bbf79c188f7712065641c7ec515135069f0",
+      "source": "pairings/shared-rhythm-stacked-dark-pairing-DRAFT.svg"
+    },
+    {
+      "file": "04-static-RCCG-pairings/shared-rhythm-stacked-light-pairing-DRAFT.svg",
+      "bytes": 52288,
+      "sha256": "0ab51f4a4e2a72ec51d3283cc94a9fea4e79e111e821ad74abd95fc6b9e164ee",
+      "source": "pairings/shared-rhythm-stacked-light-pairing-DRAFT.svg"
+    },
+    {
+      "file": "04-static-RCCG-pairings/stacked-pairing-comparison.png",
+      "bytes": 247741,
+      "sha256": "07c45e2307249ac395169abc0b17ffa284f20462580e018581771159df2b4c42",
+      "source": "pairings/stacked-pairing-comparison.png"
+    },
+    {
+      "file": "04-static-RCCG-pairings/stacked-pairing-review.pdf",
+      "bytes": 62487,
+      "sha256": "5aa678ef6af487ae89fb44f984f4ae8b26628956709d9c7eb0dcb56f6a5a3382",
+      "source": "pairings/stacked-pairing-review.pdf"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Open-Praise/name-overlay-landscape-DRAFT.png",
+      "bytes": 34154,
+      "sha256": "2874f006132909270019bb53c8036e4b37dbb8514ccf386f33d194fdb5249d02",
+      "source": "animation-inputs/open-praise/landscape/name-overlay-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Open-Praise/name-overlay-square-DRAFT.png",
+      "bytes": 29835,
+      "sha256": "e5e0c8cfea7766f466d75527691b1846bd7c4b78154565cdee82dd27d7593d05",
+      "source": "animation-inputs/open-praise/square/name-overlay-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Open-Praise/symbol-only-end-landscape-DRAFT.png",
+      "bytes": 21149,
+      "sha256": "a08c3688c6e5a7eb819e8e747e54b2fe123bec10298fdea5b05de69df159782a",
+      "source": "animation-inputs/open-praise/landscape/symbol-only-end-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Open-Praise/symbol-only-end-square-DRAFT.png",
+      "bytes": 17521,
+      "sha256": "abe405b19d75b2df948d63a29779acc27c0ca77c8685fe11c3e1eaa53bef99d9",
+      "source": "animation-inputs/open-praise/square/symbol-only-end-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Open-Praise/symbol-only-start-landscape-DRAFT.png",
+      "bytes": 21128,
+      "sha256": "e65e33542061e7fdb5d898362cbe437e2155dd9ed63c92ce3c00ef6e03eb3166",
+      "source": "animation-inputs/open-praise/landscape/symbol-only-start-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Open-Praise/symbol-only-start-square-DRAFT.png",
+      "bytes": 17552,
+      "sha256": "594a9ef7b4bd8bf4b923257b3f3f6c87bbd002fdfb3c91b63b7652e0dda5652a",
+      "source": "animation-inputs/open-praise/square/symbol-only-start-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Shared-Rhythm/name-overlay-landscape-DRAFT.png",
+      "bytes": 34154,
+      "sha256": "2874f006132909270019bb53c8036e4b37dbb8514ccf386f33d194fdb5249d02",
+      "source": "animation-inputs/shared-rhythm/landscape/name-overlay-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Shared-Rhythm/name-overlay-square-DRAFT.png",
+      "bytes": 29835,
+      "sha256": "e5e0c8cfea7766f466d75527691b1846bd7c4b78154565cdee82dd27d7593d05",
+      "source": "animation-inputs/shared-rhythm/square/name-overlay-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Shared-Rhythm/symbol-only-end-landscape-DRAFT.png",
+      "bytes": 24459,
+      "sha256": "506614d668816d7852ebbfc6741fb6c2fc999b326869011fc85e32162a797f50",
+      "source": "animation-inputs/shared-rhythm/landscape/symbol-only-end-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Shared-Rhythm/symbol-only-end-square-DRAFT.png",
+      "bytes": 19905,
+      "sha256": "6cac3cb2d6d8e4610691a3ebec7fc9b22ef7d205ef5d082cc15d42ad7e16bcc0",
+      "source": "animation-inputs/shared-rhythm/square/symbol-only-end-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Shared-Rhythm/symbol-only-start-landscape-DRAFT.png",
+      "bytes": 24541,
+      "sha256": "53a7db1d9dd87598ad2cfc189aa9f0a05d2ae049efb20efc9fc8ca4af3d8cf74",
+      "source": "animation-inputs/shared-rhythm/landscape/symbol-only-start-DRAFT.png"
+    },
+    {
+      "file": "05-optional-symbol-only-and-name-overlays/Shared-Rhythm/symbol-only-start-square-DRAFT.png",
+      "bytes": 19974,
+      "sha256": "8ed4243674fa91b0192b94e76310c9256e5e6aa5ec50a7a4c711e4a93ec1a633",
+      "source": "animation-inputs/shared-rhythm/square/symbol-only-start-DRAFT.png"
+    },
+    {
+      "file": "START-HERE.txt",
+      "bytes": 2019,
+      "sha256": "57583ab367e94331b3c1dffedd810079335dbbb08be9c6b5ca60ae87fc6fe987"
+    },
+    {
+      "file": "editable/Open-Praise/full-logo-end-landscape-DRAFT.svg",
+      "bytes": 20456,
+      "sha256": "2b35dcb1d2764cf2250dd0b4c68b3f8c6beac6fa3293f1e5aecd013a788e155a",
+      "source": "animation-inputs/open-praise/landscape/full-logo-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/full-logo-end-square-DRAFT.svg",
+      "bytes": 20456,
+      "sha256": "e058926ff8d0a62aceafa891eec51e4e858bf2a3304eeea7005c7dcfc76027b1",
+      "source": "animation-inputs/open-praise/square/full-logo-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/full-logo-start-landscape-DRAFT.svg",
+      "bytes": 20486,
+      "sha256": "7d43144e7ad2f437846b562f535ec1058c8e7ba0834b2319086acd7fdbc2abf8",
+      "source": "animation-inputs/open-praise/landscape/full-logo-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/full-logo-start-square-DRAFT.svg",
+      "bytes": 20486,
+      "sha256": "2eff88efd9e6f6aafe3534c315accd852c08e60b2d9fe00c2f89e05fef141568",
+      "source": "animation-inputs/open-praise/square/full-logo-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/name-overlay-landscape-DRAFT.svg",
+      "bytes": 19997,
+      "sha256": "fd5c0cfc19f1fae96fd5136ac78c57804908e59e26ccdca60ef7392d16b67f80",
+      "source": "animation-inputs/open-praise/landscape/name-overlay-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/name-overlay-square-DRAFT.svg",
+      "bytes": 19997,
+      "sha256": "1a5a499bd44179c3615f23d7ed1da3b73fc21dca0816186dc312fdf9fb4c98c8",
+      "source": "animation-inputs/open-praise/square/name-overlay-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/symbol-only-end-landscape-DRAFT.svg",
+      "bytes": 907,
+      "sha256": "c46d56a0967b7234d1f45a10c3d008fa2553b6a82fbdec70124e9744ffc72210",
+      "source": "animation-inputs/open-praise/landscape/symbol-only-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/symbol-only-end-square-DRAFT.svg",
+      "bytes": 907,
+      "sha256": "cf23d51a870e64ad3a20708ae8c24b38c222944ece3eca1496d4927999fb9a80",
+      "source": "animation-inputs/open-praise/square/symbol-only-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/symbol-only-start-landscape-DRAFT.svg",
+      "bytes": 937,
+      "sha256": "59141eac7824d69aa761a74e515a9f9ec20b7ea094018751c6f0e4e10e5771c9",
+      "source": "animation-inputs/open-praise/landscape/symbol-only-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/Open-Praise/symbol-only-start-square-DRAFT.svg",
+      "bytes": 937,
+      "sha256": "388f943a45de6dfd31ee0b7450306f86a129434a2fa0fc240053cf0c2b59cae9",
+      "source": "animation-inputs/open-praise/square/symbol-only-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/full-logo-end-landscape-DRAFT.svg",
+      "bytes": 20435,
+      "sha256": "1aeea74f9ea16806fb2e35f677c4b4ae95479b7e13c372828aaa0dc23b90cc01",
+      "source": "animation-inputs/shared-rhythm/landscape/full-logo-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/full-logo-end-square-DRAFT.svg",
+      "bytes": 20435,
+      "sha256": "4eeda036577c2bb6d6bc6546ae52d5bcdff09d6b9ed2026ddcfc96ecaa052034",
+      "source": "animation-inputs/shared-rhythm/square/full-logo-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/full-logo-start-landscape-DRAFT.svg",
+      "bytes": 20549,
+      "sha256": "a09e0ea494ceeb1d6cc9698d4c166f98b53b608e347f01180851927d1658ec6b",
+      "source": "animation-inputs/shared-rhythm/landscape/full-logo-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/full-logo-start-square-DRAFT.svg",
+      "bytes": 20549,
+      "sha256": "6baf4cebaae6f8085668e507f8c41afa48542a6e57e497bb740fcb7d4046bf89",
+      "source": "animation-inputs/shared-rhythm/square/full-logo-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/name-overlay-landscape-DRAFT.svg",
+      "bytes": 19999,
+      "sha256": "7dd0417d116736d585331444ad454250e759368e3c76fa9a62e319dc1620bca9",
+      "source": "animation-inputs/shared-rhythm/landscape/name-overlay-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/name-overlay-square-DRAFT.svg",
+      "bytes": 19999,
+      "sha256": "46b1581ae67e4b6db7a170a3717a390c8c31b74f7a3380c435bd0896d480438a",
+      "source": "animation-inputs/shared-rhythm/square/name-overlay-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/symbol-only-end-landscape-DRAFT.svg",
+      "bytes": 886,
+      "sha256": "7dd492c66a78f7b469212b12b5a31fd4a0b8da73ec094de2888ab99cb6ebc09f",
+      "source": "animation-inputs/shared-rhythm/landscape/symbol-only-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/symbol-only-end-square-DRAFT.svg",
+      "bytes": 886,
+      "sha256": "03e60d475c1d976267acf762ddbc214cf1ddfe9fe3fc67f32a955e3c277479d8",
+      "source": "animation-inputs/shared-rhythm/square/symbol-only-end-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/symbol-only-start-landscape-DRAFT.svg",
+      "bytes": 1000,
+      "sha256": "ee8c03ef0f9059d828db7c95a2c5ab48563a137a96fff2f2adf923133c9f5603",
+      "source": "animation-inputs/shared-rhythm/landscape/symbol-only-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/Shared-Rhythm/symbol-only-start-square-DRAFT.svg",
+      "bytes": 1000,
+      "sha256": "82e4f6d346c9ffad4655046c4d59881e67d98992bc2da53d3c869ce555a45c39",
+      "source": "animation-inputs/shared-rhythm/square/symbol-only-start-DRAFT.svg"
+    },
+    {
+      "file": "editable/animation-inputs-manifest-DRAFT.json",
+      "bytes": 6991,
+      "sha256": "a9b102eec7cbc1b26e83f0d254a621bd82a06269d91bf0aacc9c10ae830b4ea0",
+      "source": "animation-inputs/manifest.json"
+    },
+    {
+      "file": "editable/motion-checks-DRAFT.json",
+      "bytes": 2645,
+      "sha256": "9f62a709efbc6b6e16d9950f16ad4a0183e76db14e2499afac40e4ce1078bcd4",
+      "source": "animation/motion-checks.json"
+    },
+    {
+      "file": "editable/storyboard-DRAFT.json",
+      "bytes": 4506,
+      "sha256": "f4024a284f063d7f7871a8a2b6e51fa9a8e5b0aca6a0b462fbe49bc7c3c8dbbc",
+      "source": "animation/storyboard.json"
+    }
+  ],
+  "package": {
+    "file": "exports/UPDATED-LOGOS-AND-GOOGLE-ANIMATION-DRAFT.zip",
+    "entries": 61,
+    "bytes": 1582122,
+    "sha256": "89053e3e440a16ad3173918fa52be94849db799757bdf2c02f572c1c5c643828"
+  },
+  "checks": {
+    "zipIntegrity": true,
+    "allEntryBytesMatchSources": true,
+    "bothMotionVideosPresent": true,
+    "googleUploadImagesExcludeRCCG": true
+  }
+}
