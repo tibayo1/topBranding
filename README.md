@@ -18,7 +18,19 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## RCCG paired motion graphics 14 — latest development
+## Larger RCCG emblem 15 — latest layout
+
+**DRAFT — NOT FOR PUBLICATION.** The separate RCCG seal now nearly matches the height of the complete parish logo, including the name below. Both identities have a more comparable presence. The parish artwork and lettering are preserved.
+
+![Updated PNGs with a larger RCCG emblem](brand/explorations/balanced-emblem-15/exports/larger-RCCG-comparison-DRAFT.png)
+
+- **[Shared Rhythm — updated PNG](brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-square-DRAFT.png)**
+- **[Open Praise — updated PNG](brand/explorations/balanced-emblem-15/exports/open-praise-RCCG-larger-square-DRAFT.png)**
+- [Editable SVGs, widescreen PNGs and size notes](brand/explorations/balanced-emblem-15/README.md)
+
+This update covers the static PNG/SVG layouts. The preceding motion graphics below retain their earlier proportions. The original reference PNG stays embedded unchanged; enlarging it adds no source detail or production approval.
+
+## RCCG paired motion graphics 14 — preceding development
 
 **DRAFT — NOT FOR PUBLICATION.** Both parish options now have actual motion graphics with the separate RCCG emblem included. The complete name stays below the symbol. Shared Rhythm expresses a **rising response to praise**; the RCCG emblem and name stay stationary.
 

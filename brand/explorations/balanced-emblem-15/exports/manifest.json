@@ -1,0 +1,63 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "finalApproval": false,
+  "referenceSHA256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+  "referenceBytesPreserved": true,
+  "allParishPathsInternalTransformsAndNamePreserved": true,
+  "increasePercent": 100,
+  "records": [
+    {
+      "concept": "shared-rhythm",
+      "format": "square",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-square-end-DRAFT.svg",
+      "sourceSHA256": "a88d96cb1f224057e0d7648d4f664557e97acf42e2e4765c6ea382a63ff5ffe2",
+      "svg": "exports/shared-rhythm-RCCG-larger-square-DRAFT.svg",
+      "png": "exports/shared-rhythm-RCCG-larger-square-DRAFT.png",
+      "pngSHA256": "8ab75a30714114f2794d1bad50f503f22302f0f7be8c919761abc43dd074de45",
+      "visibleEmblemHeight": 370.831,
+      "completeParishLogoHeight": 387.2,
+      "parishSymbolHeight": 231.0,
+      "emblemImageDisplaySize": 396.00000000000006
+    },
+    {
+      "concept": "shared-rhythm",
+      "format": "landscape",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-landscape-end-DRAFT.svg",
+      "sourceSHA256": "ee91b0c0c61f8ce4b8d8dcd0892dcd2f0256f678858d7c5e94739401c812a5bb",
+      "svg": "exports/shared-rhythm-RCCG-larger-landscape-DRAFT.svg",
+      "png": "exports/shared-rhythm-RCCG-larger-landscape-DRAFT.png",
+      "pngSHA256": "7218f8f93a6211a34430cd28f6be2304d88a56c25dfa5c224c30719f77c4db2a",
+      "visibleEmblemHeight": 438.254,
+      "completeParishLogoHeight": 457.6,
+      "parishSymbolHeight": 273.0,
+      "emblemImageDisplaySize": 468.0
+    },
+    {
+      "concept": "open-praise",
+      "format": "square",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-square-end-DRAFT.svg",
+      "sourceSHA256": "7ca9dde0266aab85abd9107791de26f32fe748bee3cfba548cc2af86df2af852",
+      "svg": "exports/open-praise-RCCG-larger-square-DRAFT.svg",
+      "png": "exports/open-praise-RCCG-larger-square-DRAFT.png",
+      "pngSHA256": "017fd4eb15ea7df0cc99fe53f0e0ab047864c241938be4192a9e36eb7a44a72f",
+      "visibleEmblemHeight": 370.831,
+      "completeParishLogoHeight": 379.115,
+      "parishSymbolHeight": 214.83,
+      "emblemImageDisplaySize": 396.00000000000006
+    },
+    {
+      "concept": "open-praise",
+      "format": "landscape",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-landscape-end-DRAFT.svg",
+      "sourceSHA256": "d6884b3d83a4e30b7019ac071bf7d5ddf45d8a9f6153c098ce3e85efc1b8971a",
+      "svg": "exports/open-praise-RCCG-larger-landscape-DRAFT.svg",
+      "png": "exports/open-praise-RCCG-larger-landscape-DRAFT.png",
+      "pngSHA256": "3639d4ece411b0d53ef76c2fa8ea684baf8649a9da22a9cf2e788c7426682e72",
+      "visibleEmblemHeight": 438.254,
+      "completeParishLogoHeight": 448.045,
+      "parishSymbolHeight": 253.89,
+      "emblemImageDisplaySize": 468.0
+    }
+  ],
+  "note": "Existing 236px reference is displayed larger for proportion review; no additional source detail or production-master status is claimed. Motion 14 files retain their preceding proportions."
+}

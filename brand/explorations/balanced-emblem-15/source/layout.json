@@ -1,0 +1,25 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "requested": "2026-10-22",
+  "change": "Enlarge the separate RCCG seal to nearly the height of each complete parish logo, including its name.",
+  "emblemImageSizeBefore": 180,
+  "emblemImageSizeAfter": 360,
+  "increasePercent": 100,
+  "emblemVisibleCenter": [245, 243],
+  "whitePanelSize": 376,
+  "reference": "brand/assets/rccg-emblem/references/rccg-wayforward-reference.png",
+  "referenceSHA256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+  "referenceNativeSize": [236, 236],
+  "sourceStudy": "brand/explorations/rccg-motion-14",
+  "directions": [
+    {"id": "shared-rhythm", "name": "Shared Rhythm", "symbolInkHeight": 210, "completeLogoHeight": 352},
+    {"id": "open-praise", "name": "Open Praise", "symbolInkHeight": 195.3, "completeLogoHeight": 344.65}
+  ],
+  "formats": {
+    "square": {"width": 1080, "height": 1080, "sceneScale": 1.1, "sceneX": 66.45, "sceneY": 265},
+    "landscape": {"width": 1920, "height": 1080, "sceneScale": 1.3, "sceneX": 400.35, "sceneY": 215}
+  },
+  "scope": "Updated static PNG and editable SVG layouts. Motion graphics 14 are preserved as the preceding proportions.",
+  "namePlacement": "Complete Tabernacle of Praise below the parish symbol, unchanged.",
+  "publicationApproval": false
+}
