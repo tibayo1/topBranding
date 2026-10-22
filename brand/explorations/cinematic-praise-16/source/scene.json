@@ -1,0 +1,23 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "concept": "Shared Rhythm — gathering, shared rise, resolve",
+  "meaning": "Many responses gathering into one rising response to praise; a design metaphor, not official church doctrine or a mission statement.",
+  "duration": 14,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "exactHold": [10.5, 14],
+  "palette": {"teal": "#10494C", "ivory": "#F6F3EC", "gold": "#B69255", "sand": "#D9CBB4"},
+  "endSource": "brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.svg",
+  "endPNGSource": "brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.png",
+  "stages": [
+    {"seconds": [0, 2.4], "action": "Distinct fine material voices approach through a quiet architectural space."},
+    {"seconds": [2.4, 5], "action": "Filaments gather around an intentionally open forecourt; surfaces begin to unfold."},
+    {"seconds": [5, 8.5], "action": "A coordinated rise reveals four lit folded planes as the camera pulls back."},
+    {"seconds": [8.5, 10.5], "action": "Perspective and materials resolve into exact parish artwork; unaltered parent emblem and name appear."},
+    {"seconds": [10.5, 14], "action": "The exact larger-emblem paired source artwork holds completely still."}
+  ],
+  "method": "Deterministic projected 3D vector geometry rendered through Canvas; no generated people or external generative video service.",
+  "originalEmblemBytes": "Preserved only inside the exact final source composition, never involved in material transformations.",
+  "finalApproval": false
+}

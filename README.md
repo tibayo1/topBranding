@@ -18,7 +18,20 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Larger RCCG emblem 15 — latest layout
+## Shared Rhythm motion film 16 — latest development
+
+**DRAFT — NOT FOR PUBLICATION.** A new fourteen-second film develops gathering, a shared rise and folded architecture into the Shared Rhythm identity. The closing hold uses the exact larger RCCG pairing and full two-line name below the parish symbol.
+
+![Shared Rhythm motion storyboard](brand/explorations/cinematic-praise-16/previews/storyboard-DRAFT.png)
+
+- **[Watch with original sound study](brand/explorations/cinematic-praise-16/exports/shared-rhythm-cinematic-1080p-SOUND-DRAFT.mp4)**
+- **[Watch without sound](brand/explorations/cinematic-praise-16/exports/shared-rhythm-cinematic-1080p-SILENT-DRAFT.mp4)**
+- **[Download the film and editable sources](brand/explorations/cinematic-praise-16/exports/SHARED-RHYTHM-CINEMATIC-DRAFT.zip)**
+- [Browser preview, storyboard, exact closing artwork and notes](brand/explorations/cinematic-praise-16/README.md)
+
+The motion is built procedurally from the parish geometry. No private uploaded footage is included, and the RCCG emblem stays intact. The optional original synthesized sound is a study, with a silent alternative. Shared Rhythm remains an exploration; Open Praise continues as a separate logo option. Final identity, sound and publication approval remain open.
+
+## Larger RCCG emblem 15 — latest static layout
 
 **DRAFT — NOT FOR PUBLICATION.** The separate RCCG seal now nearly matches the height of the complete parish logo, including the name below. Both identities have a more comparable presence. The parish artwork and lettering are preserved.
 

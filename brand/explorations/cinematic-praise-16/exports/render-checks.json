@@ -1,0 +1,31 @@
+{
+  "status": "DRAFT \u2014 NOT FOR PUBLICATION",
+  "method": "Deterministic projected 3D vector geometry rendered through Canvas; no generated people or external generative video service.",
+  "sourceSVG": "brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.svg",
+  "sourceSVGSHA256": "0c1c8f44dc634b6a491b0db15293c953cf8916134df91306fb08d9d2dd7d22e0",
+  "sourcePNG": "brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.png",
+  "sourcePNGSHA256": "7218f8f93a6211a34430cd28f6be2304d88a56c25dfa5c224c30719f77c4db2a",
+  "exactEndSVGCopied": true,
+  "exactEndPNGCopied": true,
+  "losslessFinalHoldPixelMatch": true,
+  "exactHoldSeconds": [
+    10.5,
+    14
+  ],
+  "video": "exports/shared-rhythm-cinematic-1080p-SILENT-DRAFT.mp4",
+  "sha256": "d0cb58733a5bfb6727ece52cf26c4bcbee83e45894e04a0ed8fad4080ad52456",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 420,
+  "duration": 14,
+  "silent": true,
+  "codec": "h264",
+  "pixelFormat": "yuv420p",
+  "allFramesNonBlack": true,
+  "notes": [
+    "Final hold equality checked before lossy H264 encoding.",
+    "Original RCCG reference is only composited intact; it is not transformed into the dimensional scene.",
+    "The film uses no human figures, unverified church scenes or external generated video."
+  ]
+}

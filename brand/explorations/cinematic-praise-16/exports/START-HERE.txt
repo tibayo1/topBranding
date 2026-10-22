@@ -1,0 +1,57 @@
+TABERNACLE OF PRAISE — SHARED RHYTHM CINEMATIC FILM
+DRAFT — NOT FOR PUBLICATION
+
+WATCH
+Open an MP4 in 01-watch directly in a video player or browser.
+SOUND includes an optional original synthesized sound-design study.
+SILENT is the same visual film without an audio track.
+The film is 14 seconds, 1920 x 1080, 30 frames per second.
+
+THE IDEA
+Individual strands gather, rise together, and unfold into Shared Rhythm's
+four architectural planes: a rising response to praise. This is a design
+interpretation of shared worship, not an official mission statement.
+
+THE ENDING
+The last 3.5 seconds hold the exact larger-RCCG paired layout from study15.
+The parish's complete two-line name stays below its symbol. The RCCG seal
+is separate, unmodified and intact. The supplied SVG/PNG is the exact final
+composition before lossy video encoding.
+
+THE SOUND STUDY
+The score was synthesized for this film from original tones and filtered
+noise. It uses no existing music or recording and has no vocals. Technical
+checks are supplied. It could not be auditioned by the assistant in this
+environment; treat it as an optional draft sound study, not a mastered score.
+
+OTHER FILES
+02-endframe contains the editable SVG and PNG closing frame.
+03-preview contains a GIF, storyboard and portable browser preview.
+04-original-sound contains the original WAV and sound-study notes.
+05-editable-rebuild preserves a small repository-like source/dependency tree.
+06-records contains rendering, sound and any available visual-review checks.
+
+TO REBUILD
+Open a terminal inside 05-editable-rebuild, then run:
+
+python brand/explorations/cinematic-praise-16/source/build_film.py
+python brand/explorations/cinematic-praise-16/audio/build_sound.py
+python brand/explorations/cinematic-praise-16/source/mux_sound.py
+
+This requires the existing Python/Pillow/NumPy/SciPy, Playwright/Chromium and
+ffmpeg environment. It is not a zero-install application. Consult source
+and scene parameters for exact installed-tool paths and options. The videos
+are ready to watch without rebuilding. The third command adds the new sound
+study while preserving the film's video stream without re-encoding it. The
+original WAV and silent film are also supplied separately.
+
+SOURCE AND REVIEW STATUS
+This is controlled procedural/vector motion with an optional synthesized
+score. No Google video generation or upload to a generative service was
+performed. The user's privately uploaded reference video is not part of
+these deliverables.
+The existing RCCG image is a documented 236 x 236 parish-source reference,
+not the unavailable 1200 x 1200 original chat upload or a production master.
+Its original PNG bytes and provenance are preserved; display scaling adds
+no image detail. Final identity, palette, typography, motion, production
+asset and publication approval remain open.

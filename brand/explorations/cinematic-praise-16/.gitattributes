@@ -1,0 +1,4 @@
+exports/*.mp4 binary
+exports/*.zip binary
+audio/*.wav binary
+previews/*.gif binary

@@ -1,0 +1,16 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "durationSeconds": 14,
+  "frames": 420,
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "videoPacketsByteIdenticalToSilentVersion": true,
+  "audio": "Optional original synthesized sound study; not auditioned by the assistant.",
+  "silentSHA256": "d0cb58733a5bfb6727ece52cf26c4bcbee83e45894e04a0ed8fad4080ad52456",
+  "WAV_SHA256": "f59846f9ca3b5188e1f36530c85ae62669d0a9aae968f7b85a507358caddcd3e",
+  "soundMP4_SHA256": "8b97e03a32d187ad8c1c159b823472ebf79a75d6fe1a49250184a7c10f028c78",
+  "publicationApproval": false
+}
