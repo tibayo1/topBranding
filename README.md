@@ -18,7 +18,20 @@ The project is in **exploration**, not final-brand production. The standalone wo
 
 Read [the brand brief](.agents/skills/rccg-top-identity/references/brand-brief.md) before generating designs. Don't copy reference logos, use invented service details, or publish without approval.
 
-## Name-below and animation handoff 13 — latest development
+## RCCG paired motion graphics 14 — latest development
+
+**DRAFT — NOT FOR PUBLICATION.** Both parish options now have actual motion graphics with the separate RCCG emblem included. The complete name stays below the symbol. Shared Rhythm expresses a **rising response to praise**; the RCCG emblem and name stay stationary.
+
+![Shared Rhythm motion graphic with RCCG](brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-square-end-DRAFT.png)
+
+- **[Watch Shared Rhythm — square MP4](brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-square-DRAFT.mp4)**
+- **[Watch Open Praise — square MP4](brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-square-DRAFT.mp4)**
+- **[Download both motion graphics and sources](brand/explorations/rccg-motion-14/exports/RCCG-TOP-MOTION-GRAPHICS-DRAFT.zip)**
+- [Widescreen videos, browser player, stills and motion notes](brand/explorations/rccg-motion-14/README.md)
+
+Ten-second silent drafts in 1920×1080 and 1080×1080, with a four-second final hold. The full-color RCCG reference stays unchanged on its own white panel. These are controlled vector motion graphics; no Google upload or generation has been performed. Final identity and publication approval remain open.
+
+## Name-below and animation handoff 13 — preceding development
 
 **DRAFT — NOT FOR PUBLICATION.** Both parish options now use the full name below the symbol, including their separate RCCG pairings. Shared Rhythm's motion expresses a **rising response to praise**, with four planes lifting in sequence and the name remaining still below.
 

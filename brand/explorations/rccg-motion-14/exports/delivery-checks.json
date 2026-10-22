@@ -1,0 +1,60 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "date": "2026-10-22",
+  "finalApproval": false,
+  "googleGenerationPerformed": false,
+  "checks": {
+    "endSVGsPreserveAllParishPathsAnd18LetterFullName": true,
+    "endSVGsContainWholeByteIdenticalRCCGReference": true,
+    "offlinePlayerFourFinalPosesMatchPNGs": true,
+    "offlinePlayerControlsAndReducedMotion": true,
+    "offlinePlayerPageErrors": 0,
+    "offlinePlayerNetworkRequests": 0,
+    "ZIPPayloadsByteMatched": 34,
+    "ZIPEmbeddedManifestMatches": true,
+    "ZIP_SHA256": "6b035699ef1cef56426992ea6b65538cd0c2940af5649390d87204b10df41217",
+    "localMarkdownLinksExist": true,
+    "AGENTSAndSkillsUnchanged": true
+  },
+  "videos": [
+    {
+      "file": "exports/shared-rhythm-RCCG-motion-landscape-DRAFT.mp4",
+      "sha256": "e8294bb8065dbfa85b65235b4f1bc2a9872eb81ad0bb695f2fd75b99a022dd91",
+      "frames": 300,
+      "durationSeconds": 10,
+      "silent": true,
+      "decoded8sMeanAbsoluteRGBDifferenceFromLosslessEndPNG": 1.4464
+    },
+    {
+      "file": "exports/shared-rhythm-RCCG-motion-square-DRAFT.mp4",
+      "sha256": "261c677979f05ec564929fee961b00dc4fb8830bc1b1d19e0ceb34d4ded0ab0f",
+      "frames": 300,
+      "durationSeconds": 10,
+      "silent": true,
+      "decoded8sMeanAbsoluteRGBDifferenceFromLosslessEndPNG": 1.5128
+    },
+    {
+      "file": "exports/open-praise-RCCG-motion-landscape-DRAFT.mp4",
+      "sha256": "52a7021e91561bbb1d1bc2d2d998ef3d1ab401cc49e2520902405ac73ddd8aa9",
+      "frames": 300,
+      "durationSeconds": 10,
+      "silent": true,
+      "decoded8sMeanAbsoluteRGBDifferenceFromLosslessEndPNG": 1.446
+    },
+    {
+      "file": "exports/open-praise-RCCG-motion-square-DRAFT.mp4",
+      "sha256": "aa8cd699084240f157d99c621e89635067ea138a0ae7188096b7126253ba0c79",
+      "frames": 300,
+      "durationSeconds": 10,
+      "silent": true,
+      "decoded8sMeanAbsoluteRGBDifferenceFromLosslessEndPNG": 1.5122
+    }
+  ],
+  "limits": [
+    "The RCCG image is the documented existing 236px parish-source draft reference, not the unavailable 1200px original or a production master.",
+    "Lossless static-element/final-pose checks were run by the renderer on all 300 frames; independent review sampled actual frames and source artwork.",
+    "H264/YUV is lossy; decoded comparisons measure small expected compression differences.",
+    "Offline browser verification used set_content; local file navigation is blocked by the managed browser policy.",
+    "Draft logo, palette, motion, production asset and publishing approval remain open."
+  ]
+}

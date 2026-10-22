@@ -1,0 +1,42 @@
+TABERNACLE OF PRAISE + RCCG — MOTION GRAPHICS
+DRAFT — NOT FOR PUBLICATION
+
+WATCH
+Open the MP4 files directly in a browser or video player.
+01-landscape-videos has 1920 x 1080 versions for presentations and widescreen.
+02-square-videos has 1080 x 1080 versions for a square social-media layout.
+Both concepts run for 10 seconds at 30 fps and are silent.
+
+SHARED RHYTHM
+The four unequal planes rise together in an overlapping response to praise,
+reflecting the description "a rising reaction to praises". Their original
+outlines stay rigid and separate. The final paired artwork holds still from
+6 to 10 seconds. The complete name remains below the parish symbol.
+
+OPEN PRAISE
+The single symbol makes a quieter lift and settle. Its full name stays below.
+
+THE RCCG EMBLEM
+The complete RCCG reference remains separate, in its original colors on a
+white panel. Its position and appearance remain static throughout the video.
+It is the documented 236 x 236 parish-source reference, preserved unchanged;
+it is not the unavailable original 1200 x 1200 chat upload or a verified
+high-resolution production master. Source and checksum records are included.
+
+OTHER FILES
+03-endframes contains SVG and PNG versions of each exact closing layout.
+04-motion-preview contains a portable browser player, a GIF and a storyboard.
+05-editable-rebuild preserves repository-relative scripts, input artwork,
+font/license and reference assets. To rebuild, open a terminal inside that
+folder and run:
+
+python brand/explorations/rccg-motion-14/source/build_motion.py
+
+Rebuilding requires the existing Python/Pillow/numpy/scipy/Playwright,
+Chromium and ffmpeg environment. It is not a zero-install project. Inspect
+the source for current command options and dependencies. The supplied
+videos are ready to watch without rebuilding. 06-records documents checks.
+
+These are controlled vector motion graphics. No files were uploaded to
+Google and no Google video generation was performed for this package.
+Final logo, palette, typography, motion and publication approval remain open.

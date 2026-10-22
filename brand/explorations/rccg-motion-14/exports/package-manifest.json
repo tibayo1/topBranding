@@ -1,0 +1,251 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "finalApproval": false,
+  "googleGenerationPerformed": false,
+  "externalUploadsPerformed": false,
+  "defaultWatch": "01-landscape-videos/shared-rhythm-RCCG-motion-landscape-DRAFT.mp4",
+  "concepts": [
+    "Shared Rhythm",
+    "Open Praise"
+  ],
+  "durationSeconds": 10,
+  "fps": 30,
+  "silent": true,
+  "namePlacement": "Complete Tabernacle of Praise name below each parish symbol; static throughout.",
+  "sharedRhythmMeaning": "A rising response to praise, preserving the user phrase a rising reaction to praises.",
+  "rccg": {
+    "sourceSHA256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+    "sourceSize": [
+      236,
+      236
+    ],
+    "static": true,
+    "sourceBytesUnchanged": true,
+    "original1200pxUpload": false,
+    "productionMaster": false
+  },
+  "rebuild": {
+    "folder": "05-editable-rebuild",
+    "script": "brand/explorations/rccg-motion-14/source/build_motion.py",
+    "relativePathsPreserved": true,
+    "requiresInstalledTools": true
+  },
+  "entries": [
+    {
+      "file": "01-landscape-videos/open-praise-RCCG-motion-landscape-DRAFT.mp4",
+      "bytes": 118896,
+      "sha256": "52a7021e91561bbb1d1bc2d2d998ef3d1ab401cc49e2520902405ac73ddd8aa9",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-landscape-DRAFT.mp4"
+    },
+    {
+      "file": "01-landscape-videos/shared-rhythm-RCCG-motion-landscape-DRAFT.mp4",
+      "bytes": 118087,
+      "sha256": "e8294bb8065dbfa85b65235b4f1bc2a9872eb81ad0bb695f2fd75b99a022dd91",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-landscape-DRAFT.mp4"
+    },
+    {
+      "file": "02-square-videos/open-praise-RCCG-motion-square-DRAFT.mp4",
+      "bytes": 96476,
+      "sha256": "aa8cd699084240f157d99c621e89635067ea138a0ae7188096b7126253ba0c79",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-square-DRAFT.mp4"
+    },
+    {
+      "file": "02-square-videos/shared-rhythm-RCCG-motion-square-DRAFT.mp4",
+      "bytes": 96566,
+      "sha256": "261c677979f05ec564929fee961b00dc4fb8830bc1b1d19e0ceb34d4ded0ab0f",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-square-DRAFT.mp4"
+    },
+    {
+      "file": "03-endframes/open-praise-RCCG-motion-landscape-end-DRAFT.png",
+      "bytes": 145833,
+      "sha256": "bf5095612f956dfae09c092cf02aec67de56907312c1ebb142bd8309b7cb25b9",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-landscape-end-DRAFT.png"
+    },
+    {
+      "file": "03-endframes/open-praise-RCCG-motion-landscape-end-DRAFT.svg",
+      "bytes": 52422,
+      "sha256": "d6884b3d83a4e30b7019ac071bf7d5ddf45d8a9f6153c098ce3e85efc1b8971a",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-landscape-end-DRAFT.svg"
+    },
+    {
+      "file": "03-endframes/open-praise-RCCG-motion-square-end-DRAFT.png",
+      "bytes": 107349,
+      "sha256": "9f4a650fe574cd2d3b40cadff0cf425b542fbcfc23df32640555a88e514c5082",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-square-end-DRAFT.png"
+    },
+    {
+      "file": "03-endframes/open-praise-RCCG-motion-square-end-DRAFT.svg",
+      "bytes": 52421,
+      "sha256": "7ca9dde0266aab85abd9107791de26f32fe748bee3cfba548cc2af86df2af852",
+      "source": "brand/explorations/rccg-motion-14/exports/open-praise-RCCG-motion-square-end-DRAFT.svg"
+    },
+    {
+      "file": "03-endframes/shared-rhythm-RCCG-motion-landscape-end-DRAFT.png",
+      "bytes": 148392,
+      "sha256": "09b67fce0b14f821a55f59c4f5c9f2975024996108c18b96bf2395b0803304df",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-landscape-end-DRAFT.png"
+    },
+    {
+      "file": "03-endframes/shared-rhythm-RCCG-motion-landscape-end-DRAFT.svg",
+      "bytes": 52403,
+      "sha256": "ee91b0c0c61f8ce4b8d8dcd0892dcd2f0256f678858d7c5e94739401c812a5bb",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-landscape-end-DRAFT.svg"
+    },
+    {
+      "file": "03-endframes/shared-rhythm-RCCG-motion-square-end-DRAFT.png",
+      "bytes": 109791,
+      "sha256": "54456035a938e342a74946244503bf047f4996d43055683a710262682ed95815",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-square-end-DRAFT.png"
+    },
+    {
+      "file": "03-endframes/shared-rhythm-RCCG-motion-square-end-DRAFT.svg",
+      "bytes": 52402,
+      "sha256": "a88d96cb1f224057e0d7648d4f664557e97acf42e2e4765c6ea382a63ff5ffe2",
+      "source": "brand/explorations/rccg-motion-14/exports/shared-rhythm-RCCG-motion-square-end-DRAFT.svg"
+    },
+    {
+      "file": "04-motion-preview/preview.html",
+      "bytes": 691096,
+      "sha256": "49e7ce185e1fc6ae8ae6de65645da915cc59d4e2d6cae3e4d6bbaee2158a230b",
+      "source": "brand/explorations/rccg-motion-14/preview.html"
+    },
+    {
+      "file": "04-motion-preview/shared-rhythm-RCCG-motion-DRAFT.gif",
+      "bytes": 152817,
+      "sha256": "923407e7786cbdb929723bd51b020e38780c213210dbb6d957f383f784181e82",
+      "source": "brand/explorations/rccg-motion-14/previews/shared-rhythm-RCCG-motion-DRAFT.gif"
+    },
+    {
+      "file": "04-motion-preview/shared-rhythm-RCCG-storyboard-DRAFT.png",
+      "bytes": 89986,
+      "sha256": "38545f661f345b55e97c7e3601720529f7b516b4c1e221be9bec4730bd7463d9",
+      "source": "brand/explorations/rccg-motion-14/previews/shared-rhythm-RCCG-storyboard-DRAFT.png"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/README.md",
+      "bytes": 2524,
+      "sha256": "78b4394f532f542acd9e64abc7a8ee653d3478a9fad93fe8ee82a7801b07b84c",
+      "source": "brand/assets/rccg-emblem/README.md"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/references/README.md",
+      "bytes": 1744,
+      "sha256": "a9c33d47c5196b925f0b024aae60995a4fbb6481d430eb583a6e5d26d22e3813",
+      "source": "brand/assets/rccg-emblem/references/README.md"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/references/provenance.json",
+      "bytes": 1167,
+      "sha256": "53cf448cbfacf4e65dae6b117076a3ecc7e4f6f68099845e791bb57edcb65c1b",
+      "source": "brand/assets/rccg-emblem/references/provenance.json"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/references/rccg-wayforward-reference.png",
+      "bytes": 23611,
+      "sha256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+      "source": "brand/assets/rccg-emblem/references/rccg-wayforward-reference.png"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/identity-development-09/type-study/fonts/instrumentsans/InstrumentSans[wdth,wght].ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1",
+      "source": "brand/explorations/identity-development-09/type-study/fonts/instrumentsans/InstrumentSans[wdth,wght].ttf"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/identity-development-09/type-study/fonts/instrumentsans/OFL.txt",
+      "bytes": 4403,
+      "sha256": "9e27a72ed30eb49a08678f6a5d6ed98ec7ba5368f541637ee0683ec9134ef966",
+      "source": "brand/explorations/identity-development-09/type-study/fonts/instrumentsans/OFL.txt"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/rccg-motion-14/source/build_motion.py",
+      "bytes": 16653,
+      "sha256": "0951f438a6881e7d2c1ed30d32d4771ed77fc8b89bb8301eeed4c3ffbce63c6d",
+      "source": "brand/explorations/rccg-motion-14/source/build_motion.py"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/rccg-motion-14/source/build_package.py",
+      "bytes": 8344,
+      "sha256": "b0cc2ba6478f6268c8246f4a75f9b4baf2f1ba4514cef1c8be0b8f750ab2d734",
+      "source": "brand/explorations/rccg-motion-14/source/build_package.py"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/rccg-motion-14/source/scene.json",
+      "bytes": 1505,
+      "sha256": "30505194fc153d4f3bf793885e23f2abc8027e417cdb4a514a75bea12c655c00",
+      "source": "brand/explorations/rccg-motion-14/source/scene.json"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/stacked-motion-13/pairings/open-praise-stacked-dark-pairing-DRAFT.svg",
+      "bytes": 52367,
+      "sha256": "ade51314a6c13481e085e1cb5d51efb37b87a446146a9c4396dd576e1f331de9",
+      "source": "brand/explorations/stacked-motion-13/pairings/open-praise-stacked-dark-pairing-DRAFT.svg"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/stacked-motion-13/pairings/shared-rhythm-stacked-dark-pairing-DRAFT.svg",
+      "bytes": 52348,
+      "sha256": "ee2468461196d4a1eaad0437e0e54bbf79c188f7712065641c7ec515135069f0",
+      "source": "brand/explorations/stacked-motion-13/pairings/shared-rhythm-stacked-dark-pairing-DRAFT.svg"
+    },
+    {
+      "file": "06-records/render-checks.json",
+      "bytes": 4331,
+      "sha256": "cffdf5554373fc68045d095ae6df627affa3a157cbbeeae7ae941763f8cd9974",
+      "source": "brand/explorations/rccg-motion-14/exports/render-checks.json"
+    },
+    {
+      "file": "06-records/reviews/open-praise-square-2p1s.png",
+      "bytes": 107385,
+      "sha256": "fb601c5042582419cba6cecd43040cc9ba637b721d7079d164adddb3768c12ce",
+      "source": "brand/explorations/rccg-motion-14/reviews/open-praise-square-2p1s.png"
+    },
+    {
+      "file": "06-records/reviews/phone-width-review.png",
+      "bytes": 47652,
+      "sha256": "c47ec03e84ce8da2a818a04f24899d2fd30dd3864120fe0d5377c9a12e18129a",
+      "source": "brand/explorations/rccg-motion-14/reviews/phone-width-review.png"
+    },
+    {
+      "file": "06-records/reviews/shared-rhythm-encoded-landscape-1p2s.png",
+      "bytes": 160561,
+      "sha256": "360a15d28bd05cccc20bfe9ab7a23a0b07a40f276c89df79ad7bdb19abe47d4f",
+      "source": "brand/explorations/rccg-motion-14/reviews/shared-rhythm-encoded-landscape-1p2s.png"
+    },
+    {
+      "file": "06-records/reviews/shared-rhythm-landscape-2p1s.png",
+      "bytes": 148571,
+      "sha256": "206c5c633fd46daccf4e2a7d26081c642562820c8da279e2796460db32a14619",
+      "source": "brand/explorations/rccg-motion-14/reviews/shared-rhythm-landscape-2p1s.png"
+    },
+    {
+      "file": "06-records/reviews/shared-rhythm-square-1p2s.png",
+      "bytes": 109721,
+      "sha256": "b0135ae32cc14e5a63d00360af3cf9ccc3fec9019734a8c6b7c6130a055b9428",
+      "source": "brand/explorations/rccg-motion-14/reviews/shared-rhythm-square-1p2s.png"
+    },
+    {
+      "file": "06-records/reviews/visual-review.md",
+      "bytes": 2900,
+      "sha256": "5e91c28abf483275a5e0a9a0e2e0359c8dbe40e6119d8c6b5a34a494e92173a3",
+      "source": "brand/explorations/rccg-motion-14/reviews/visual-review.md"
+    },
+    {
+      "file": "START-HERE.txt",
+      "bytes": 2058,
+      "sha256": "dd29a1df13164ab528dc158c834efcfa9280de42134a8abb82cc6d6116030055",
+      "source": "brand/explorations/rccg-motion-14/exports/START-HERE.txt"
+    }
+  ],
+  "package": {
+    "file": "exports/RCCG-TOP-MOTION-GRAPHICS-DRAFT.zip",
+    "entries": 35,
+    "bytes": 2340595,
+    "sha256": "6b035699ef1cef56426992ea6b65538cd0c2940af5649390d87204b10df41217"
+  },
+  "checks": {
+    "zipIntegrity": true,
+    "allPayloadBytesMatchCurrentSources": true,
+    "fourVideosPresent": true,
+    "emblemReferenceBytesMatch": true
+  }
+}
