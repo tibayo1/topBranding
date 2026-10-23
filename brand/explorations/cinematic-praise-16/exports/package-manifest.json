@@ -1,0 +1,299 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "finalApproval": false,
+  "method": "Controlled procedural/vector motion; optional original synthesized sound study.",
+  "googleGenerationPerformed": false,
+  "externalGenerativeServiceUploadsPerformed": false,
+  "privateReferenceVideoIncluded": false,
+  "defaultWatch": "01-watch/shared-rhythm-cinematic-1080p-SOUND-DRAFT.mp4",
+  "silentAlternative": "01-watch/shared-rhythm-cinematic-1080p-SILENT-DRAFT.mp4",
+  "concept": "Shared Rhythm — a rising response to praise",
+  "durationSeconds": 14,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "finalExactHoldSeconds": [
+    10.5,
+    14
+  ],
+  "namePlacement": "Complete Tabernacle of Praise name in the exact working two-line arrangement below the symbol.",
+  "soundStudy": {
+    "originalSynthesized": true,
+    "existingMusicUsed": false,
+    "auditionedByAssistant": false,
+    "masteredScoreClaimed": false
+  },
+  "rccg": {
+    "referenceSHA256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+    "sourceSize": [
+      236,
+      236
+    ],
+    "sourceBytesPreserved": true,
+    "original1200pxUpload": false,
+    "productionMaster": false
+  },
+  "rebuild": {
+    "folder": "05-editable-rebuild",
+    "repositoryRelativePathsPreserved": true,
+    "requiresInstalledTools": true
+  },
+  "entries": [
+    {
+      "file": "01-watch/shared-rhythm-cinematic-1080p-SILENT-DRAFT.mp4",
+      "bytes": 3857714,
+      "sha256": "d0cb58733a5bfb6727ece52cf26c4bcbee83e45894e04a0ed8fad4080ad52456",
+      "source": "brand/explorations/cinematic-praise-16/exports/shared-rhythm-cinematic-1080p-SILENT-DRAFT.mp4"
+    },
+    {
+      "file": "01-watch/shared-rhythm-cinematic-1080p-SOUND-DRAFT.mp4",
+      "bytes": 4205857,
+      "sha256": "8b97e03a32d187ad8c1c159b823472ebf79a75d6fe1a49250184a7c10f028c78",
+      "source": "brand/explorations/cinematic-praise-16/exports/shared-rhythm-cinematic-1080p-SOUND-DRAFT.mp4"
+    },
+    {
+      "file": "02-endframe/shared-rhythm-cinematic-end-DRAFT.png",
+      "bytes": 294795,
+      "sha256": "7218f8f93a6211a34430cd28f6be2304d88a56c25dfa5c224c30719f77c4db2a",
+      "source": "brand/explorations/cinematic-praise-16/exports/shared-rhythm-cinematic-end-DRAFT.png"
+    },
+    {
+      "file": "02-endframe/shared-rhythm-cinematic-end-DRAFT.svg",
+      "bytes": 52570,
+      "sha256": "0c1c8f44dc634b6a491b0db15293c953cf8916134df91306fb08d9d2dd7d22e0",
+      "source": "brand/explorations/cinematic-praise-16/exports/shared-rhythm-cinematic-end-DRAFT.svg"
+    },
+    {
+      "file": "03-preview/preview.html",
+      "bytes": 856711,
+      "sha256": "4e4bb49544109096280079ac2222e6606a4c280783951f00febf1df1d84ae434",
+      "source": "brand/explorations/cinematic-praise-16/preview.html"
+    },
+    {
+      "file": "03-preview/shared-rhythm-cinematic-DRAFT.gif",
+      "bytes": 5779502,
+      "sha256": "6c724fb075d4d5166d54e163c3a8925b52487f6403ae57a50823dab2da8eb6c9",
+      "source": "brand/explorations/cinematic-praise-16/previews/shared-rhythm-cinematic-DRAFT.gif"
+    },
+    {
+      "file": "03-preview/storyboard-DRAFT.png",
+      "bytes": 373776,
+      "sha256": "3fdfe911a80ae713ed95a4021c4f602753c7f38c357d1000724ba8f2238593d2",
+      "source": "brand/explorations/cinematic-praise-16/previews/storyboard-DRAFT.png"
+    },
+    {
+      "file": "04-original-sound/build_sound.py",
+      "bytes": 9233,
+      "sha256": "434e74f8cb1db2e3b881a64f8ba7d317956ef405010602e1a39b90f1185b0e02",
+      "source": "brand/explorations/cinematic-praise-16/audio/build_sound.py"
+    },
+    {
+      "file": "04-original-sound/shared-rhythm-original-sound-study-DRAFT.wav",
+      "bytes": 2688044,
+      "sha256": "f59846f9ca3b5188e1f36530c85ae62669d0a9aae968f7b85a507358caddcd3e",
+      "source": "brand/explorations/cinematic-praise-16/audio/shared-rhythm-original-sound-study-DRAFT.wav"
+    },
+    {
+      "file": "04-original-sound/sound-checks.json",
+      "bytes": 2559,
+      "sha256": "6bd06c4bfdc6fed99277d3871a2fafd4d4b91ac49d45dba18643bd3c9ab6529b",
+      "source": "brand/explorations/cinematic-praise-16/audio/sound-checks.json"
+    },
+    {
+      "file": "04-original-sound/sound-notes.md",
+      "bytes": 2137,
+      "sha256": "16a6923c318763c934e9c6c818364af70e0a323db9374a813e8a0d43780793ef",
+      "source": "brand/explorations/cinematic-praise-16/audio/sound-notes.md"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/README.md",
+      "bytes": 2524,
+      "sha256": "78b4394f532f542acd9e64abc7a8ee653d3478a9fad93fe8ee82a7801b07b84c",
+      "source": "brand/assets/rccg-emblem/README.md"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/references/README.md",
+      "bytes": 1744,
+      "sha256": "a9c33d47c5196b925f0b024aae60995a4fbb6481d430eb583a6e5d26d22e3813",
+      "source": "brand/assets/rccg-emblem/references/README.md"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/references/provenance.json",
+      "bytes": 1167,
+      "sha256": "53cf448cbfacf4e65dae6b117076a3ecc7e4f6f68099845e791bb57edcb65c1b",
+      "source": "brand/assets/rccg-emblem/references/provenance.json"
+    },
+    {
+      "file": "05-editable-rebuild/brand/assets/rccg-emblem/references/rccg-wayforward-reference.png",
+      "bytes": 23611,
+      "sha256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+      "source": "brand/assets/rccg-emblem/references/rccg-wayforward-reference.png"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.png",
+      "bytes": 294795,
+      "sha256": "7218f8f93a6211a34430cd28f6be2304d88a56c25dfa5c224c30719f77c4db2a",
+      "source": "brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.png"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.svg",
+      "bytes": 52570,
+      "sha256": "0c1c8f44dc634b6a491b0db15293c953cf8916134df91306fb08d9d2dd7d22e0",
+      "source": "brand/explorations/balanced-emblem-15/exports/shared-rhythm-RCCG-larger-landscape-DRAFT.svg"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/audio/build_sound.py",
+      "bytes": 9233,
+      "sha256": "434e74f8cb1db2e3b881a64f8ba7d317956ef405010602e1a39b90f1185b0e02",
+      "source": "brand/explorations/cinematic-praise-16/audio/build_sound.py"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/audio/sound-checks.json",
+      "bytes": 2559,
+      "sha256": "6bd06c4bfdc6fed99277d3871a2fafd4d4b91ac49d45dba18643bd3c9ab6529b",
+      "source": "brand/explorations/cinematic-praise-16/audio/sound-checks.json"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/audio/sound-notes.md",
+      "bytes": 2137,
+      "sha256": "16a6923c318763c934e9c6c818364af70e0a323db9374a813e8a0d43780793ef",
+      "source": "brand/explorations/cinematic-praise-16/audio/sound-notes.md"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/assets/overlay.png",
+      "bytes": 284098,
+      "sha256": "733c03dbdf98d6b01194c06c3b863e134955c3fd73da7dc8fc3cfb72e80a2edf",
+      "source": "brand/explorations/cinematic-praise-16/source/assets/overlay.png"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/assets/overlay.svg",
+      "bytes": 52121,
+      "sha256": "38b061e3be511f459f07a13f60b2d246fef73acb0d3eb834a49e1ca0fb3e43c1",
+      "source": "brand/explorations/cinematic-praise-16/source/assets/overlay.svg"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/assets/symbol.png",
+      "bytes": 54716,
+      "sha256": "77d262ddd8d3faa3bcf11991c3d29498884a6bc543e25a79224e1131cf8650d5",
+      "source": "brand/explorations/cinematic-praise-16/source/assets/symbol.png"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/assets/symbol.svg",
+      "bytes": 940,
+      "sha256": "c89ed92d066a99f088cdfabc3033f7557acb8c0c687f34b150c7e56b57e888fa",
+      "source": "brand/explorations/cinematic-praise-16/source/assets/symbol.svg"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/build_film.py",
+      "bytes": 8461,
+      "sha256": "a9b35f4fa6437d0f2527c81b9e0a6fa249ae15817ba17be7bc4339df0ef318a5",
+      "source": "brand/explorations/cinematic-praise-16/source/build_film.py"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/build_package.py",
+      "bytes": 11286,
+      "sha256": "a0dcfa04b4606205bbb0ba12fecf7d34f9e8d8150f08e1079b87d5ffaec79bbb",
+      "source": "brand/explorations/cinematic-praise-16/source/build_package.py"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/film.js",
+      "bytes": 10148,
+      "sha256": "8890ca473d5a4c96a0abc98aa087280e8736fa99efa8dc149ae1d7be8c238e63",
+      "source": "brand/explorations/cinematic-praise-16/source/film.js"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/mux_sound.py",
+      "bytes": 2527,
+      "sha256": "04c6daef40b199ce9dfc20740a74b50ee2f59b2cbc7e7f0b8c4d3b688aa9cd8d",
+      "source": "brand/explorations/cinematic-praise-16/source/mux_sound.py"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/cinematic-praise-16/source/scene.json",
+      "bytes": 1598,
+      "sha256": "7c0854ab98f0c4be39982b9b2982b5b181b229344fdfecbafcc95722e7789ea0",
+      "source": "brand/explorations/cinematic-praise-16/source/scene.json"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/identity-development-09/type-study/fonts/instrumentsans/InstrumentSans[wdth,wght].ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1",
+      "source": "brand/explorations/identity-development-09/type-study/fonts/instrumentsans/InstrumentSans[wdth,wght].ttf"
+    },
+    {
+      "file": "05-editable-rebuild/brand/explorations/identity-development-09/type-study/fonts/instrumentsans/OFL.txt",
+      "bytes": 4403,
+      "sha256": "9e27a72ed30eb49a08678f6a5d6ed98ec7ba5368f541637ee0683ec9134ef966",
+      "source": "brand/explorations/identity-development-09/type-study/fonts/instrumentsans/OFL.txt"
+    },
+    {
+      "file": "06-records/mux-checks.json",
+      "bytes": 572,
+      "sha256": "599d835acf566056c56d67752455b06f315bd0dd1dc48c54155fe5fb8bb73950",
+      "source": "brand/explorations/cinematic-praise-16/exports/mux-checks.json"
+    },
+    {
+      "file": "06-records/render-checks.json",
+      "bytes": 1340,
+      "sha256": "4b19187ad6c0f2897d852c7672c92ca271af9dd653c9b469a888e4c8ff47f71a",
+      "source": "brand/explorations/cinematic-praise-16/exports/render-checks.json"
+    },
+    {
+      "file": "06-records/reviews/encoded-05.7s-DRAFT.png",
+      "bytes": 855548,
+      "sha256": "4c2178ff5eabc904a564885adc8cfd6464fd0a2d6b76317463cc5a721fab9b77",
+      "source": "brand/explorations/cinematic-praise-16/reviews/encoded-05.7s-DRAFT.png"
+    },
+    {
+      "file": "06-records/reviews/encoded-10.6s-DRAFT.png",
+      "bytes": 320559,
+      "sha256": "3a94459aa4eea6b13b6faf8873bfedb5766b529909bc0c6decb66b9a6267e362",
+      "source": "brand/explorations/cinematic-praise-16/reviews/encoded-10.6s-DRAFT.png"
+    },
+    {
+      "file": "06-records/reviews/encoded-temporal-review-DRAFT.png",
+      "bytes": 328162,
+      "sha256": "c18edf6463dd46cb691ae5e7dc9579aa0b276216e4b2d64440cbcfabf8a07c20",
+      "source": "brand/explorations/cinematic-praise-16/reviews/encoded-temporal-review-DRAFT.png"
+    },
+    {
+      "file": "06-records/reviews/temporal-review-DRAFT.png",
+      "bytes": 441594,
+      "sha256": "089b376418a09e3528ed0cbc07e2ec8b97d5e8b311e9bb6da98c6d6a6ab33b0d",
+      "source": "brand/explorations/cinematic-praise-16/reviews/temporal-review-DRAFT.png"
+    },
+    {
+      "file": "06-records/reviews/visual-review.md",
+      "bytes": 3342,
+      "sha256": "0c334f632732fbf76c7f6633698a61f6634d540524e5a460bda8c62a99ad09b6",
+      "source": "brand/explorations/cinematic-praise-16/reviews/visual-review.md"
+    },
+    {
+      "file": "06-records/sound-checks.json",
+      "bytes": 2559,
+      "sha256": "6bd06c4bfdc6fed99277d3871a2fafd4d4b91ac49d45dba18643bd3c9ab6529b",
+      "source": "brand/explorations/cinematic-praise-16/audio/sound-checks.json"
+    },
+    {
+      "file": "START-HERE.txt",
+      "bytes": 2832,
+      "sha256": "9496743ef71e56e18215fb77c00eca5179a18f150211340a7f11815d78f5a0b6",
+      "source": "brand/explorations/cinematic-praise-16/exports/START-HERE.txt"
+    }
+  ],
+  "package": {
+    "file": "exports/SHARED-RHYTHM-CINEMATIC-DRAFT.zip",
+    "entries": 41,
+    "bytes": 20029065,
+    "sha256": "473dde2195bb0901a1e2905df2a30a928a7e7faaaecc004cbad5dae716b3f609"
+  },
+  "checks": {
+    "zipIntegrity": true,
+    "allPayloadBytesMatchCurrentSources": true,
+    "soundAndSilentVideosPresent": true,
+    "referenceBytesMatch": true,
+    "extractedRendererDependenciesResolve": true,
+    "extractedFinalMastersMatchSuppliedEndFiles": true
+  }
+}

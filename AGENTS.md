@@ -22,3 +22,7 @@ Read and apply the repo-local skill at `.agents/skills/rccg-top-identity/SKILL.m
 
 ## Working style
 Flag unanswered important creative decisions **before moving to a substantially new phase**. Keep concepts explicitly marked **DRAFT — NOT FOR PUBLICATION**. Maintain editable SVG/source files and include mobile-size tests. See the skill's `references/` for full brief, historical feedback, and media standards.
+
+## Current branding review (17 October 2026)
+- The user has renewed interest in **S3 / Cadenced Wall**; actively explore it with rigorous critique. Do not rule it out due to prior assistant feedback. See `brand/briefs/creative-review-05-cadenced-wall.md`.
+- User-supplied RCCG emblem metadata and intended asset path: `brand/assets/rccg-emblem/README.md`. **Original PNG not yet in repository**; request transfer, then verify checksum before using. Do not substitute a reconstructed emblem. Authorization for external publication must still be checked.

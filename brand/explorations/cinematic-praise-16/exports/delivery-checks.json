@@ -1,0 +1,24 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "date": "2026-10-22",
+  "finalApproval": false,
+  "privateReferenceFootageIncluded": false,
+  "checks": {
+    "two14Second1080p30fps420FrameMP4s": true,
+    "exactLatest15EndAssetsAndWholeReferenceBytes": true,
+    "offlinePlayerExactHoldsAndPlaybackReducedMotion": true,
+    "offlinePlayerPageErrors": [],
+    "offlinePlayerExternalRequests": [],
+    "ZIP40PayloadsByteMatchCurrentFiles": true,
+    "ZIP_SHA256": "473dde2195bb0901a1e2905df2a30a928a7e7faaaecc004cbad5dae716b3f609",
+    "localMarkdownLinksExist": true,
+    "AGENTSAndIdentitySkillsUnchanged": true
+  },
+  "limits": [
+    "Visual review samples source and decoded frames; all final hold frames checked before lossy encoding.",
+    "Optional original sound study has technical checks but was not auditioned in this environment.",
+    "Existing236px RCCG reference is not a verified high-resolution production master.",
+    "Offline browser tests use set_content; managed browser policy blocks local file navigation.",
+    "Draft artwork and motion; final identity and publication approval remain open."
+  ]
+}

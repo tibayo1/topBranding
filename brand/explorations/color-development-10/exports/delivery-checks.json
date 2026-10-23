@@ -1,0 +1,71 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "browserChecks": [
+    {
+      "palette": "teal",
+      "actualFills": [
+        "rgb(16, 73, 76)",
+        "rgb(182, 146, 85)",
+        "rgb(246, 243, 236)"
+      ]
+    },
+    {
+      "palette": "navy",
+      "actualFills": [
+        "rgb(20, 38, 61)",
+        "rgb(201, 164, 103)",
+        "rgb(246, 241, 232)"
+      ]
+    },
+    {
+      "ivoryReverseBothLogos": true
+    },
+    {
+      "offlineRendering": true,
+      "noExternalRequests": true,
+      "mobileWidth": 390,
+      "noBodyOverflow": true,
+      "javascriptErrors": [],
+      "fileProtocol": "Direct file navigation blocked by managed Chromium policy; HTML loaded via set_content with network offline instead. Local-file opening is not claimed as verified."
+    }
+  ],
+  "fileChecks": [
+    {
+      "file": "exports/color-shortlist.png",
+      "sha256": "5ba35670f783154602ec29a15333c08cd9e5f60295170bdf60eb6d723535d85e",
+      "bytes": 274512
+    },
+    {
+      "file": "exports/palette-comparison.png",
+      "sha256": "0f0d39771c1f8cffcffe78f9a3216792e8544de9e9933d94f97e376b1ff83086",
+      "bytes": 415998
+    },
+    {
+      "file": "exports/color-explorer.html",
+      "sha256": "ab53f54a8cddaf6f1f3411ea10ea205b6c3f84e5533ee5c1db6cf773b0bb8a25",
+      "bytes": 1060551
+    },
+    {
+      "file": "exports/color-review-10.pdf",
+      "sha256": "055c16db012d1e8a24d1bf888ebdb3f9f59edf49725e8368a1b41731bf8b815a",
+      "bytes": 1042171,
+      "pages": 4
+    }
+  ],
+  "svgGeometryAudit": {
+    "svgCount": 108,
+    "geometryComparisonsPassed": 108,
+    "allBackgroundsExplicit": true,
+    "liveText": 0,
+    "rasters": 0,
+    "masks": 0,
+    "filters": 0,
+    "sharedRhythmFaces": "One identical ink per four-face symbol; no color-coded bars."
+  },
+  "otherChecks": [
+    "Complete outlined name in horizontal and stacked colored SVGs; no live type or rasters.",
+    "Application source and palette hashes match current masters.",
+    "Saved PNGs decode, all local Markdown links resolve, all Python sources parse."
+  ],
+  "limitations": "File/render checks do not establish recognition, legal originality, final approval, physical print colors or actual RCCG emblem compatibility."
+}

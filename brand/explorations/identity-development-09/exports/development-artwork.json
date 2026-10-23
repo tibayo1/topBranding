@@ -1,0 +1,68 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "approval": false,
+  "lettering": {
+    "classification": "Font-based, shaped and optically spaced; original glyph contours, not custom-drawn type.",
+    "family": "Instrument Sans",
+    "axes": {
+      "wdth": 100,
+      "wght": 470
+    },
+    "study": "type-study/metadata.json",
+    "source": "type-study/specimens/01-open-titlecase-two-line.svg",
+    "license": "type-study/fonts/instrumentsans/OFL.txt",
+    "reason": "Working title case retains readable word shapes and warmth. All three alternatives remain open."
+  },
+  "comparison": "Overview symbols have equal actual ink height. Practical lockups reduce the denser Open Praise symbol 7% at equal name scale; no nonuniform scaling.",
+  "spacing": "Stacked symbol and name have at least 37 SVG units of separation in a 400×410 study. These are draft arrangements, not production standards.",
+  "compact": "Tiny-use 16–20 px candidates only. Primary masters remain in avatars, signage, documents and normal social applications.",
+  "rccg": "Authorized original PNG absent; no actual RCCG pairing or reconstructed emblem.",
+  "directions": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "primaryFile": "shared-rhythm/primary.svg",
+      "compactFile": "shared-rhythm/compact.svg",
+      "reverseFile": "shared-rhythm/reverse.svg",
+      "compactReverseFile": "shared-rhythm/compact-reverse.svg",
+      "viewBox": "0 0 256 256",
+      "inkBounds": [
+        16.0,
+        18.0,
+        240.0,
+        217.0
+      ],
+      "lockups": {
+        "horizontal": "exports/shared-rhythm-horizontal-DRAFT.svg",
+        "stacked": "exports/shared-rhythm-stacked-DRAFT.svg",
+        "horizontalReverse": "exports/shared-rhythm-horizontal-reverse-DRAFT.svg",
+        "stackedReverse": "exports/shared-rhythm-stacked-reverse-DRAFT.svg",
+        "wordmark": "exports/shared-rhythm-wordmark-DRAFT.svg"
+      },
+      "practicalSymbolScale": 1
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "primaryFile": "open-praise/primary.svg",
+      "compactFile": "open-praise/compact.svg",
+      "reverseFile": "open-praise/reverse.svg",
+      "compactReverseFile": "open-praise/compact-reverse.svg",
+      "viewBox": "0 0 256 256",
+      "inkBounds": [
+        28.0,
+        28.0,
+        228.0,
+        223.0
+      ],
+      "lockups": {
+        "horizontal": "exports/open-praise-horizontal-DRAFT.svg",
+        "stacked": "exports/open-praise-stacked-DRAFT.svg",
+        "horizontalReverse": "exports/open-praise-horizontal-reverse-DRAFT.svg",
+        "stackedReverse": "exports/open-praise-stacked-reverse-DRAFT.svg",
+        "wordmark": "exports/open-praise-wordmark-DRAFT.svg"
+      },
+      "practicalSymbolScale": 0.93
+    }
+  ]
+}

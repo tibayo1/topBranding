@@ -1,0 +1,64 @@
+{
+  "direction": "D",
+  "title": "Custom Typographic Identity",
+  "sketches": [
+    {
+      "id": "D1",
+      "name": "Open Counter",
+      "idea": "Give the complete name a repeatable grammar of contained interior space and rising release.",
+      "approach": "Original T/P/a/e/r letter drawings sit within a Source Serif 4 word skeleton; the repeated a/e/r details make the treatment visible across both principal words.",
+      "sourceFile": "directions/d-custom-typography/sketches/D1-open-counter.svg",
+      "reason": "The best balance of word recognition, warmth, and identity-specific letter craft. It warranted a more consistent counter and terminal system."
+    },
+    {
+      "id": "D2",
+      "name": "Joined Voices",
+      "idea": "The na and ra pairs connect through a shared baseline movement.",
+      "approach": "Original T/P/a drawings and trial ligatures are combined with licensed Instrument Sans outlines.",
+      "sourceFile": "directions/d-custom-typography/sketches/D2-joined-voices.svg",
+      "reason": "The literal joining makes the collective idea visible, but darkens the name and weakens the distinction between r/a and n/a. It is an exploratory alternative, not a recommended compact mark."
+    },
+    {
+      "id": "D3",
+      "name": "Inscribed Response",
+      "idea": "An original incised capital alphabet gives both words an enduring ceremonial rhythm.",
+      "approach": "Every displayed letter is drawn from a common cap-height, wedge-terminal, and chamfered-counter system.",
+      "sourceFile": "directions/d-custom-typography/sketches/D3-inscribed-response.svg",
+      "reason": "The most fully bespoke alphabet, but the monumental tone is cooler and can suggest a museum, university, or cultural foundation."
+    }
+  ],
+  "developed": {
+    "name": "Open Counter",
+    "sourceFile": "directions/d-custom-typography/developed/open-counter-stacked-v3.svg",
+    "chosenSketchId": "D1",
+    "idea": "A full-name wordmark links dwelling and praise through held counters and repeated upward release inside the letters.",
+    "visible": "A normal-proportioned T, a P with a rising counter floor, custom double-storey a forms, sloped e bars, and outward r/f terminals. These six original glyph designs repeat through eleven of the eighteen letters in the complete name.",
+    "meaning": "Enclosed letter interiors suggest space that holds; the repeated rising floors and outward cuts introduce a restrained response within that space. This remains a subtle typographic association. The full parish name communicates the identity more directly than the symbolism alone.",
+    "construction": [
+      "Six letter designs—T, P, a, e, r, and f—are original drawn contours. The seven other glyphs b/c/l/n/o/i/s remain unchanged licensed Source Serif 4 outlines at weight 550 and optical size 24.",
+      "P/a/e counters and r/f terminals repeat a rising or outward-cut movement. Pair-specific spacing keeps the two words readable; T stays within ordinary cap proportions and never spans the name as a roof.",
+      "V2 strengthened the rising P/e counter floors, opened a/e exits, and gave f the same non-ball terminal rule. V3 adds 40 units of top canvas padding to prevent inherited b/l ascender clipping; all V2 letter geometry and spacing are preserved."
+    ],
+    "risk": "The symbolism is quiet and needs explanation. The serif voice can suggest publishing, education, or a heritage institution, and the remaining licensed glyphs are not unique. It has less immediate small-avatar recognition than a strong symbol; no compact monogram is proposed because the wordmark has not earned one.",
+    "smallSize": "Actual 320px and 240px full-name tests are readable in black and reverse in both layouts. The stacked form preserves far more letter detail at these widths. The horizontal form is intentionally long, and its custom details become less evident at 240px. The complete name is not claimed to read at 16px; very small avatars remain unresolved.",
+    "longevity": "Familiar serif word shapes support long-term reading, while the repeated custom details avoid relying on a fashionable symbol. Fine terminal cuts will need physical-size proofs before embroidery, engraving, or small print use.",
+    "selectionReason": "Selected for a distinctive repeated letter grammar that preserves the full name, rather than the denser trial ligatures or the colder all-cap inscription. It answers the custom-typography brief without repeating an oversized T construction.",
+    "iterations": [
+      "directions/d-custom-typography/developed/open-counter-stacked-v1.svg",
+      "directions/d-custom-typography/developed/open-counter-stacked-v2.svg",
+      "directions/d-custom-typography/developed/open-counter-stacked-v3.svg"
+    ],
+    "horizontalFile": "directions/d-custom-typography/developed/open-counter-horizontal-v3.svg",
+    "stackedFile": "directions/d-custom-typography/developed/open-counter-stacked-v3.svg",
+    "horizontalReverseFile": "directions/d-custom-typography/developed/open-counter-horizontal-reverse-v3.svg",
+    "stackedReverseFile": "directions/d-custom-typography/developed/open-counter-stacked-reverse-v3.svg",
+    "constructionFile": "directions/d-custom-typography/developed/open-counter-construction.svg",
+    "proofFile": "directions/d-custom-typography/proofs/pass-3/practical-widths.png",
+    "type": {
+      "family": "Source Serif 4, weight 550 / optical size 24, with six original letter drawings",
+      "edits": "Original drawn T/P/a/e/r/f replace those glyphs in the outlined logo artwork. Unchanged licensed b/c/l/n/o/i/s remain visibly part of the design. Optical pair spacing is adjusted. The font binary itself is not edited, and this is not claimed as a wholly original typeface. The D2 sketch separately uses Instrument Sans plus original T/P/a and trial ligatures; D3 uses an original drawn capital alphabet.",
+      "license": "Source Serif 4 and Instrument Sans: SIL Open Font License 1.1. Unmodified originals and licenses are retained in assets/fonts/sourceserif4/ and assets/fonts/instrumentsans/ within this review. The builder uses these portable assets first, with a prior-study fallback. No font files were modified."
+    }
+  },
+  "status": "DRAFT — NOT FOR PUBLICATION"
+}

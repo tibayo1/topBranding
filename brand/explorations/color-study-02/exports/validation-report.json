@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "checks": [
+    "Five palettes, B/C/D, three meaning breakdowns, all 30 light/dark matrix studies, and all role HEX values render",
+    "B/C match existing v3 path construction, and D matches its new source including inherited transforms",
+    "Every palette selects correctly, core contrast independently matches, and all matrix symbol boxes match",
+    "Keyboard selection, dark background, and monochrome control work without altering matrix colors",
+    "Large previews, editable mark SVG download, Escape, and focus return work",
+    "D enlarges and downloads with source placement intact; B/D saved pairings export with five palettes and draft status",
+    "Color editor exposes a deliberately failing 1:1 pair, rejects invalid HEX, and resets safely",
+    "Four application types each show all six shortlisted pairings; D enlarges and exports valid editable SVG in each",
+    "Desktop, tablet, and 390px mobile layouts and dialogs fit without page overflow",
+    "Single-file explorer needs no external requests, retains saved C/D choices after reopening, and downloads D with source placement intact",
+    "All 78 exported SVGs (30 marks and 48 applications) parse, retain draft labeling, and contain no raster images"
+  ],
+  "count": 11,
+  "method": "Chromium with Python Playwright; local HTTP for source, in-memory self-contained HTML for offline validation.",
+  "limit": "The managed browser blocks file:// navigation. A direct double-click in an unmanaged desktop browser was not tested."
+}

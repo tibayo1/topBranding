@@ -1,0 +1,63 @@
+{
+  "direction": "C",
+  "title": "Contemporary Ecclesiastical Emblem",
+  "sketches": [
+    {
+      "id": "C1",
+      "name": "Common Bond",
+      "idea": "A close-set TP monogram gives the parish initials a broad sheltering crossbar and an upward-cut return.",
+      "approach": "Letter-led emblem: drawn contrast, a generous P counter, and restrained calligraphic terminals.",
+      "sourceFile": "directions/c-ecclesial-emblem/initials/c1-common-bond.svg",
+      "reason": "Clearer initials, but the silhouette is less memorable and can resemble a conventional luxury monogram."
+    },
+    {
+      "id": "C2",
+      "name": "Response Medallion",
+      "idea": "The P returns around the T to establish an enclosing circular emblem.",
+      "approach": "In this initial construction the returning P also supplies the eastern edge of the open roundel.",
+      "sourceFile": "directions/c-ecclesial-emblem/initials/c2-response-medallion.svg",
+      "reason": "The strongest emblem silhouette. Its first lower junction was crowded; development separated the enclosing contour from the letter tails to improve reading."
+    },
+    {
+      "id": "C3",
+      "name": "Coupled Banner",
+      "idea": "Two folded panels join around an upright interior seam.",
+      "approach": "A textile-led emblem with no initials: paired panels, a shared crown, and a narrow central opening.",
+      "sourceFile": "directions/c-ecclesial-emblem/initials/c3-coupled-banner.svg",
+      "reason": "A distinct non-letter alternative, but its closed mass can resemble a shield, book, or ceremonial badge and feels less welcoming."
+    }
+  ],
+  "developed": {
+    "name": "The Joined Roundel",
+    "sourceFile": "directions/c-ecclesial-emblem/developed/c-developed-v3.svg",
+    "chosenSketchId": "C2",
+    "idea": "An open enclosing roundel holds crafted T and P forms whose lower returns join its base.",
+    "visible": "An interrupted circle, a broad T, and a P with an open returning tail. The top opening and the P counter remain deliberate negative spaces.",
+    "meaning": "The enclosure proposes gathering and belonging; the lifted terminals give that held space a restrained outward response. The name initials anchor the emblem to this parish. This is a symbolic reading, not a literal depiction of worship.",
+    "construction": [
+      "A 256-unit canvas contains an open outer roundel; its main body is approximately 18 units thick.",
+      "The T and P are independent original paths. Their lower tails overlap the ring at its base; the ring is not one continuous stroke made entirely from the initials.",
+      "V2 opened the counters and calmed the T terminal. V3 smooths only the P stem-to-tail junction; the earlier constructions remain preserved."
+    ],
+    "risk": "The ring and high-contrast TP can suggest a university, heritage institution, hotel, or luxury monogram. The returning P can also read as a decorative loop or lowercase e. Christian identity depends on the parish name and its separate RCCG relationship; it is not instantly explicit in the symbol.",
+    "smallSize": "Actual black/reverse tests: the silhouette persists at 16px, but TP reading and lower gaps are unreliable. 24px is marginal; 32px is the more credible symbol test, with 48px clearer. Complete lockups remain readable at 320px and 240px; those widths do not establish a print minimum.",
+    "longevity": "The one-color roundel and restrained letter contrast have durable precedents, but the heritage associations must be accepted deliberately. Its fine counter relationships need production proof before any small physical use.",
+    "selectionReason": "Selected over the bare monogram and coupled banner for its stronger silhouette and more coherent relationship between a held interior and a responding return. The developed ring improves clarity while giving up the initial sketch’s more literal one-contour integration.",
+    "iterations": [
+      "directions/c-ecclesial-emblem/developed/c-developed-v1.svg",
+      "directions/c-ecclesial-emblem/developed/c-developed-v2.svg",
+      "directions/c-ecclesial-emblem/developed/c-developed-v3.svg"
+    ],
+    "horizontalFile": "directions/c-ecclesial-emblem/developed/c-lockup-horizontal.svg",
+    "reverseFile": "directions/c-ecclesial-emblem/developed/c-developed-reverse.svg",
+    "horizontalReverseFile": "directions/c-ecclesial-emblem/developed/c-lockup-horizontal-reverse.svg",
+    "proofFile": "directions/c-ecclesial-emblem/proofs/pass-2/practical-widths.png",
+    "type": {
+      "family": "Noto Serif Regular, outlined companion wordmark",
+      "edits": "The companion name uses unchanged licensed Noto Serif glyph outlines with considered two-line spacing. The T/P symbol is original drawn artwork; it is not extracted from Noto Serif.",
+      "license": "SIL Open Font License 1.1. Unmodified source font: assets/noto-serif-regular.ttf. The Debian package copyright and full license record are retained in directions/c-ecclesial-emblem/source/noto-serif-license.txt. No font binary was modified."
+    },
+    "constructionFile": "directions/c-ecclesial-emblem/developed/c-construction.svg"
+  },
+  "status": "DRAFT — NOT FOR PUBLICATION"
+}

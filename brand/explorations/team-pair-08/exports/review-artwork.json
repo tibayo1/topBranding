@@ -1,0 +1,41 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "lettering": {
+    "family": "Instrument Sans",
+    "weight": 450,
+    "width": 100,
+    "tracking": "0.8 SVG units in both companion name lines",
+    "note": "Temporary common lettering for fair comparison. Shaped and outlined; no font binary modified.",
+    "license": "assets/fonts/instrumentsans/OFL.txt"
+  },
+  "directions": [
+    {
+      "folder": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "primary": "shared-rhythm/primary.svg",
+      "viewBox": "0 0 256 256",
+      "inkBox": "16.0 18.0 224.0 199.0",
+      "lockups": {
+        "horizontal": "exports/shared-rhythm-horizontal-DRAFT.svg",
+        "horizontalReverse": "exports/shared-rhythm-horizontal-reverse-DRAFT.svg",
+        "stacked": "exports/shared-rhythm-stacked-DRAFT.svg",
+        "stackedReverse": "exports/shared-rhythm-stacked-reverse-DRAFT.svg",
+        "wordmark": "exports/shared-rhythm-wordmark-DRAFT.svg"
+      }
+    },
+    {
+      "folder": "second-direction",
+      "name": "Open Praise",
+      "primary": "second-direction/primary.svg",
+      "viewBox": "0 0 256 256",
+      "inkBox": "28.0 28.0 200.0 195.0",
+      "lockups": {
+        "horizontal": "exports/second-option-horizontal-DRAFT.svg",
+        "horizontalReverse": "exports/second-option-horizontal-reverse-DRAFT.svg",
+        "stacked": "exports/second-option-stacked-DRAFT.svg",
+        "stackedReverse": "exports/second-option-stacked-reverse-DRAFT.svg",
+        "wordmark": "exports/second-option-wordmark-DRAFT.svg"
+      }
+    }
+  ]
+}

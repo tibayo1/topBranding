@@ -1,0 +1,134 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "finalApproval": false,
+  "workingPalette": {
+    "status": "DRAFT — NOT FOR PUBLICATION",
+    "decision": "Teal + sand accepted by the user as working palette on 20 October 2026; final brand approval remains open.",
+    "primary": "#10494C",
+    "secondary": "#D9CBB4",
+    "accent": "#B69255",
+    "neutral": "#F6F3EC",
+    "roles": {
+      "light": "Teal symbol and complete name on porcelain.",
+      "dark": "Ivory symbol and complete name on teal for the preferred working treatment.",
+      "accent": "Flat soft gold in restrained layout details; not tiny body text on pale backgrounds.",
+      "secondary": "Sand supporting surfaces with teal text."
+    },
+    "font": "Instrument Sans title case 470 remains a working companion, not a finalized brand type system."
+  },
+  "lettering": {
+    "family": "Instrument Sans",
+    "axes": {
+      "wdth": 100,
+      "wght": 470
+    },
+    "source": "lettering/metadata.json",
+    "classification": "Original font glyphs with optical spacing; no custom-drawn font claim."
+  },
+  "comparison": "Same lettering scale and spacing for both options. Open Praise has exactly 93% of Shared Rhythm actual symbol ink height in each practical arrangement; no nonuniform scaling.",
+  "darkTreatment": "Ivory/porcelain symbol and name on teal. Soft gold is a restrained layout accent.",
+  "compact": "16–20 px candidate only. Primary geometry remains in normal avatars and larger applications.",
+  "rccg": {
+    "assetPresent": false,
+    "actualPairingVerified": false,
+    "manifest": "../../assets/rccg-emblem/README.md"
+  },
+  "sources": [
+    {
+      "file": "shared-rhythm/primary.svg",
+      "sha256": "2ace4fe86078526e6bb0a75d2e2a315944cf30de1ba9d2821e0b5ca25ddc41ca"
+    },
+    {
+      "file": "shared-rhythm/compact.svg",
+      "sha256": "a3301366062f4097508962ffb1d0a8778e11b34ee307f4a387ad0de2f6fc8621"
+    },
+    {
+      "file": "open-praise/primary.svg",
+      "sha256": "f4affcf73b35ddbdf9f7a02acdacafc7f62d316d3d8f8509d0970f5bdc8cb262"
+    },
+    {
+      "file": "open-praise/compact.svg",
+      "sha256": "89f3af7b3b52739ce2773046e5e0f321245fe8993ef7202443507b9c2e2984e3"
+    },
+    {
+      "file": "lettering/wordmark.svg",
+      "sha256": "e2646e6634915cac1a9eb05c70920bf982c21c02b33141f427ee99680972a62b"
+    },
+    {
+      "file": "lettering/wordmark-centered.svg",
+      "sha256": "88b8a0b0d53c8677409d4fad4d3c859eccf65e6193c46aaea0061797e21bc734"
+    },
+    {
+      "file": "lettering/wordmark-single-line.svg",
+      "sha256": "12f33c31fa273ec779651345648c54e9fd281a4ca0bb0c2304d53152cc68462a"
+    }
+  ],
+  "directions": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "primaryFile": "shared-rhythm/primary.svg",
+      "compactFile": "shared-rhythm/compact.svg",
+      "viewBox": "0 0 256 256",
+      "inkBounds": [
+        16.0,
+        18.0,
+        240.0,
+        217.0
+      ],
+      "lockups": {
+        "horizontal": "exports/shared-rhythm-horizontal-DRAFT.svg",
+        "stacked": "exports/shared-rhythm-stacked-DRAFT.svg",
+        "singleLine": "exports/shared-rhythm-singleLine-DRAFT.svg",
+        "horizontalReverse": "exports/shared-rhythm-horizontal-reverse-DRAFT.svg",
+        "stackedReverse": "exports/shared-rhythm-stacked-reverse-DRAFT.svg",
+        "singleLineReverse": "exports/shared-rhythm-singleLine-reverse-DRAFT.svg"
+      },
+      "symbols": {
+        "primary": "exports/shared-rhythm-primary-DRAFT.svg",
+        "compact": "exports/shared-rhythm-compact-DRAFT.svg",
+        "primaryReverse": "exports/shared-rhythm-primary-reverse-DRAFT.svg",
+        "compactReverse": "exports/shared-rhythm-compact-reverse-DRAFT.svg"
+      },
+      "practicalSymbolScale": 1,
+      "symbolInkHeights": {
+        "horizontal": 184,
+        "stacked": 210,
+        "singleLine": 124
+      }
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "primaryFile": "open-praise/primary.svg",
+      "compactFile": "open-praise/compact.svg",
+      "viewBox": "0 0 256 256",
+      "inkBounds": [
+        28.0,
+        28.0,
+        228.0,
+        223.0
+      ],
+      "lockups": {
+        "horizontal": "exports/open-praise-horizontal-DRAFT.svg",
+        "stacked": "exports/open-praise-stacked-DRAFT.svg",
+        "singleLine": "exports/open-praise-singleLine-DRAFT.svg",
+        "horizontalReverse": "exports/open-praise-horizontal-reverse-DRAFT.svg",
+        "stackedReverse": "exports/open-praise-stacked-reverse-DRAFT.svg",
+        "singleLineReverse": "exports/open-praise-singleLine-reverse-DRAFT.svg"
+      },
+      "symbols": {
+        "primary": "exports/open-praise-primary-DRAFT.svg",
+        "compact": "exports/open-praise-compact-DRAFT.svg",
+        "primaryReverse": "exports/open-praise-primary-reverse-DRAFT.svg",
+        "compactReverse": "exports/open-praise-compact-reverse-DRAFT.svg"
+      },
+      "practicalSymbolScale": 0.93,
+      "symbolInkHeights": {
+        "horizontal": 171.12,
+        "stacked": 195.3,
+        "singleLine": 115.32000000000001
+      }
+    }
+  ]
+}

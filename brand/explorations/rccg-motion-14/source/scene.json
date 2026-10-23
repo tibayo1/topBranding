@@ -1,0 +1,23 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "title": "Tabernacle of Praise — paired logo motion graphics",
+  "meaning": "A rising response to praise, preserving the user's phrase a rising reaction to praises.",
+  "background": "#10494C",
+  "parishColor": "#F6F3EC",
+  "durationSeconds": 10,
+  "fps": 30,
+  "finalHoldSeconds": [6, 10],
+  "emblemSource": "brand/assets/rccg-emblem/references/rccg-wayforward-reference.png",
+  "emblemSHA256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+  "formats": {
+    "landscape": {"width": 1920, "height": 1080, "x": 336, "y": 215, "scale": 1.3},
+    "square": {"width": 1080, "height": 1080, "x": 12, "y": 265, "scale": 1.1}
+  },
+  "directions": [
+    {"id": "shared-rhythm", "name": "Shared Rhythm", "source": "brand/explorations/stacked-motion-13/pairings/shared-rhythm-stacked-dark-pairing-DRAFT.svg", "offsets": [22, 26, 30, 24], "delays": [0.8, 1.25, 1.7, 2.15], "riseDuration": 2.4},
+    {"id": "open-praise", "name": "Open Praise", "source": "brand/explorations/stacked-motion-13/pairings/open-praise-stacked-dark-pairing-DRAFT.svg", "offsets": [18], "delays": [0.8], "riseDuration": 3.0}
+  ],
+  "motion": {"easing": "easeOutBack", "backCoefficient": 0.75, "sharedSecondPlaneMaxOffsetAboveFirst": 4, "animatedParts": "Only the parish symbol paths translate vertically. Name, RCCG image and white panel remain static.", "camera": "locked", "audio": "silent"},
+  "publicationApproval": false,
+  "googleGenerationPerformed": false
+}

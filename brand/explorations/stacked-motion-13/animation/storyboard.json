@@ -1,0 +1,119 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "approval": false,
+  "durationSeconds": 8,
+  "userDescription": "a rising reaction to praises",
+  "motionInterpretation": "a rising response to praise",
+  "identityMeaning": "Four unequal folded planes respond in succession and settle around a shared open space. The rising gesture suggests shared praise without adding literal worship imagery.",
+  "layout": {
+    "name": "Tabernacle of Praise",
+    "namePosition": "centered below the symbol",
+    "nameMotion": "none",
+    "foreground": "#10494C",
+    "background": "#F6F3EC",
+    "camera": "locked",
+    "audio": "silent",
+    "rccgEmblem": "excluded from generative input; optional separate unchanged overlay after generation"
+  },
+  "sharedRhythm": {
+    "source": "../../teal-refinement-11/shared-rhythm/primary.svg",
+    "construction": "Four existing unequal solid filled paths; no contour deformation, nonuniform scaling or added imagery.",
+    "planeOrder": [
+      {
+        "id": "plane-1",
+        "role": "left outer plane",
+        "riseStartsSeconds": 0.8
+      },
+      {
+        "id": "plane-2",
+        "role": "second inner plane",
+        "riseStartsSeconds": 1.25
+      },
+      {
+        "id": "plane-3",
+        "role": "tallest inner-right plane",
+        "riseStartsSeconds": 1.7
+      },
+      {
+        "id": "plane-4",
+        "role": "lower right outer plane completes the response",
+        "riseStartsSeconds": 2.15
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "to": 0.8,
+        "action": "Quiet opening. Full name remains visible and stationary beneath the symbol area."
+      },
+      {
+        "from": 0.8,
+        "to": 3.8,
+        "action": "Gentle successive rise across the four rigid planes, with restrained vertical offsets and soft ease-out. Keep gaps open and original relative final heights."
+      },
+      {
+        "from": 3.8,
+        "to": 6,
+        "action": "Settle into the exact supplied full-name master; the shared open interior becomes the final focus."
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "action": "Exact final-frame hold; shapes, name, color, spacing and camera remain still."
+      }
+    ],
+    "singleStartImageFallback": "Begin with the supplied finished logo, make a small sequential lift-and-return, then match the same final artwork. A single starting-image input does not establish end-frame control.",
+    "avoid": [
+      "equalizer-like height changes",
+      "repeated pulsing",
+      "stretching",
+      "bounce",
+      "literal people or hands",
+      "new worship icons",
+      "3D effects",
+      "camera motion",
+      "changing or generating lettering"
+    ]
+  },
+  "openPraise": {
+    "source": "../../teal-refinement-11/open-praise/primary.svg",
+    "meaning": "A compact name-based T/P figure-ground gesture; the internal reading remains interpretive.",
+    "beats": [
+      {
+        "from": 0,
+        "to": 1,
+        "action": "Quiet opening with the complete name below held stationary."
+      },
+      {
+        "from": 1,
+        "to": 3.5,
+        "action": "One-piece opacity reveal with a small upward translation; maintain the outer contour and open counter."
+      },
+      {
+        "from": 3.5,
+        "to": 6,
+        "action": "Settle into the exact source shape and final position."
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "action": "Hold the supplied full-name final frame unchanged."
+      }
+    ],
+    "singleStartImageFallback": "Use a small whole-symbol lift and return when the only input image is the finished logo.",
+    "avoid": [
+      "splitting or redrawing the symbol",
+      "closing the negative interior",
+      "deforming T/P",
+      "extra icons",
+      "changing lettering"
+    ]
+  },
+  "handoff": {
+    "fullNameMethod": "Use the supplied standalone name-below PNG as a reference; exact AI preservation is not guaranteed.",
+    "compositingMethod": "Generate symbol motion only; overlay the supplied static name below in an editor. Replace a mismatched final hold with the exact supplied final-frame PNG.",
+    "controls": "Use start/end controls only if the selected Google tool provides them. Otherwise use the lift-and-return prompt.",
+    "review": "Compare with the original vector master. Check final contour, complete name, spelling, spacing, open gaps and two-second still hold.",
+    "notPerformed": "These prompt files perform no Google upload, AI video generation, soundtrack selection or publication."
+  }
+}

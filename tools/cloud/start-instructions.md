@@ -1,0 +1,7 @@
+Use the existing checkout at /workspace/topBranding. Each cloud task is already isolated; do not create a Git worktree unless the user explicitly requests one.
+
+The logo-design Agent Skill is installed for this project at /workspace/topBranding/.agents/skills/logo-design/SKILL.md (upstream kaankiziltug/logo-design-skill, revision 0ecf52e9a4b3ac92b714f7cc6e3148ab8c774134). When a task calls for this skill, read that file and the relevant referenced files. Start a new Codex session from this project for automatic skill discovery; the installed file can also be read directly.
+
+Run its Python scripts from /workspace/topBranding/.agents/skills/logo-design with python3, or use their absolute paths. Python 3.12, Inkscape, and Chromium were verified in this image; no service, API key, or package installation is required. Library check: python3 scripts/build_catalog.py --check should report 1432 SVGs and 0 missing. Renderer check: python3 scripts/render_png.py --which; PNG and favicon export were tested successfully. Write generated design outputs into the task's requested output directory, keeping the installed skill assets intact.
+
+The saved install_script reproduces the pinned installation and validates library search and a 64 x 64 PNG export. It safely skips an identical installation and refuses to overwrite a different existing installation. It preserves application files and dependencies.

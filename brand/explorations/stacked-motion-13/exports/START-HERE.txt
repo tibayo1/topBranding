@@ -1,0 +1,37 @@
+TABERNACLE OF PRAISE — NAME-BELOW LOGOS + ANIMATION KIT
+DRAFT — NOT FOR PUBLICATION
+
+1. Watch the controlled motion studies in 03-motion-previews. Both names stay
+   below the symbol. Shared Rhythm expresses a rising response to praise:
+   its four unequal planes lift in succession, settle, and hold the exact logo.
+
+2. Choose Shared-Rhythm or Open-Praise in 01-upload-to-google. Start with
+   full-logo-end-landscape-DRAFT.png (1920 x 1080). Square files are supplied
+   for tools that accept that shape.
+
+3. In your Google video tool, choose image-to-video if available, upload that
+   PNG and paste the matching text from 02-copy-paste-prompts. Aim for 8 seconds
+   with the final 2 seconds still. The draft is silent.
+
+4. If your tool offers start AND end frames, use the matching start and end
+   PNGs. With only one image slot, use the finished end PNG: the prompt asks
+   for a gentle lift-and-return. Available controls have not been verified here.
+
+5. Compare the result with the end PNG before sharing for review. Check the
+   exact symbol, complete spelling, name placement and still final hold.
+
+For exact lettering, use 05-optional-symbol-only-and-name-overlays: animate the
+symbol-only PNG, then place the matching transparent name-overlay PNG over the
+video at full-frame size. Both images must use the same canvas dimensions.
+Replace the last 2 seconds with the exact full-logo end PNG if needed.
+
+The supplied MP4/GIF previews are controlled vector motion studies. They are
+not Google-generated videos; no files have been uploaded to Google for you.
+
+Keep the RCCG emblem outside generative animation. Folder 04 contains static
+reference pairings only. If needed, add that emblem separately and unchanged
+after generation. The current 236 x 236 emblem is a documented parish-source
+reference, not the verified original chat upload or an approved print master.
+
+The palette is a working teal/ivory direction. Final logo, motion, typography,
+production artwork and publication approval remain open.

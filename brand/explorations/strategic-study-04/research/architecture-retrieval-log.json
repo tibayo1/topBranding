@@ -1,0 +1,39 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "retrieved_utc": "2026-10-17T18:06:05.294390+00:00",
+  "verified_crosscheck": {
+    "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/en/KJV/KJV.json",
+    "http_status": 200,
+    "download_sha256": "de476d306687f8b45978f45f3346dcd30c685b9532afb05197849522c6e93ec0",
+    "download_bytes": 11415048,
+    "translation": "King James Version (1769), as labeled by upstream README"
+  },
+  "primary_excerpt_store": "sources/scriptural-excerpts.json",
+  "notes": [
+    "KJV mirror independently retrieved as a cross-check; not retained in full. Main project excerpts are World English Bible.",
+    "The external academic and encyclopedia URLs below could not be retrieved. They were not read and do not support any claim in this study.",
+    "No search-engine browsing or archaeological literature review was available; this study makes no claim to establish historical dating, archaeology, or an exact reconstruction."
+  ],
+  "unretrieved_urls": [
+    {
+      "url": "https://www.biblegateway.com/passage/?search=Exodus%2026&version=NRSVUE",
+      "result": "Proxy tunnel connection failed: 403 Forbidden"
+    },
+    {
+      "url": "https://www.bibleodyssey.org/articles/tabernacle/",
+      "result": "Proxy tunnel connection failed: 403 Forbidden"
+    },
+    {
+      "url": "https://www.britannica.com/topic/Tabernacle",
+      "result": "Proxy tunnel connection failed: 403 Forbidden"
+    },
+    {
+      "url": "https://yalebiblestudy.org/courses/exodus/lessons/the-tabernacle-study-guide/",
+      "result": "Proxy tunnel connection failed: 403 Forbidden"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tabernacle",
+      "result": "Proxy tunnel connection failed: 403 Forbidden"
+    }
+  ]
+}

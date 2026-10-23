@@ -1,0 +1,20 @@
+{
+  "status": "DRAFT REFERENCE — NOT FOR PUBLICATION",
+  "file": "rccg-wayforward-reference.png",
+  "sourceRepository": "https://github.com/RCCG-WayForwardProject/rccg-wayforward",
+  "sourceCommit": "b053a99345e9178e23db06ac35b9529006684480",
+  "sourceFile": "public/logo.svg",
+  "sourceURL": "https://github.com/RCCG-WayForwardProject/rccg-wayforward/blob/b053a99345e9178e23db06ac35b9529006684480/public/logo.svg",
+  "extraction": "Base64 PNG bytes extracted directly from the SVG image element. No pixel conversion, editing, tracing, generation, cropping, recoloring, masking, resampling or background removal.",
+  "size": [
+    236,
+    236
+  ],
+  "mode": "RGBA",
+  "bytes": 23611,
+  "sha256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+  "originalUserFile": false,
+  "matchesPreviouslyRecordedUserSHA256": false,
+  "previousUserSHA256": "9d2b85639e7dbf080898abdc34495a4b4e3b1677284a6719ed12cf97ff9793cf",
+  "use": "Existing public parish-source reference for comparative layout previews. User asked assistant to handle PNG/ZIP after inline upload bytes were unavailable. Final master and publication authorization remain unverified."
+}

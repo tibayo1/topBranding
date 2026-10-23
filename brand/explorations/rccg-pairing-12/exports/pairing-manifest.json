@@ -1,0 +1,58 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "finalApproval": false,
+  "emblem": {
+    "sourcePage": "https://github.com/RCCG-WayForwardProject/rccg-wayforward/blob/b053a99345e9178e23db06ac35b9529006684480/public/logo.svg",
+    "sourceCommit": "b053a99345e9178e23db06ac35b9529006684480",
+    "file": "brand/assets/rccg-emblem/references/rccg-wayforward-reference.png",
+    "sha256": "977ee1c5a43c30d2859e31f59705da23a53e8c3e7736d1d1376e021c62703340",
+    "dimensions": [
+      236,
+      236
+    ],
+    "bytes": 23611,
+    "originalChatUploadVerified": false,
+    "productionAssetAuthorized": false,
+    "handling": "Existing PNG extracted from source SVG, embedded unchanged with full image/colors/proportions. No background removal, crop, tracing or regeneration."
+  },
+  "entries": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "mode": "light",
+      "file": "exports/shared-rhythm-light-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/shared-rhythm-horizontal-DRAFT.svg",
+      "parishSHA256": "b951b4ae4c2ddef532d64e5f8930d13b878d040508bd12f91c61761e27fc3c14"
+    },
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "mode": "dark",
+      "file": "exports/shared-rhythm-dark-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/shared-rhythm-horizontal-reverse-DRAFT.svg",
+      "parishSHA256": "a7b598d45d2061e3e92ee63dca78f050367fd45e62f99435c7f19090f20b7357"
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "mode": "light",
+      "file": "exports/open-praise-light-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/open-praise-horizontal-DRAFT.svg",
+      "parishSHA256": "5c7986ef4786356cdd130bd974f63518cf1b244d7f9c7bf9c39bd1b9f2d767be"
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "mode": "dark",
+      "file": "exports/open-praise-dark-pairing-DRAFT.svg",
+      "parishSource": "brand/explorations/teal-refinement-11/exports/open-praise-horizontal-reverse-DRAFT.svg",
+      "parishSHA256": "9889cf3a7de95cef98fcab1b336737d95755ec6a29c2ef276fca5bd88e681763"
+    }
+  ],
+  "checks": {
+    "embeddedPNGBytesMatchSource": true,
+    "brokenHTMLImages": 0,
+    "pdfPages": 2,
+    "parishGeometry": "All source paths/transforms preserved; only parish presentation rectangle replaced by pairing surface."
+  }
+}

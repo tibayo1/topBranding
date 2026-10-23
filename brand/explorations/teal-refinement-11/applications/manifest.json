@@ -1,0 +1,50 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "approval": false,
+  "conditions": "Both directions use identical header, entrance and primary-avatar proportion diagrams. Exact master paths retained, with working teal/ivory ink only.",
+  "limitations": "Imagined diagrams, not actual premises or an official website/profile. No RCCG emblem is present. [CHURCH HANDLE] is a placeholder.",
+  "directions": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "sources": {
+        "primary": {
+          "file": "shared-rhythm/primary.svg",
+          "sha256": "2ace4fe86078526e6bb0a75d2e2a315944cf30de1ba9d2821e0b5ca25ddc41ca"
+        },
+        "singleLine": {
+          "file": "exports/shared-rhythm-singleLine-DRAFT.svg",
+          "sha256": "d3f51a114608ceac9d8a3aff533d903f2c17b0d876a019254c5a87ad02a36389"
+        },
+        "horizontal": {
+          "file": "exports/shared-rhythm-horizontal-DRAFT.svg",
+          "sha256": "b951b4ae4c2ddef532d64e5f8930d13b878d040508bd12f91c61761e27fc3c14"
+        }
+      },
+      "header": "applications/shared-rhythm-header.svg",
+      "entrance": "applications/shared-rhythm-entrance.svg",
+      "avatar": "applications/shared-rhythm-avatar.svg"
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "sources": {
+        "primary": {
+          "file": "open-praise/primary.svg",
+          "sha256": "f4affcf73b35ddbdf9f7a02acdacafc7f62d316d3d8f8509d0970f5bdc8cb262"
+        },
+        "singleLine": {
+          "file": "exports/open-praise-singleLine-DRAFT.svg",
+          "sha256": "880b2845f18c618dbf21ea9ec0b56f98bc2f6f71eedbfd11042edc41b5f32d3d"
+        },
+        "horizontal": {
+          "file": "exports/open-praise-horizontal-DRAFT.svg",
+          "sha256": "5c7986ef4786356cdd130bd974f63518cf1b244d7f9c7bf9c39bd1b9f2d767be"
+        }
+      },
+      "header": "applications/open-praise-header.svg",
+      "entrance": "applications/open-praise-entrance.svg",
+      "avatar": "applications/open-praise-avatar.svg"
+    }
+  ]
+}

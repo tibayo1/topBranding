@@ -1,0 +1,16 @@
+
+=== primary.svg  (590 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #000000 · gradients 0 · anchors 21
+margins L16.0 R16.0 T18.0 B39.0 · bbox fill 0.68
+▲ WARN [near-miss-angle] 10 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 151.3° (→150°) len 60.4 at (16,132); 92.0° (→90°) len 114.1 at (69,103); 151.4° (→150°) len 62.6 at (67,95); 92.2° (→90°) len 102.1 at (122,65); 87.1° (→90°) len 79.1 at (85,176); 91.5° (→90°) len 158.1 at (173,18) …. (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [off-centre-y] Vertical margins differ (top 18.0, bottom 39.0). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 91/100 (heuristic)
+
+=== compact.svg  (590 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #000000 · gradients 0 · anchors 21
+margins L16.0 R16.0 T22.0 B39.0 · bbox fill 0.667
+▲ WARN [near-miss-angle] 10 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 150.5° (→150°) len 52.8 at (16,140); 92.2° (→90°) len 103.1 at (62,114); 13.4° (→15°) len 43.2 at (58,217); 92.5° (→90°) len 93.1 at (115,71); 162.3° (→165°) len 23.1 at (111,164); 88.5° (→90°) len 79.0 at (89,171) …. (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [off-centre-y] Vertical margins differ (top 22.0, bottom 39.0). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 91/100 (heuristic)

@@ -1,0 +1,80 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "files": [
+    {
+      "file": "exports/two-directions-development.png",
+      "bytes": 187093,
+      "sha256": "6e3c77761673e6d2f9042aaac096e2fd95aa26f4002a66f97be1af4b16f9c7b0",
+      "dimensions": [
+        2244,
+        1588
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-development.png",
+      "bytes": 315030,
+      "sha256": "9c39ec8b37560d51e55929bba2f63da7c052b5dafeed9df0614abb165764ec9f",
+      "dimensions": [
+        2244,
+        1588
+      ]
+    },
+    {
+      "file": "exports/open-praise-development.png",
+      "bytes": 280285,
+      "sha256": "830b39afc11f45e4c24eb3213331d02781303857aeafd3885c484ea4517812ff",
+      "dimensions": [
+        2244,
+        1588
+      ]
+    },
+    {
+      "file": "exports/lettering-development.png",
+      "bytes": 278055,
+      "sha256": "e802d0417afa5c61857a24cd722adfcc4055ffc1686c75ca10ae2970dc76b6e8",
+      "dimensions": [
+        2244,
+        1588
+      ]
+    },
+    {
+      "file": "exports/signage-and-stationery.png",
+      "bytes": 122824,
+      "sha256": "a7bcd538efe5772adf086b3b854c6f819f64363bd9ba14d8530f776b58b5f75b",
+      "dimensions": [
+        2244,
+        1588
+      ]
+    },
+    {
+      "file": "exports/social-applications.png",
+      "bytes": 145209,
+      "sha256": "df3713a5c07dcf570ce9a83c6df227a3533a7137403bdb4a993b55d98302021b",
+      "dimensions": [
+        2244,
+        1588
+      ]
+    },
+    {
+      "file": "exports/development-review-09.pdf",
+      "bytes": 713651,
+      "sha256": "8fb250bbe07371c0f75109d6571f0a95e20ef61e40e83c312acedd027493757f",
+      "pages": 6,
+      "draftLabelOnEveryPage": true
+    },
+    {
+      "file": "exports/review-source.html",
+      "bytes": 2396795,
+      "sha256": "e2d7e1f04edad452b576ad8d4651cd1f32d6bffa07264d8433fbfbf7ae336e2e"
+    }
+  ],
+  "checks": [
+    "Complete outlined parish name and cumulative contour bounds in all 10 root lockups",
+    "All application sources match current master hashes",
+    "Original font binaries and licenses match source bytes",
+    "All local Markdown targets resolve after URL decoding",
+    "Saved PNGs decode; PDF has 6 landscape pages and draft labels",
+    "Root visually inspected overview, type, mark refinements, full applications and social delivery; editor inspected new spacing and primary avatar use"
+  ],
+  "limitations": "Rendering and integrity checks do not establish recognition, originality, trademark clearance, physical production sizes or approval. RCCG PNG absent; actual two-logo pairing untested."
+}

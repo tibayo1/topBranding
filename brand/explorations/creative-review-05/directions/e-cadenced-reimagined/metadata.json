@@ -1,0 +1,78 @@
+{
+  "direction": "E",
+  "title": "Cadenced Wall Reimagined",
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "sketches": [
+    {
+      "id": "E1",
+      "name": "Returning Court",
+      "idea": "A folded perimeter turns around a common court; its increasing depth becomes the expression.",
+      "approach": "Plan-like enclosing fold with open entrance",
+      "sourceFile": "directions/e-cadenced-reimagined/e1-returning-court-v1.svg",
+      "reason": "Gathered interior is visible. A cog, wreath or enclosing fortress remains possible; the tapering seams are too complex for a lead mark."
+    },
+    {
+      "id": "E2",
+      "name": "One Fold",
+      "idea": "One strip folds around an interior and then rises beyond its own enclosure.",
+      "approach": "Continuous folded ribbon",
+      "sourceFile": "directions/e-cadenced-reimagined/e2-one-fold-v1.svg",
+      "reason": "One continuous object carries dwelling and movement. The interlocking corners can read as packaging, recycling or a technology loop."
+    },
+    {
+      "id": "E3",
+      "name": "Answering Surfaces",
+      "idea": "Two folded surfaces answer across one shared interior; each helps make the room.",
+      "approach": "Interdependent solid and counterform",
+      "sourceFile": "directions/e-cadenced-reimagined/e3-answering-surfaces-v1.svg",
+      "reason": "Large counter and directional weight are clear. At first glance it may be an abstract leaf pair, split flame or rotational industry mark."
+    },
+    {
+      "id": "E4",
+      "name": "Opening Measure",
+      "idea": "A stable architectural mass progressively opens, so its own structure becomes generous.",
+      "approach": "Carved mass with opening intervals",
+      "sourceFile": "directions/e-cadenced-reimagined/e4-opening-measure-v1.svg",
+      "reason": "The carved mass has a strong edge but the wedge/roof silhouette still suggests contemporary property or a sculptural building."
+    },
+    {
+      "id": "E5",
+      "name": "Processional Fold",
+      "idea": "A horizontal gathering becomes one broad rising return, expressing praise through movement.",
+      "approach": "Low pleated procession and rising sweep",
+      "sourceFile": "directions/e-cadenced-reimagined/e5-processional-fold-v1.svg",
+      "reason": "The sweep is kinetic and changes the axis of the original. Jagged peaks can suggest mountains, a sports brand or an upward chart."
+    },
+    {
+      "id": "E6",
+      "name": "Common Vault",
+      "idea": "Unequal folded shells join around one interior rather than stand as individual pillars.",
+      "approach": "Sculptural enclosing shell",
+      "sourceFile": "directions/e-cadenced-reimagined/e6-common-vault-v1.svg",
+      "reason": "The most unified shell construction, with cadence around a room. Could read as a folded rosette, aperture or abstract flame; avoid overclaiming immediate church recognition."
+    }
+  ],
+  "developed": {
+    "name": "Opening Measure",
+    "sourceFile": "directions/e-cadenced-reimagined/developed-v4.svg",
+    "chosenSketchId": "E4",
+    "idea": "A single folded wall enlarges its openings as it turns around a shared interior; the dwelling itself supplies the cadence.",
+    "visible": "A joined sloping surface, two measured cuts and one generous interior open through the lower edge. Angular left faces answer a curved outer return.",
+    "meaning": "The same structural gesture makes room and expresses movement. Joined construction suggests a shared dwelling; changing intervals and an expansive return suggest collective response. These are contemporary design associations, not a historical reconstruction or an image of divine presence.",
+    "construction": [
+      "One upper diagonal joins every zone. The two cuts sit below it with substantial material bridges instead of dividing the mark into separate pillars.",
+      "Small intervals lead toward a larger shared interior. The lower threshold is genuinely open, replacing v3’s pinched point contact.",
+      "Angular folded faces on the left contrast with a broad curved return on the right. All cuts are real negative space in one filled compound path."
+    ],
+    "risk": "The primary association can still be a sculptural building or product emblem. A residual flame-like reading is possible in the large interior. Christian parish meaning needs the complete name and context; the artwork alone does not make it explicit.",
+    "smallSize": "Native 16 px retains the sloping silhouette and open interior, while the finer upper interval largely merges. At 24 px the folded structure is identifiable; at 32 px the measured cuts are clearer. White reverse retains the threshold but looks slightly heavier at tiny sizes. Use 32 px or larger when the full cadence matters.",
+    "longevity": "The identity rests on a structural silhouette and the relationship of solid to space, without a transient effect. Long-term usefulness is plausible, but church warmth and the sculptural/property association need congregation review.",
+    "selectionReason": "E4 gives the strongest connection between architectural rhythm and a shared interior. E1/E2 read as loops or packaging; E3 reads as a split flame or rotation; E5 retains peaks and chart associations; E6 approaches an aperture. V4 repairs v3’s fragile upper ties and common bottom point without restarting the concept. Extra investigation does not make E the strongest of the five directions.",
+    "iterations": [
+      "directions/e-cadenced-reimagined/developed-v1.svg",
+      "directions/e-cadenced-reimagined/developed-v2.svg",
+      "directions/e-cadenced-reimagined/developed-v3.svg",
+      "directions/e-cadenced-reimagined/developed-v4.svg"
+    ]
+  }
+}

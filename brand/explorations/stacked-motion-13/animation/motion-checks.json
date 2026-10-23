@@ -1,0 +1,79 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "method": "Deterministic SVG motion reference, not Google-generated.",
+  "meaning": "A rising response to praise: four planes respond in sequence, then settle around their shared open space.",
+  "timing": {
+    "quietStart": [
+      0,
+      0.8
+    ],
+    "riseStarts": [
+      0.8,
+      1.25,
+      1.7,
+      2.15
+    ],
+    "allMotionSettledBy": 6,
+    "exactHold": [
+      6,
+      8
+    ]
+  },
+  "overlapCorrection": "The first two responses overlap: plane 2 stays within 4 source units below plane 1, preserving the projecting shoulder interval. Nominal delays are coordinated by this gap constraint; contours remain unchanged.",
+  "sources": [
+    {
+      "id": "shared-rhythm",
+      "source": "animation-inputs/shared-rhythm/square/full-logo-end-DRAFT.svg",
+      "sourceSHA256": "4eeda036577c2bb6d6bc6546ae52d5bcdff09d6b9ed2026ddcfc96ecaa052034",
+      "endPNG": "animation-inputs/shared-rhythm/square/full-logo-end-DRAFT.png"
+    },
+    {
+      "id": "open-praise",
+      "source": "animation-inputs/open-praise/square/full-logo-end-DRAFT.svg",
+      "sourceSHA256": "e058926ff8d0a62aceafa891eec51e4e858bf2a3304eeea7005c7dcfc76027b1",
+      "endPNG": "animation-inputs/open-praise/square/full-logo-end-DRAFT.png"
+    }
+  ],
+  "videos": [
+    {
+      "durationSeconds": 8,
+      "frames": 240,
+      "fps": 30,
+      "size": [
+        1080,
+        1080
+      ],
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "silent": true,
+      "namePixelsStatic": true,
+      "sharedPlaneComponentsAllFrames": [
+        4
+      ],
+      "sharedGapMethod": "All 240 native pre-encode frames: 8-neighbor components in the symbol region, grayscale < 155. This supports separation only.",
+      "losslessFinalFramesMatchRootPNG": true,
+      "encodedVideoNote": "H.264/YUV is lossy; exact equality is verified before encoding.",
+      "file": "shared-rhythm-rising-response-1080-DRAFT.mp4",
+      "sha256": "1021e4c36daddab8d85bee803762d15abe615c18551de9b703b644f58b96909d"
+    },
+    {
+      "durationSeconds": 8,
+      "frames": 240,
+      "fps": 30,
+      "size": [
+        1080,
+        1080
+      ],
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "silent": true,
+      "namePixelsStatic": true,
+      "sharedPlaneComponentsAllFrames": null,
+      "sharedGapMethod": null,
+      "losslessFinalFramesMatchRootPNG": true,
+      "encodedVideoNote": "H.264/YUV is lossy; exact equality is verified before encoding.",
+      "file": "open-praise-rising-response-1080-DRAFT.mp4",
+      "sha256": "447906aea96e2bee9c5ec5b7eb37cbb8f235cb2059ca3b0fc978f08f3f3feda4"
+    }
+  ]
+}

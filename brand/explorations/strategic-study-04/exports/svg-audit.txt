@@ -1,0 +1,30 @@
+
+=== 01-responsive-cover-v4.svg  (756 bytes)
+viewBox 0 0 360 256 · aspect 1.406 (wide)
+colours 1: #000000 · gradients 0 · anchors 22
+margins L24.0 R24.0 T44.0 B32.0 · bbox fill 0.609
+▲ WARN [near-miss-angle] 1 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 162.3° (→165°) len 92.3 at (168,132). (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [off-centre-y] Vertical margins differ (top 44.0, bottom 32.0). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 91/100 (heuristic)
+
+=== 07-common-ground-v2.svg  (775 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #000000 · gradients 0 · anchors 22
+margins L24.0 R18.0 T26.0 B29.0 · bbox fill 0.656
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== 09-cadenced-wall-v2.svg  (689 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #000000 · gradients 0 · anchors 27
+margins L20.0 R20.0 T34.0 B26.0 · bbox fill 0.646
+▲ WARN [near-miss-angle] 4 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 137.3° (→135°) len 35.4 at (104,132); 12.3° (→15°) len 32.8 at (130,108); 118.7° (→120°) len 70.7 at (174,96); 166.0° (→165°) len 16.5 at (236,220). (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+· INFO [off-centre-y] Vertical margins differ (top 34.0, bottom 26.0). Remember the optical centre sits slightly above the geometric centre.
+production-readiness score: 91/100 (heuristic)
+
+=== 11-shared-line-v2.svg  (15799 bytes)
+viewBox 0 0 920 390 · aspect 2.359 (wide)
+colours 1: #000000 · gradients 0 · anchors 713
+margins L28.0 R40.0 T40.0 B50.0 · bbox fill 0.712
+▲ WARN [complex] 713 anchor points — more than 95% of comparable reference logos (median 75.0). Simplify: fewer points, merged shapes, less detail.
+production-readiness score: 92/100 (heuristic)

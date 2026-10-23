@@ -1,0 +1,169 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "layout": "Full parish name below the symbol, static throughout the proposed motion.",
+  "durationSeconds": 8,
+  "holdSeconds": [
+    6,
+    8
+  ],
+  "camera": "Static, flat vector presentation. Silent.",
+  "colors": {
+    "foreground": "#10494C",
+    "background": "#F6F3EC"
+  },
+  "rccg": "Excluded from generative animation inputs. Keep any parent emblem separate and static in a later overlay.",
+  "startFrameNote": "Lowered complete planes/name-static frame for tools accepting both start/end images. For a tool taking one image only, use exact full-logo-end and the supplied gentle-lift-and-return prompt.",
+  "directions": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "sourceStacked": "../teal-refinement-11/exports/shared-rhythm-stacked-DRAFT.svg",
+      "sourceSHA256": "e54db0607cda8e9e9d6bfb23bde9a760db23614f69f9078e0aee28c3eac52507",
+      "startOffsetsSourceUnits": [
+        22,
+        26,
+        30,
+        24
+      ],
+      "meaning": "A rising response to praise: four unequal planes express the congregation responding together in worship.",
+      "formats": {
+        "square": {
+          "width": 1080,
+          "height": 1080,
+          "frameTransform": {
+            "x": 160.0,
+            "y": 150.5,
+            "scale": 1.9
+          },
+          "files": {
+            "full-logo-end": {
+              "svg": "animation-inputs/shared-rhythm/square/full-logo-end-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/square/full-logo-end-DRAFT.png"
+            },
+            "full-logo-start": {
+              "svg": "animation-inputs/shared-rhythm/square/full-logo-start-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/square/full-logo-start-DRAFT.png"
+            },
+            "symbol-only-end": {
+              "svg": "animation-inputs/shared-rhythm/square/symbol-only-end-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/square/symbol-only-end-DRAFT.png"
+            },
+            "symbol-only-start": {
+              "svg": "animation-inputs/shared-rhythm/square/symbol-only-start-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/square/symbol-only-start-DRAFT.png"
+            },
+            "name-overlay": {
+              "svg": "animation-inputs/shared-rhythm/square/name-overlay-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/square/name-overlay-DRAFT.png"
+            }
+          }
+        },
+        "landscape": {
+          "width": 1920,
+          "height": 1080,
+          "frameTransform": {
+            "x": 580.0,
+            "y": 150.5,
+            "scale": 1.9
+          },
+          "files": {
+            "full-logo-end": {
+              "svg": "animation-inputs/shared-rhythm/landscape/full-logo-end-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/landscape/full-logo-end-DRAFT.png"
+            },
+            "full-logo-start": {
+              "svg": "animation-inputs/shared-rhythm/landscape/full-logo-start-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/landscape/full-logo-start-DRAFT.png"
+            },
+            "symbol-only-end": {
+              "svg": "animation-inputs/shared-rhythm/landscape/symbol-only-end-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/landscape/symbol-only-end-DRAFT.png"
+            },
+            "symbol-only-start": {
+              "svg": "animation-inputs/shared-rhythm/landscape/symbol-only-start-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/landscape/symbol-only-start-DRAFT.png"
+            },
+            "name-overlay": {
+              "svg": "animation-inputs/shared-rhythm/landscape/name-overlay-DRAFT.svg",
+              "png": "animation-inputs/shared-rhythm/landscape/name-overlay-DRAFT.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "sourceStacked": "../teal-refinement-11/exports/open-praise-stacked-DRAFT.svg",
+      "sourceSHA256": "23c7847db87f01e33130c6580ce383833d84f8af6533f5d56833315e95917768",
+      "startOffsetsSourceUnits": [
+        18
+      ],
+      "meaning": "An open name-based T/P gesture; motion preserves the counter rather than morphing its letters.",
+      "formats": {
+        "square": {
+          "width": 1080,
+          "height": 1080,
+          "frameTransform": {
+            "x": 160.0,
+            "y": 150.5,
+            "scale": 1.9
+          },
+          "files": {
+            "full-logo-end": {
+              "svg": "animation-inputs/open-praise/square/full-logo-end-DRAFT.svg",
+              "png": "animation-inputs/open-praise/square/full-logo-end-DRAFT.png"
+            },
+            "full-logo-start": {
+              "svg": "animation-inputs/open-praise/square/full-logo-start-DRAFT.svg",
+              "png": "animation-inputs/open-praise/square/full-logo-start-DRAFT.png"
+            },
+            "symbol-only-end": {
+              "svg": "animation-inputs/open-praise/square/symbol-only-end-DRAFT.svg",
+              "png": "animation-inputs/open-praise/square/symbol-only-end-DRAFT.png"
+            },
+            "symbol-only-start": {
+              "svg": "animation-inputs/open-praise/square/symbol-only-start-DRAFT.svg",
+              "png": "animation-inputs/open-praise/square/symbol-only-start-DRAFT.png"
+            },
+            "name-overlay": {
+              "svg": "animation-inputs/open-praise/square/name-overlay-DRAFT.svg",
+              "png": "animation-inputs/open-praise/square/name-overlay-DRAFT.png"
+            }
+          }
+        },
+        "landscape": {
+          "width": 1920,
+          "height": 1080,
+          "frameTransform": {
+            "x": 580.0,
+            "y": 150.5,
+            "scale": 1.9
+          },
+          "files": {
+            "full-logo-end": {
+              "svg": "animation-inputs/open-praise/landscape/full-logo-end-DRAFT.svg",
+              "png": "animation-inputs/open-praise/landscape/full-logo-end-DRAFT.png"
+            },
+            "full-logo-start": {
+              "svg": "animation-inputs/open-praise/landscape/full-logo-start-DRAFT.svg",
+              "png": "animation-inputs/open-praise/landscape/full-logo-start-DRAFT.png"
+            },
+            "symbol-only-end": {
+              "svg": "animation-inputs/open-praise/landscape/symbol-only-end-DRAFT.svg",
+              "png": "animation-inputs/open-praise/landscape/symbol-only-end-DRAFT.png"
+            },
+            "symbol-only-start": {
+              "svg": "animation-inputs/open-praise/landscape/symbol-only-start-DRAFT.svg",
+              "png": "animation-inputs/open-praise/landscape/symbol-only-start-DRAFT.png"
+            },
+            "name-overlay": {
+              "svg": "animation-inputs/open-praise/landscape/name-overlay-DRAFT.svg",
+              "png": "animation-inputs/open-praise/landscape/name-overlay-DRAFT.png"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

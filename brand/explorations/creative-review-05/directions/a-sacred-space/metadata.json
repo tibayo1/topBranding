@@ -1,0 +1,64 @@
+{
+  "direction": "A",
+  "title": "Sacred Space",
+  "sketches": [
+    {
+      "id": "A1",
+      "name": "Open Court",
+      "idea": "A canted enclosure surrounds a generous shared interior and leaves diagonal ways through.",
+      "approach": "Two turning boundaries; a spatial court rather than a roof illustration.",
+      "sourceFile": "directions/a-sacred-space/a1-open-court.svg",
+      "reason": "The open room is legible, but the split perimeter resembles a generic corporate loop."
+    },
+    {
+      "id": "A2",
+      "name": "Resonant Chamber",
+      "idea": "Curved boundaries and an inner shelf test an interior that widens toward its opening.",
+      "approach": "Asymmetric curved enclosure with a secondary inward edge.",
+      "sourceFile": "directions/a-sacred-space/a2-resonant-chamber.svg",
+      "reason": "The separate inner shelf feels added; the resulting form has too many competing readings."
+    },
+    {
+      "id": "A3",
+      "name": "Common Centre",
+      "idea": "Three inward-turning boundaries imply one shared centre without drawing individuals.",
+      "approach": "Faceted, separated walls organized around a common interval.",
+      "sourceFile": "directions/a-sacred-space/a3-common-centre.svg",
+      "reason": "The gathering is understandable, but the three-part circulation suggests recycling or a business network."
+    },
+    {
+      "id": "A4",
+      "name": "Joined Thresholds",
+      "idea": "Two folded boundaries give the shared interior a cruciform shape and leave it open to its surroundings.",
+      "approach": "Carve the crossing first; let its upper and lower thresholds determine the surrounding silhouettes.",
+      "sourceFile": "directions/a-sacred-space/developed-v4.svg",
+      "reason": "The Christian and spatial readings become visible in one construction. This has a clearer reason to exist than the earlier loops."
+    }
+  ],
+  "developed": {
+    "name": "Open Crossing",
+    "sourceFile": "directions/a-sacred-space/developed.svg",
+    "chosenSketchId": "A4",
+    "idea": "Two folded boundaries make one open, cruciform shared interior.",
+    "visible": "Two unequal faceted silhouettes; a vertical crossing with a broad horizontal room; an open upper interval and a diagonal lower threshold.",
+    "meaning": "The boundaries suggest a place of gathering, while the shared cruciform interval establishes a visible Christian association. The opening can suggest invitation and response; its relationship to praise is an intended artistic association and is less immediate than the sacred-space reading. The void does not depict God, and this is not a historical tabernacle plan.",
+    "construction": [
+      "256-unit canvas; exterior x30–226 and y26–232. The main vertical interval is 44 units wide and the horizontal crossing is 36 units deep.",
+      "Two closed black filled silhouettes. The interior is actual space between contours, with no white cover shapes, strokes, masks or raster artwork.",
+      "45-degree lower threshold edges align the opening with the faceted enclosure; a 30-degree upper-right plane creates measured asymmetry. The selected seventh development removes the small lower step."
+    ],
+    "risk": "Its dense faceted boundaries can feel institutional. The lower interval may read as a chevron, and a viewer may see a split geometric badge before recognizing the shared room. Praise is expressed less clearly than Christian gathering.",
+    "smallSize": "Rendered and visually checked at true 16, 24, 32 and 64 pixels, in black and reverse. The crossing remains visible at 16 pixels; 24 pixels and above better preserve the diagonal threshold and the distinction between the two boundaries.",
+    "longevity": "Flat filled geometry, generous intervals and no effect-dependent detail support enduring reproduction. The cross is familiar; the asymmetrical enclosure must earn recognition through consistent use rather than a claim of unprecedented symbolism.",
+    "selectionReason": "The room and Christian association are visible without a long explanation. Compared with the earlier loops, the negative space determines the outer construction. The sixth development widened the upper interval; the seventh removed a lower stub and made the diagonal threshold continuous.",
+    "iterations": [
+      "directions/a-sacred-space/developed-v1.svg",
+      "directions/a-sacred-space/developed-v2.svg",
+      "directions/a-sacred-space/developed-v3.svg",
+      "directions/a-sacred-space/developed-v4.svg",
+      "directions/a-sacred-space/developed-v5.svg",
+      "directions/a-sacred-space/developed-v6.svg",
+      "directions/a-sacred-space/developed-v7.svg"
+    ]
+  }
+}

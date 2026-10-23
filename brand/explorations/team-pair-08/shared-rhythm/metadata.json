@@ -1,0 +1,72 @@
+{
+  "id": "shared-rhythm",
+  "name": "Shared Rhythm",
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "viewBox": "0 0 256 256",
+  "primaryFile": "primary.svg",
+  "reverseFile": "reverse.svg",
+  "reverseOnBlackFile": "reverse-on-black.svg",
+  "sourceFile": "source/build.py",
+  "reference": "../../praise-study-07/exports/praise-comparison.png",
+  "referenceRegion": "Top-right Shared Rhythm praise test",
+  "selectedVersion": "v2-open-intervals.svg",
+  "idea": "Four unequal folded planes hold an open gathering space; their rising and falling intervals suggest shared praise.",
+  "meaning": {
+    "tabernacle": "Turning architectural faces hold an open, welcoming forecourt.",
+    "praise": "Changing height and spacing suggest collective rhythm and uplift, without literal music symbols.",
+    "relationship": "The same four planes carry both the gathering-space and rhythm readings."
+  },
+  "construction": [
+    "Four separate flat filled polygons on a 256 × 256 canvas.",
+    "Tallest plane is inner-right; outer faces are deliberately lower.",
+    "A shared open lower interior preserves welcome and depth; there is no level skyline baseline.",
+    "The second face retains its projecting apex and slight taper from the liked raster."
+  ],
+  "changes": [
+    "Faithful new vector reconstruction first.",
+    "Primary v2 widens the first interval by two units only.",
+    "Alternative v3 shortens the projecting apex and raises the two inner lower edges by three units."
+  ],
+  "versions": [
+    {
+      "file": "v1-faithful-reconstruction.svg",
+      "label": "Faithful reconstruction"
+    },
+    {
+      "file": "v2-open-intervals.svg",
+      "label": "Open intervals — primary"
+    },
+    {
+      "file": "v3-courtyard-and-apex.svg",
+      "label": "Courtyard and apex alternative"
+    }
+  ],
+  "strengths": [
+    "Preserves the user-favored silhouette and welcoming asymmetric feel.",
+    "A single spatial arrangement carries both dwelling and rhythm.",
+    "Broad planes and generous central space are strong in monochrome."
+  ],
+  "risks": [
+    "Can read as a cultural venue, property identity or sculptural architecture.",
+    "Praise is abstract, rather than immediately musical or specifically Christian.",
+    "At 16 pixels, antialiasing joins two adjacent faces; 24 pixels and above preserve all four in these tests."
+  ],
+  "smallSize": "Overall gesture remains at 16 px, but two faces touch through antialiasing. Four separate planes survive at 24/32/64 px. Spatial depth is clearest at 32 px and above. A future optical cut is needed for reliable 16 px use.",
+  "testSizes": [
+    16,
+    24,
+    32,
+    64,
+    512
+  ],
+  "pixelComponentCountsAtHalfAlpha": {
+    "16": 3,
+    "24": 4,
+    "32": 4,
+    "64": 4
+  },
+  "visualInspection": "Rendered and viewed the three versions at large scale, black/reverse, and actual 16/24/32/64 px. Root should also inspect final combined presentation.",
+  "auditNotes": "The audit flags slightly tapered edges and unequal vertical margins. These are inherited optical qualities of the favored drawing; the heuristic score is not visual approval.",
+  "font": "No font dependency in the symbol. Board annotations use the repository Noto Sans file only.",
+  "previewFile": "renders/optical-development.png"
+}

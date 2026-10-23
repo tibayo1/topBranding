@@ -1,0 +1,167 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "provisional": false,
+  "pdfPageMm": [
+    210,
+    297
+  ],
+  "pdfPages": 1,
+  "embeddedRasterImagesInPdf": 0,
+  "symbolInkHeightsMm": [
+    8,
+    12,
+    18,
+    24
+  ],
+  "horizontalInkWidthsMm": [
+    35,
+    50,
+    70
+  ],
+  "rulerMm": 50,
+  "screenViewportWidthsPx": {
+    "horizontal": [
+      180,
+      240,
+      320
+    ],
+    "singleLine": [
+      320,
+      480
+    ]
+  },
+  "proofMeasures": [
+    {
+      "direction": "shared-rhythm",
+      "kind": "symbol",
+      "inkHeightMm": 8,
+      "scaleMmPerSourceUnit": 0.04020100502512563
+    },
+    {
+      "direction": "shared-rhythm",
+      "kind": "symbol",
+      "inkHeightMm": 12,
+      "scaleMmPerSourceUnit": 0.06030150753768844
+    },
+    {
+      "direction": "shared-rhythm",
+      "kind": "symbol",
+      "inkHeightMm": 18,
+      "scaleMmPerSourceUnit": 0.09045226130653267
+    },
+    {
+      "direction": "shared-rhythm",
+      "kind": "symbol",
+      "inkHeightMm": 24,
+      "scaleMmPerSourceUnit": 0.12060301507537688
+    },
+    {
+      "direction": "shared-rhythm",
+      "kind": "horizontal",
+      "inkWidthMm": 35
+    },
+    {
+      "direction": "shared-rhythm",
+      "kind": "horizontal",
+      "inkWidthMm": 50
+    },
+    {
+      "direction": "shared-rhythm",
+      "kind": "horizontal",
+      "inkWidthMm": 70
+    },
+    {
+      "direction": "open-praise",
+      "kind": "symbol",
+      "inkHeightMm": 8,
+      "scaleMmPerSourceUnit": 0.041025641025641026
+    },
+    {
+      "direction": "open-praise",
+      "kind": "symbol",
+      "inkHeightMm": 12,
+      "scaleMmPerSourceUnit": 0.06153846153846154
+    },
+    {
+      "direction": "open-praise",
+      "kind": "symbol",
+      "inkHeightMm": 18,
+      "scaleMmPerSourceUnit": 0.09230769230769231
+    },
+    {
+      "direction": "open-praise",
+      "kind": "symbol",
+      "inkHeightMm": 24,
+      "scaleMmPerSourceUnit": 0.12307692307692308
+    },
+    {
+      "direction": "open-praise",
+      "kind": "horizontal",
+      "inkWidthMm": 35
+    },
+    {
+      "direction": "open-praise",
+      "kind": "horizontal",
+      "inkWidthMm": 50
+    },
+    {
+      "direction": "open-praise",
+      "kind": "horizontal",
+      "inkWidthMm": 70
+    }
+  ],
+  "physicalPrint": "NOT PRINTED OR VERIFIED; print at100%, measure ruler and assess actual material.",
+  "metadataSHA256": "edd7284732f53567b9b338e4f44e1190ffd90fbe34632936412eb5a42ff01a8b",
+  "inputs": [
+    {
+      "file": "shared-rhythm/primary.svg",
+      "sha256": "2ace4fe86078526e6bb0a75d2e2a315944cf30de1ba9d2821e0b5ca25ddc41ca"
+    },
+    {
+      "file": "shared-rhythm/compact.svg",
+      "sha256": "a3301366062f4097508962ffb1d0a8778e11b34ee307f4a387ad0de2f6fc8621"
+    },
+    {
+      "file": "exports/shared-rhythm-horizontal-DRAFT.svg",
+      "sha256": "b951b4ae4c2ddef532d64e5f8930d13b878d040508bd12f91c61761e27fc3c14"
+    },
+    {
+      "file": "exports/shared-rhythm-singleLine-DRAFT.svg",
+      "sha256": "d3f51a114608ceac9d8a3aff533d903f2c17b0d876a019254c5a87ad02a36389"
+    },
+    {
+      "file": "open-praise/primary.svg",
+      "sha256": "f4affcf73b35ddbdf9f7a02acdacafc7f62d316d3d8f8509d0970f5bdc8cb262"
+    },
+    {
+      "file": "open-praise/compact.svg",
+      "sha256": "89f3af7b3b52739ce2773046e5e0f321245fe8993ef7202443507b9c2e2984e3"
+    },
+    {
+      "file": "exports/open-praise-horizontal-DRAFT.svg",
+      "sha256": "5c7986ef4786356cdd130bd974f63518cf1b244d7f9c7bf9c39bd1b9f2d767be"
+    },
+    {
+      "file": "exports/open-praise-singleLine-DRAFT.svg",
+      "sha256": "880b2845f18c618dbf21ea9ec0b56f98bc2f6f71eedbfd11042edc41b5f32d3d"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "proofs/a4-print-proof.svg",
+      "sha256": "54505f94da0851550debcedb7151789df68b685a2e50b175e0a6126085a2c051"
+    },
+    {
+      "file": "proofs/a4-print-proof.pdf",
+      "sha256": "bd54fcc2120f506064205c41fb96e63f945990014463ffe0de8e12f54f9206d8"
+    },
+    {
+      "file": "proofs/print-proof-preview.png",
+      "sha256": "48ae225fa74cdd79af876eafd3fd6a97de07aebca67b6df584f7b7b2cbbb0a78"
+    },
+    {
+      "file": "proofs/screen-size-proof.png",
+      "sha256": "f8f6c0e4fff51d2096fad3dc1cdb1b240ca20b0db9fea9626aa82ae186ebbe5e"
+    }
+  ]
+}

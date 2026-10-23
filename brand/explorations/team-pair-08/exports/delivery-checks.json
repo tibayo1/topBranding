@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "checks": [
+    "All local documentation links resolve.",
+    "Ten full-name SVG variants are outlined, contain all letters, and fit their viewBoxes.",
+    "Three PDF pages carry draft status and correct direction headings.",
+    "All three delivery PNGs decode successfully.",
+    "Original Instrument Sans font and license bytes are preserved."
+  ],
+  "sourceEvidence": {
+    "sharedRhythm16px": "Two faces touch;24+separate;32+spatialreadingclearer.",
+    "openPraise16px": "Broadcounterretained;curvedtipsoftens;letterrecognitionstillrequiresreaderfeedback."
+  },
+  "sha256": {
+    "open-praise-review.png": "16114a863c407cefff73f8a1026b17ef2d503290c6b8ea119f12bb7799bf540c",
+    "review-artwork.json": "e41c611a7add39e8d548cd46575d22295aa94b6073153fd1a02a30e5f1608f0a",
+    "review-source.html": "749e4b7899ade4c99723d244c2bba71e140fbcff737080da321a7b4306c69142",
+    "second-option-horizontal-DRAFT.svg": "3a2142ef67e97fe4a6faeeb6cd5bb35579ea016f714ae08fb89113c258d88e47",
+    "second-option-horizontal-reverse-DRAFT.svg": "1968c479fa3ac81f855f8122db018f552fae185505e6d7062f790b8d64b16c44",
+    "second-option-stacked-DRAFT.svg": "81b3bb342f294707768981b4a0a68cb226502b86ca342ab556650592aea9e9fa",
+    "second-option-stacked-reverse-DRAFT.svg": "c161e7b23c96a2dd798beda51d5b54d48d56fc12c1e84e877949efba90edbb56",
+    "second-option-wordmark-DRAFT.svg": "497cf2524b25aa416920e19bb776c7894f9202d508aef7118342ada53368e30e",
+    "shared-rhythm-horizontal-DRAFT.svg": "e5312300bc0dc8c051927f07eb9c975f6a419b68ac9245aac6d571c8b6ba64c3",
+    "shared-rhythm-horizontal-reverse-DRAFT.svg": "9c4c3e6247bdccfd9cc62b488e80f54ee9d4d2eddc8ffc4a66661045ab68d60f",
+    "shared-rhythm-review.png": "ea5ed432bb44fa19e2e8c7813bb3fefc38d220e5667542fbae25c1c710213ce4",
+    "shared-rhythm-stacked-DRAFT.svg": "e0b0fdcccdf7b36d5f6b0861655bb565b43064b8f76712637b18fda7edeea829",
+    "shared-rhythm-stacked-reverse-DRAFT.svg": "9901e01b964ef975348d0cdc82e3e5ea9031c3543b00432059195babd39b2a46",
+    "shared-rhythm-wordmark-DRAFT.svg": "083069a703fb6b33aa7b977536f4c9dc2c3f0fcb57ea4b1cf5e77216d3e66321",
+    "team-review-08.pdf": "55c81a37d56139b09d2d95a8ba0778781d66328eca8c84363bbdd82495597ea9",
+    "two-directions.png": "121393738e71faa75bbf31e440c4a5d10ff3d2f6018c5c069b38b820d14c6902"
+  },
+  "limits": "Geometry and delivery checks do not establish artistic approval, public recognition, actual RCCG pairing, physical fabrication or trademark clearance."
+}

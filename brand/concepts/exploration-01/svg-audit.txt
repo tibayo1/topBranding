@@ -1,0 +1,21 @@
+
+=== a-folded-sanctuary-v3.svg  (510 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #000000 · gradients 0 · anchors 19
+margins L20.0 R20.0 T24.0 B28.0 · bbox fill 0.672
+▲ WARN [near-miss-angle] 1 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 17.7° (→15°) len 121.7 at (100,191). (Expected — and fine — for type set on a curve or deliberately rotated elements.)
+production-readiness score: 92/100 (heuristic)
+
+=== b-sanctuary-strings-v3.svg  (620 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #000000 · gradients 0 · anchors 20
+margins L24.0 R24.0 T19.9 B24.0 · bbox fill 0.673
+✔ no issues found
+production-readiness score: 100/100 (heuristic)
+
+=== c-praise-ligature-v3.svg  (702 bytes)
+viewBox 0 0 256 256 · aspect 1.0 (square)
+colours 1: #000000 · gradients 0 · anchors 24
+margins L20.0 R20.0 T34.0 B34.0 · bbox fill 0.62
+✔ no issues found
+production-readiness score: 100/100 (heuristic)

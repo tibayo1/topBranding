@@ -1,0 +1,109 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "optionalSoundStudy": true,
+  "durationSeconds": 14,
+  "sampleRate": 48000,
+  "channels": 2,
+  "pcmBitDepth": 16,
+  "samplesPerChannel": 672000,
+  "method": "Original deterministic additive/modal synthesis and filtered noise. No sampled recordings, existing melody, vocals or external audio assets.",
+  "auditioned": false,
+  "auditionLimitation": "Audio input/playback audition is unavailable in this execution context. Technical checks do not constitute subjective mix or mastering approval.",
+  "sha256": "f59846f9ca3b5188e1f36530c85ae62669d0a9aae968f7b85a507358caddcd3e",
+  "bytes": 2688044,
+  "peakDBFS": -6.801,
+  "oversampled4xTruePeakApproxDBFS": -6.795,
+  "channelRMSDBFS": [
+    -20.963,
+    -21.679
+  ],
+  "channelDCOffset": [
+    2.979096912202381e-08,
+    -9.218851725260417e-09
+  ],
+  "firstAndLast32SamplesSilent": true,
+  "finiteSignal": true,
+  "noFullScaleClips": true,
+  "entryVoices": [
+    {
+      "at": 2.4,
+      "frequency": 293.6648,
+      "pan": -0.6,
+      "velocity": 0.112,
+      "note": "D4"
+    },
+    {
+      "at": 3.05,
+      "frequency": 369.9944,
+      "pan": -0.2,
+      "velocity": 0.104,
+      "note": "F#4"
+    },
+    {
+      "at": 3.7,
+      "frequency": 440,
+      "pan": 0.2,
+      "velocity": 0.095,
+      "note": "A4"
+    },
+    {
+      "at": 4.35,
+      "frequency": 659.2551,
+      "pan": 0.6,
+      "velocity": 0.071,
+      "note": "E5"
+    }
+  ],
+  "riseVoices": [
+    {
+      "at": 5.28,
+      "frequency": 293.6648,
+      "pan": -0.42,
+      "velocity": 0.06,
+      "note": "D4"
+    },
+    {
+      "at": 5.94,
+      "frequency": 440,
+      "pan": -0.1,
+      "velocity": 0.07,
+      "note": "A4"
+    },
+    {
+      "at": 6.6,
+      "frequency": 587.3295,
+      "pan": 0.16,
+      "velocity": 0.072,
+      "note": "D5"
+    },
+    {
+      "at": 7.28,
+      "frequency": 739.9888,
+      "pan": 0.42,
+      "velocity": 0.061,
+      "note": "F#5"
+    }
+  ],
+  "sync": {
+    "quietOpening": [
+      0,
+      2.4
+    ],
+    "fourEnteringVoices": [
+      2.4,
+      4.35
+    ],
+    "sharedRise": [
+      5,
+      8.5
+    ],
+    "harmonicResolution": 9.18,
+    "tailAcrossFinalHold": [
+      10.5,
+      14
+    ]
+  },
+  "ffmpegLoudnessSummary": "Summary:\n\n  Integrated loudness:\n    I:         -18.3 LUFS\n    Threshold: -29.0 LUFS\n\n  Loudness range:\n    LRA:         5.4 LU\n    Threshold: -38.3 LUFS\n    LRA low:   -21.6 LUFS\n    LRA high:  -16.2 LUFS\n\n  True peak:\n    Peak:       -6.8 dBFS",
+  "integratedLoudnessLUFS": -18.3,
+  "loudnessRangeLU": 5.4
+}

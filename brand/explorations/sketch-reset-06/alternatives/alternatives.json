@@ -1,0 +1,25 @@
+{
+  "status": "DRAFT \u2014 NOT FOR PUBLICATION",
+  "wordmark": {
+    "name": "Broad Voice",
+    "source": "broad-voice-v2.svg",
+    "construction": "Every displayed glyph drawn as original paths in source/build_alternatives.py; no font outlines. Broad left strokes, slimmer returns and cut exits form one handwriting grammar.",
+    "idea": "Make the full name a warm, visibly drawn voice.",
+    "risks": [
+      "Can lean toward a caf\u00e9 or cultural festival identity; lettering may feel too informal for the parish.",
+      "Spacing and the f/P junction remain rough.",
+      "The first line is deliberately wider; optical rhythm needs user judgment before refinement."
+    ]
+  },
+  "letterform": {
+    "name": "Open Voice TP",
+    "source": "open-voice-tp-v1.svg",
+    "construction": "A lower T shoulder answers a taller P. The open P counter exits through a broad left cut; no enclosing seal.",
+    "idea": "A compact open letterform as a counterpart to the full-name and architectural options.",
+    "risks": [
+      "The lower T can read lowercase r in isolation.",
+      "Rounded compact geometry can suggest an app or creative studio.",
+      "The initial letters need recognition testing before this deserves refinement."
+    ]
+  }
+}

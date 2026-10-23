@@ -1,0 +1,106 @@
+{
+  "study": "RCCG Tabernacle of Praise — Strategic Identity Study 04",
+  "status": "passed",
+  "checkedAtUtc": "2026-10-17T18:25:58.207619+00:00",
+  "browser": "Chromium / Python Playwright",
+  "checksPassed": 11,
+  "checks": [
+    "Six territories each contain two nonidentical vector studies; four advance and eight show specific set-aside reasons",
+    "All displayed studies preserve editable source geometry and transforms; shortlisted art and full-name lockups use vector outlines with licensed type disclosed",
+    "Draft status and open decisions remain visible; RCCG is reserved with a clearly missing-asset label; no palette stage or mandatory historical finalist is introduced",
+    "All six territory filters work with keyboard activation and return the correct two studies; all-ideas restores twelve",
+    "Artwork dialogs trap keyboard focus, close with Escape, and restore the opener; all four concept tablists support arrows, Home, and End",
+    "Every large stage and overview reverses; size proofs use actual 64/32/24/16px boxes and 320/240px full-name widths, with compact/full-wordmark limits disclosed",
+    "All twenty primary-artwork, horizontal, stacked, paper, and signage downloads are valid draft SVGs and retain source geometry",
+    "Review selections, notes and viewing mode survive reload; downloaded JSON records no identity approval and clearing removes local notes",
+    "All four proof panels and artwork dialogs fit 1440/768/390/320px screens without page or dialog horizontal overflow",
+    "Self-contained HTML renders all art with every network route blocked; filters, reversal, dialogs, feedback export and all twenty SVG downloads still work",
+    "The online study has no JavaScript errors or remote asset requests; every exported SVG parses successfully"
+  ],
+  "evidence": {
+    "shortlist": [
+      {
+        "id": "S1",
+        "name": "Responsive Cover"
+      },
+      {
+        "id": "S2",
+        "name": "Common Ground"
+      },
+      {
+        "id": "S3",
+        "name": "Cadenced Wall"
+      },
+      {
+        "id": "S4",
+        "name": "Shared Line"
+      }
+    ],
+    "sourceFiles": [
+      "concepts/01-responsive-cover-v4.svg",
+      "sketches/02-coupled-fabric-v1.svg",
+      "sketches/03-processional-court-v1.svg",
+      "sketches/04-returning-thanks-v1.svg",
+      "sketches/05-held-light-v1.svg",
+      "sketches/06-room-in-the-veil-v1.svg",
+      "concepts/07-common-ground-v2.svg",
+      "sketches/08-a-common-centre-v2.svg",
+      "concepts/09-cadenced-wall-v2.svg",
+      "sketches/10-lifted-surface-v2.svg",
+      "concepts/11-shared-line-v2.svg",
+      "sketches/12-lifted-praise-v1.svg",
+      "concepts/01-responsive-cover-v4.svg",
+      "concepts/07-common-ground-v2.svg",
+      "concepts/09-cadenced-wall-v2.svg",
+      "concepts/11-shared-line-v2.svg"
+    ],
+    "onlineDownloads": [
+      "s1-responsive-cover-symbol-DRAFT.svg",
+      "s1-responsive-cover-horizontal-DRAFT.svg",
+      "s1-responsive-cover-stacked-DRAFT.svg",
+      "s1-responsive-cover-paper-DRAFT.svg",
+      "s1-responsive-cover-signage-DRAFT.svg",
+      "s2-common-ground-symbol-DRAFT.svg",
+      "s2-common-ground-horizontal-DRAFT.svg",
+      "s2-common-ground-stacked-DRAFT.svg",
+      "s2-common-ground-paper-DRAFT.svg",
+      "s2-common-ground-signage-DRAFT.svg",
+      "s3-cadenced-wall-symbol-DRAFT.svg",
+      "s3-cadenced-wall-horizontal-DRAFT.svg",
+      "s3-cadenced-wall-stacked-DRAFT.svg",
+      "s3-cadenced-wall-paper-DRAFT.svg",
+      "s3-cadenced-wall-signage-DRAFT.svg",
+      "s4-shared-line-wordmark-DRAFT.svg",
+      "s4-shared-line-horizontal-DRAFT.svg",
+      "s4-shared-line-stacked-DRAFT.svg",
+      "s4-shared-line-paper-DRAFT.svg",
+      "s4-shared-line-signage-DRAFT.svg"
+    ],
+    "offlineDownloads": [
+      "s1-responsive-cover-symbol-DRAFT.svg",
+      "s1-responsive-cover-horizontal-DRAFT.svg",
+      "s1-responsive-cover-stacked-DRAFT.svg",
+      "s1-responsive-cover-paper-DRAFT.svg",
+      "s1-responsive-cover-signage-DRAFT.svg",
+      "s2-common-ground-symbol-DRAFT.svg",
+      "s2-common-ground-horizontal-DRAFT.svg",
+      "s2-common-ground-stacked-DRAFT.svg",
+      "s2-common-ground-paper-DRAFT.svg",
+      "s2-common-ground-signage-DRAFT.svg",
+      "s3-cadenced-wall-symbol-DRAFT.svg",
+      "s3-cadenced-wall-horizontal-DRAFT.svg",
+      "s3-cadenced-wall-stacked-DRAFT.svg",
+      "s3-cadenced-wall-paper-DRAFT.svg",
+      "s3-cadenced-wall-signage-DRAFT.svg",
+      "s4-shared-line-wordmark-DRAFT.svg",
+      "s4-shared-line-horizontal-DRAFT.svg",
+      "s4-shared-line-stacked-DRAFT.svg",
+      "s4-shared-line-paper-DRAFT.svg",
+      "s4-shared-line-signage-DRAFT.svg"
+    ],
+    "exportSvgCount": 24,
+    "offlineSha256": "e0df51de019b7ffcc85340365b0b63d84f411d095bcd52c2a90c4043c24e95c4"
+  },
+  "failure": null,
+  "limits": "Behavior, geometry transfer and delivery checks only. Human visual interpretation and small-size recognition remain review questions. No brand approval, theological endorsement or trademark clearance is implied."
+}

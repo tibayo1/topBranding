@@ -1,0 +1,23 @@
+{
+  "id": "B",
+  "name": "Open Praise",
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "inReview": true,
+  "primary": "primary.svg",
+  "reverse": "reverse.svg",
+  "viewBox": "0 0 256 256",
+  "primaryType": "symbol",
+  "source": "source/build.py",
+  "selectedVersion": "v2-open-counter",
+  "idea": "A P-shaped outer gesture holds a T in its open negative interior.",
+  "visible": "One compact black contour; a broad open white crossbar turns down into a clear stem and exits the lower edge.",
+  "meaning": "The letters relate to Tabernacle and Praise. The held, open interior can support the idea of welcome and response. It is not a literal image of worship or a musical instrument.",
+  "construction": "One closed path traces a shape with an open indentation. The white T is true unfilled geometry connected to the surrounding background, not a white overlay or mask.",
+  "changes": {
+    "v1": "Interprets candidate B from the original four-concept ideation board.",
+    "v2": "Widens the usable white bar by six units at its left end and three at the right, and shortens the narrow curved tip to reduce a fragile sliver."
+  },
+  "risk": "The two letters may not be equally obvious at first glance, particularly at small sizes. A stylised monogram can suggest a creative studio, publisher or luxury identity. No trademark clearance is implied.",
+  "smallSize": "Rendered and visually inspected at native 16/24/32/64 px in black and reverse. The broad T-shaped opening and outer silhouette survive. At 16 px the tapered right hook loses its fine curve; 24–32 px gives clearer letter reading. This is a draft test, not approval or a universal minimum-size standard.",
+  "referencePrinciples": "Compact confidence and strong figure–ground contrast from the supplied references. Their shield, figure, book, star and NV geometry are not used."
+}

@@ -1,0 +1,307 @@
+{
+  "id": "open-praise",
+  "name": "Open Praise",
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "approval": false,
+  "viewBox": "0 0 256 256",
+  "primaryFile": "primary.svg",
+  "compactFile": "compact.svg",
+  "sourceFile": "source/build.py",
+  "primaryVersion": "v1-aligned-crossbar",
+  "compactVersion": "v3-aligned-compact",
+  "baseline": "../../identity-development-09/open-praise/primary.svg",
+  "changes": [
+    "The left and right undersides of the negative crossbar are aligned at 98 instead of 95/101.",
+    "Same 43-unit primary stem width; original outer P silhouette and lower exit preserved.",
+    "Right counter terminal lifts two units with the leveled crossbar to keep the transition compact."
+  ],
+  "compact": "Provisional 16–20 px cut aligns the two lower crossbar edges at 100 while retaining a 46-unit stem and simpler terminal. Primary remains for normal avatars and display.",
+  "risk": "Negative T remains inferential; P may dominate. Studio, publisher or institutional associations remain possible. Shape and rendering tests do not establish audience recognition or legal originality.",
+  "meaning": "T and P refer to Tabernacle and Praise through one open figure-ground contour. No additional worship symbol is claimed.",
+  "palette": {
+    "primary": "#10494C",
+    "neutral": "#F6F3EC",
+    "secondary": "#D9CBB4",
+    "accent": "#B69255",
+    "status": "User-selected working direction, not final production colors."
+  },
+  "versions": [
+    {
+      "id": "v0-review-09",
+      "file": "versions/v0-review-09.svg",
+      "name": "Review 09 baseline"
+    },
+    {
+      "id": "v1-aligned-crossbar",
+      "file": "versions/v1-aligned-crossbar.svg",
+      "name": "Aligned crossbar"
+    },
+    {
+      "id": "v2-centered-wider-stem",
+      "file": "versions/v2-centered-wider-stem.svg",
+      "name": "Aligned + wider stem"
+    },
+    {
+      "id": "v3-aligned-compact",
+      "file": "versions/v3-aligned-compact.svg",
+      "name": "Tiny-use candidate"
+    },
+    {
+      "id": "v0-review-09-compact",
+      "file": "versions/v0-review-09-compact.svg",
+      "name": "Review 09 tiny-use baseline"
+    }
+  ],
+  "proofs": [
+    "renders/counter-comparison.png",
+    "renders/compact-comparison.png"
+  ],
+  "sourceHash": "f4affcf73b35ddbdf9f7a02acdacafc7f62d316d3d8f8509d0970f5bdc8cb262",
+  "visualInspection": "Viewed actual large and native teal/ivory comparisons. Independent editor prefers aligned crossbar as a modest cohesion improvement; wider stem rejected as less compact. Compact 16/20 proof viewed separately; independent editor found no visible downside and agreed to freeze both aligned cuts. Recognition is not established.",
+  "checks": {
+    "svgAudit": [
+      {
+        "file": "compact-dark.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "compact.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "primary-dark.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "primary-light.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "primary.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "compact-light.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v1-aligned-crossbar-light.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v2-centered-wider-stem-dark.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v2-centered-wider-stem.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v2-centered-wider-stem-light.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v1-aligned-crossbar-dark.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v3-aligned-compact-dark.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v0-review-09-compact-light.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v0-review-09-dark.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v0-review-09-light.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v0-review-09.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v0-review-09-compact.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v0-review-09-compact-dark.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v3-aligned-compact-light.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v3-aligned-compact.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      },
+      {
+        "file": "versions/v1-aligned-crossbar.svg",
+        "singleClosedContour": true,
+        "bounds": [
+          28.0,
+          28.0,
+          228.0,
+          223.0
+        ],
+        "noLiveTypeOrRaster": true
+      }
+    ],
+    "nativeRenders": [
+      16,
+      20,
+      24,
+      32,
+      48,
+      64
+    ],
+    "largeRender": 512,
+    "renderer": "Inkscape",
+    "claim": "Structural checks and inspected renders do not establish letter recognition, production minimums or approval."
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "approval": false,
+  "family": "Instrument Sans",
+  "axes": {
+    "wdth": 100,
+    "wght": 470
+  },
+  "fontFile": "../../identity-development-09/type-study/fonts/instrumentsans/InstrumentSans[wdth,wght].ttf",
+  "licenseFile": "../../identity-development-09/type-study/fonts/instrumentsans/OFL.txt",
+  "fontSHA256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1",
+  "licenseSHA256": "9e27a72ed30eb49a08678f6a5d6ed98ec7ba5368f541637ee0683ec9134ef966",
+  "glyphContours": "Original unmodified font glyphs; positions are shaped and optically adjusted. Not bespoke type design.",
+  "trackingEm": 0.002,
+  "baselineCorrectionsEm": {
+    "Ta": -0.012,
+    "er": -0.003,
+    "rn": 0.004,
+    "cl": 0.005,
+    "Pr": -0.01,
+    "ra": -0.004,
+    "ai": -0.003,
+    "is": 0.003
+  },
+  "workingCorrectionsEm": {
+    "Ta": -0.01,
+    "er": -0.003,
+    "rn": 0.008,
+    "ac": -0.002,
+    "cl": 0.007,
+    "Pr": -0.008,
+    "ra": -0.003,
+    "ai": -0.002,
+    "is": 0.004
+  },
+  "changes": [
+    "Baseline pitch reduced from 117 to 110 at size 100, bringing the two lines into a more coherent name unit.",
+    "Ta and Pr eased 0.2 units at size 100; rn opened 0.4 units and cl 0.2 units to retain separate-letter rhythm.",
+    "ac tightened 0.2 units; ra/ai/is moved 0.1 units for adjacent-space balance.",
+    "No word is reduced in size or weight. The full single-line arrangement preserves normal wordspace and all 18 letter contours."
+  ],
+  "notSelected": "107-unit pitch trial feels more compressed; preserved rather than adopted.",
+  "files": {
+    "left": {
+      "file": "wordmark.svg",
+      "viewBox": "0 0 532.8175000 207.0000000",
+      "inkBounds": [
+        12.0,
+        12.0,
+        520.8175,
+        195.0
+      ],
+      "linePositions": [
+        {
+          "text": "Tabernacle",
+          "positions": [
+            {
+              "character": "T",
+              "x": 8.68,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 62.4971875,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "b",
+              "x": 116.8971875,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 178.43,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 234.93,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "n",
+              "x": 273.93,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 333.9971875,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "c",
+              "x": 387.9175,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "l",
+              "x": 442.8175,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 467.7175,
+              "baseline": 84.0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "text": "of Praise",
+          "positions": [
+            {
+              "character": "o",
+              "x": 8.4666667,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "f",
+              "x": 66.9494792,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": " ",
+              "x": 103.1494792,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "P",
+              "x": 123.1494792,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 188.5494792,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 224.8557292,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "i",
+              "x": 278.5651042,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "s",
+              "x": 303.7947917,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 353.7947917,
+              "baseline": 194.0,
+              "size": 100
+            }
+          ]
+        }
+      ]
+    },
+    "centered": {
+      "file": "wordmark-centered.svg",
+      "viewBox": "0 0 532.8175000 207.0000000",
+      "inkBounds": [
+        12.0,
+        12.0,
+        520.8175,
+        195.0
+      ],
+      "linePositions": [
+        {
+          "text": "Tabernacle",
+          "positions": [
+            {
+              "character": "T",
+              "x": 8.68,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 62.4971875,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "b",
+              "x": 116.8971875,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 178.43,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 234.93,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "n",
+              "x": 273.93,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 333.9971875,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "c",
+              "x": 387.9175,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "l",
+              "x": 442.8175,
+              "baseline": 84.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 467.7175,
+              "baseline": 84.0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "text": "of Praise",
+          "positions": [
+            {
+              "character": "o",
+              "x": 65.4280208,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "f",
+              "x": 123.9108333,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": " ",
+              "x": 160.1108333,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "P",
+              "x": 180.1108333,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 245.5108333,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 281.8170833,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "i",
+              "x": 335.5264583,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "s",
+              "x": 360.7561458,
+              "baseline": 194.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 410.7561458,
+              "baseline": 194.0,
+              "size": 100
+            }
+          ]
+        }
+      ]
+    },
+    "single-line": {
+      "file": "wordmark-single-line.svg",
+      "viewBox": "0 0 954.9456250 98.0000000",
+      "inkBounds": [
+        12.0,
+        12.0,
+        942.9456250000001,
+        86.0
+      ],
+      "linePositions": [
+        {
+          "text": "Tabernacle of Praise",
+          "positions": [
+            {
+              "character": "T",
+              "x": 8.68,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 62.4971875,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "b",
+              "x": 116.8971875,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 178.43,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 234.93,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "n",
+              "x": 273.93,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 333.9971875,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "c",
+              "x": 387.9175,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "l",
+              "x": 442.8175,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 467.7175,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": " ",
+              "x": 524.5175,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "o",
+              "x": 544.5175,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "f",
+              "x": 603.0003125,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": " ",
+              "x": 639.2003125,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "P",
+              "x": 659.2003125,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 724.6003125,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 760.9065625,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "i",
+              "x": 814.6159375,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "s",
+              "x": 839.845625,
+              "baseline": 85.0,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 889.845625,
+              "baseline": 85.0,
+              "size": 100
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "proof": "lettering-refinement.png",
+  "smallUse": "240 px two-line width shown as a screen proof, not a production minimum. Tiny full-name use still needs larger placements than symbol-only icons."
+}

@@ -25,9 +25,15 @@ Use distinct silhouettes, monochrome comparisons and actual-size tests. Pay atte
 - Final symbol/wordmark artwork
 - Exact palette, HEX codes or typeface family
 - Harp inclusion
-- Official RCCG source artwork
+- Transfer of supplied RCCG PNG into GitHub and verification of publication authorization
 - Combined lockup dimensions or official publishing templates
 
 A navy / gold / ivory palette was a favorable early **candidate**; forest green and others are also exploratory.
 
 **Do not present explorations as official brand standards.**
+
+## Latest user review — 17 October 2026
+- The user specifically finds **S3 / Cadenced Wall** fascinating and requests further exploration. Do not treat earlier recommendations to discontinue it as binding. It is a **favored exploration**, not an approved logo.
+- The architectural rhythm is promising, but investigate whether it reads as a skyline or audio equalizer. Explore more expressive dwelling/praise relationships, distinctive negative space, and refined wordmarks.
+- The user supplied a circular RCCG emblem as a PNG. Its original integrity metadata and the repository's target path are in `brand/assets/rccg-emblem/README.md`. **The actual PNG is not yet committed**; do not imply the manifest is the image or produce unauthorized substitutes.
+- Consult `brand/briefs/creative-review-05-cadenced-wall.md` for actionable exploration requirements.

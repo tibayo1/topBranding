@@ -1,0 +1,43 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "masters": [
+    {
+      "file": "wordmark.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        12.0,
+        12.0,
+        520.8175,
+        195.0
+      ],
+      "viewBox": "0 0 532.8175000 207.0000000",
+      "sha256": "e2646e6634915cac1a9eb05c70920bf982c21c02b33141f427ee99680972a62b"
+    },
+    {
+      "file": "wordmark-centered.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        12.0,
+        12.0,
+        520.8175,
+        195.0
+      ],
+      "viewBox": "0 0 532.8175000 207.0000000",
+      "sha256": "88b8a0b0d53c8677409d4fad4d3c859eccf65e6193c46aaea0061797e21bc734"
+    },
+    {
+      "file": "wordmark-single-line.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        12.0,
+        12.0,
+        942.9456250000001,
+        86.0
+      ],
+      "viewBox": "0 0 954.9456250 98.0000000",
+      "sha256": "12f33c31fa273ec779651345648c54e9fd281a4ca0bb0c2304d53152cc68462a"
+    }
+  ],
+  "inspection": "Author and independent editor viewed comparison PNG.110-unit line pitch remains comfortable, rn/cl distinct, single-line wordspaces natural. Actual assembled header widths still require testing by root.",
+  "limits": "Not aesthetic approval, final typography, a minimum-size standard or original custom glyph design."
+}

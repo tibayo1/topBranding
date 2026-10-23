@@ -1,0 +1,894 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "fontsUnmodified": true,
+  "letteringClassification": "Licensed, shaped font outlines with optical spacing; not bespoke type design.",
+  "recommendations": {
+    "shared-rhythm": {
+      "style": "01-open-titlecase",
+      "provisional": true,
+      "reason": "The familiar lowercase shapes soften the unequal folded architecture and preserve the clean, readable full-name feel of the previous praise study."
+    },
+    "open-praise": {
+      "style": "01-open-titlecase",
+      "alternative": "02-measured-capitals",
+      "provisional": true,
+      "reason": "Title case is the stronger working default for welcome and immediate name recognition. Capitals offer a compact, formal alternative but risk making the TP emblem feel civic or institutional."
+    }
+  },
+  "specimens": [
+    {
+      "id": "01-open-titlecase",
+      "name": "Open title case",
+      "family": "Instrument Sans",
+      "folder": "instrumentsans",
+      "file": "InstrumentSans[wdth,wght].ttf",
+      "axes": {
+        "wdth": 100,
+        "wght": 470
+      },
+      "tracking": 0.002,
+      "corrections": {
+        "Ta": -0.012,
+        "er": -0.003,
+        "rn": 0.004,
+        "cl": 0.005,
+        "Pr": -0.01,
+        "ra": -0.004,
+        "ai": -0.003,
+        "is": 0.003
+      },
+      "lines": [
+        "Tabernacle",
+        "of Praise"
+      ],
+      "voice": "Clear, open and welcoming. Keeps the familiar word shapes.",
+      "singleLineFile": "specimens/01-open-titlecase-single-line.svg",
+      "twoLineFile": "specimens/01-open-titlecase-two-line.svg",
+      "singleLineViewBox": "0 0 952.66562 126",
+      "twoLineViewBox": "0 0 531.03750 243",
+      "singleLinePositions": [
+        {
+          "character": "T",
+          "x": 8.0,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "a",
+          "x": 61.61719,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "b",
+          "x": 116.01719,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "e",
+          "x": 177.55,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "r",
+          "x": 234.05,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "n",
+          "x": 272.65,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "a",
+          "x": 332.71719,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "c",
+          "x": 386.8375,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "l",
+          "x": 441.5375,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "e",
+          "x": 466.4375,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": " ",
+          "x": 523.2375,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "o",
+          "x": 543.2375,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "f",
+          "x": 601.72031,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": " ",
+          "x": 637.92031,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "P",
+          "x": 657.92031,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "r",
+          "x": 723.12031,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "a",
+          "x": 759.32656,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "i",
+          "x": 812.93594,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "s",
+          "x": 838.06562,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "e",
+          "x": 888.06563,
+          "baseline": 100,
+          "size": 100
+        }
+      ],
+      "linePositions": [
+        {
+          "text": "Tabernacle",
+          "positions": [
+            {
+              "character": "T",
+              "x": 8.0,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 61.61719,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "b",
+              "x": 116.01719,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 177.55,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 234.05,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "n",
+              "x": 272.65,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 332.71719,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "c",
+              "x": 386.8375,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "l",
+              "x": 441.5375,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 466.4375,
+              "baseline": 100,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "text": "of Praise",
+          "positions": [
+            {
+              "character": "o",
+              "x": 8.0,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "f",
+              "x": 66.48281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": " ",
+              "x": 102.68281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "P",
+              "x": 122.68281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 187.88281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 224.08906,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "i",
+              "x": 277.69844,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "s",
+              "x": 302.82812,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 352.82812,
+              "baseline": 217,
+              "size": 100
+            }
+          ]
+        }
+      ],
+      "twoLineInkBounds": [
+        11.32,
+        28.0,
+        508.2174999999999,
+        190.0
+      ],
+      "lockupTests": {
+        "shared-rhythm": "lockup-tests/shared-rhythm-01-open-titlecase.svg",
+        "second-direction": "lockup-tests/second-direction-01-open-titlecase.svg"
+      },
+      "fontFile": "fonts/instrumentsans/InstrumentSans[wdth,wght].ttf",
+      "licenseFile": "fonts/instrumentsans/OFL.txt",
+      "fontSHA256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "id": "02-measured-capitals",
+      "name": "Measured capitals",
+      "family": "Instrument Sans",
+      "folder": "instrumentsans",
+      "file": "InstrumentSans[wdth,wght].ttf",
+      "axes": {
+        "wdth": 100,
+        "wght": 500
+      },
+      "tracking": 0.085,
+      "corrections": {
+        "TA": -0.018,
+        "AB": -0.005,
+        "RA": -0.012,
+        "AC": -0.006,
+        "CL": -0.004,
+        "PR": -0.006,
+        "AI": -0.01
+      },
+      "lines": [
+        "TABERNACLE",
+        "OF PRAISE"
+      ],
+      "voice": "Composed, compact and ceremonial. More formal than title case.",
+      "singleLineFile": "specimens/02-measured-capitals-single-line.svg",
+      "twoLineFile": "specimens/02-measured-capitals-two-line.svg",
+      "singleLineViewBox": "0 0 1359.76562 126",
+      "twoLineViewBox": "0 0 743.73281 243",
+      "singleLinePositions": [
+        {
+          "character": "T",
+          "x": 8.0,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "A",
+          "x": 68.2,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "B",
+          "x": 147.53281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "E",
+          "x": 220.03281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "R",
+          "x": 289.56563,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "N",
+          "x": 364.06563,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "A",
+          "x": 445.66562,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "C",
+          "x": 522.43281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "L",
+          "x": 604.93281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "E",
+          "x": 672.33281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": " ",
+          "x": 744.23281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "O",
+          "x": 772.43281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "F",
+          "x": 859.93281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": " ",
+          "x": 928.23281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "P",
+          "x": 956.43281,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "R",
+          "x": 1029.76562,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "A",
+          "x": 1103.06563,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "I",
+          "x": 1183.66563,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "S",
+          "x": 1217.56562,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "E",
+          "x": 1288.36562,
+          "baseline": 100,
+          "size": 100
+        }
+      ],
+      "linePositions": [
+        {
+          "text": "TABERNACLE",
+          "positions": [
+            {
+              "character": "T",
+              "x": 8.0,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "A",
+              "x": 68.2,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "B",
+              "x": 147.53281,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "E",
+              "x": 220.03281,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "R",
+              "x": 289.56563,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "N",
+              "x": 364.06563,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "A",
+              "x": 445.66562,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "C",
+              "x": 522.43281,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "L",
+              "x": 604.93281,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "E",
+              "x": 672.33281,
+              "baseline": 100,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "text": "OF PRAISE",
+          "positions": [
+            {
+              "character": "O",
+              "x": 8.0,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "F",
+              "x": 95.5,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": " ",
+              "x": 163.8,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "P",
+              "x": 192.0,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "R",
+              "x": 265.33281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "A",
+              "x": 338.63281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "I",
+              "x": 419.23281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "S",
+              "x": 453.13281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "E",
+              "x": 523.93281,
+              "baseline": 217,
+              "size": 100
+            }
+          ]
+        }
+      ],
+      "twoLineInkBounds": [
+        11.2,
+        27.0,
+        718.5328125,
+        191.0
+      ],
+      "lockupTests": {
+        "shared-rhythm": "lockup-tests/shared-rhythm-02-measured-capitals.svg",
+        "second-direction": "lockup-tests/second-direction-02-measured-capitals.svg"
+      },
+      "fontFile": "fonts/instrumentsans/InstrumentSans[wdth,wght].ttf",
+      "licenseFile": "fonts/instrumentsans/OFL.txt",
+      "fontSHA256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "id": "03-warm-serif",
+      "name": "Warm serif",
+      "family": "Source Serif 4",
+      "folder": "sourceserif4",
+      "file": "SourceSerif4[opsz,wght].ttf",
+      "axes": {
+        "opsz": 24,
+        "wght": 500
+      },
+      "tracking": 0.002,
+      "corrections": {
+        "Ta": -0.005,
+        "rn": 0.003,
+        "cl": 0.002,
+        "Pr": -0.005,
+        "ra": -0.003,
+        "ai": -0.002
+      },
+      "lines": [
+        "Tabernacle",
+        "of Praise"
+      ],
+      "voice": "Warm and literary, with a quieter institutional association.",
+      "singleLineFile": "specimens/03-warm-serif-single-line.svg",
+      "twoLineFile": "specimens/03-warm-serif-two-line.svg",
+      "singleLineViewBox": "0 0 926.88906 126",
+      "twoLineViewBox": "0 0 516.25625 243",
+      "singleLinePositions": [
+        {
+          "character": "T",
+          "x": 8.0,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "a",
+          "x": 63.89531,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "b",
+          "x": 114.95312,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "e",
+          "x": 173.48438,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "r",
+          "x": 224.38438,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "n",
+          "x": 267.93437,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "a",
+          "x": 328.37812,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "c",
+          "x": 379.43594,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "l",
+          "x": 427.30625,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "e",
+          "x": 457.55625,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": " ",
+          "x": 508.45625,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "o",
+          "x": 531.25625,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "f",
+          "x": 586.17656,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": " ",
+          "x": 621.57656,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "P",
+          "x": 644.37656,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "r",
+          "x": 702.0375,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "a",
+          "x": 743.53125,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "i",
+          "x": 794.38906,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "s",
+          "x": 824.58906,
+          "baseline": 100,
+          "size": 100
+        },
+        {
+          "character": "e",
+          "x": 868.18906,
+          "baseline": 100,
+          "size": 100
+        }
+      ],
+      "linePositions": [
+        {
+          "text": "Tabernacle",
+          "positions": [
+            {
+              "character": "T",
+              "x": 8.0,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 63.89531,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "b",
+              "x": 114.95312,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 173.48438,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 224.38438,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "n",
+              "x": 267.93437,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 328.37812,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "c",
+              "x": 379.43594,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "l",
+              "x": 427.30625,
+              "baseline": 100,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 457.55625,
+              "baseline": 100,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "text": "of Praise",
+          "positions": [
+            {
+              "character": "o",
+              "x": 8.0,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "f",
+              "x": 62.92031,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": " ",
+              "x": 98.32031,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "P",
+              "x": 121.12031,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "r",
+              "x": 178.78125,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "a",
+              "x": 220.275,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "i",
+              "x": 271.13281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "s",
+              "x": 301.33281,
+              "baseline": 217,
+              "size": 100
+            },
+            {
+              "character": "e",
+              "x": 344.93281,
+              "baseline": 217,
+              "size": 100
+            }
+          ]
+        }
+      ],
+      "twoLineInkBounds": [
+        10.060200183094294,
+        26.273497101007024,
+        494.4302445071712,
+        192.0676524259994
+      ],
+      "lockupTests": {
+        "shared-rhythm": "lockup-tests/shared-rhythm-03-warm-serif.svg",
+        "second-direction": "lockup-tests/second-direction-03-warm-serif.svg"
+      },
+      "fontFile": "fonts/sourceserif4/SourceSerif4[opsz,wght].ttf",
+      "licenseFile": "fonts/sourceserif4/OFL.txt",
+      "fontSHA256": "97b2d4da6e3cb494b5a1e66ae176914d852ccabef49e0c02c0df25f3e39aca0b"
+    }
+  ],
+  "comparisonNote": "Both columns use the unchanged Review 08 master art. Symbols are fitted to the same ink field; full-name wordmarks share a common width area without nonuniform scaling. These are layout comparisons, not size standards."
+}

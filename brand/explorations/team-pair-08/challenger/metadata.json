@@ -1,0 +1,25 @@
+{
+  "id": "unselected-folded-p",
+  "name": "Folded P",
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "primary": "primary.svg",
+  "reverse": "reverse.svg",
+  "viewBox": "0 0 256 256",
+  "reference": "../../praise-study-07/exports/praise-comparison.png",
+  "referenceLocation": "Original Folded P, middle row, left column",
+  "premise": "One folded P offers a letter-led counterpart to Shared Rhythm.",
+  "construction": "Four independent black path surfaces; the sloping upper turn, open counter and angular middle return form a P through true gaps. No embedded raster, live text, gradients, strokes or white overlays.",
+  "meaning": "P relates directly to Praise. Its returned inner edge suggests a place receiving and holding rather than a decorative musical addition. This is an interpretation, not a literal universal church symbol.",
+  "risk": "Folded letterforms can suggest printing, packaging or a creative studio. It is less specifically ecclesiastical than the Shared Rhythm architectural family; no trademark clearance is implied.",
+  "changes": [
+    "v1 translates the original rough into editable planar paths.",
+    "v2 opens the principal sloping channel, shortens the bowl slightly and increases the inset between the two lower planes.",
+    "v3 gives the broad counter and sloping channels more breathing room while retaining the middle return and restrained letter width."
+  ],
+  "selection": "UNSELECTED. User requested a different second contender and will provide a reference. Folded P roughs preserved as historical source only; do not present as the team challenger.",
+  "versions": [
+    "v1",
+    "v2",
+    "v3"
+  ]
+}

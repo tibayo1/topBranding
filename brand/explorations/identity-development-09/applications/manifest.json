@@ -1,0 +1,67 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "provisional": false,
+  "metadataFile": "identity-development-09/exports/development-artwork.json",
+  "metadataSha256": "bef4809a636b557890fbe58bdd4a31ea0144dc3c4c0c9cf762cf31963bc9789a",
+  "conditions": "Identical monochrome layouts, placement boxes, outlined companion labels and neutral diagram backgrounds for both directions.",
+  "copy": "Verified name and Istanbul, Türkiye only; [CORRESPONDENCE TEXT], [CONTACT DETAILS] and [CHURCH HANDLE] are placeholders.",
+  "limitation": "Entrance is an imagined proportion diagram. RCCG emblem omitted because the original authorized asset has not been transferred. No application is approved for publication or fabrication.",
+  "applicationLabelFont": "Instrument Sans 450, width 100; outlines only. No font binary modified.",
+  "directions": [
+    {
+      "id": "shared-rhythm",
+      "name": "Shared Rhythm",
+      "signage": "shared-rhythm-entrance-sign.svg",
+      "letterhead": "shared-rhythm-a4-letterhead.svg",
+      "letterheadContext": "shared-rhythm-letterhead-context.svg",
+      "welcome": "shared-rhythm-welcome-post.svg",
+      "social": "shared-rhythm-avatar-profile.svg",
+      "masters": {
+        "primary": {
+          "file": "identity-development-09/shared-rhythm/primary.svg",
+          "sha256": "2ace4fe86078526e6bb0a75d2e2a315944cf30de1ba9d2821e0b5ca25ddc41ca"
+        },
+        "compact": {
+          "file": "identity-development-09/shared-rhythm/compact.svg",
+          "sha256": "a3301366062f4097508962ffb1d0a8778e11b34ee307f4a387ad0de2f6fc8621"
+        },
+        "horizontal": {
+          "file": "identity-development-09/exports/shared-rhythm-horizontal-DRAFT.svg",
+          "sha256": "fbea86ed1c1a3a4ea5fd13bce6a84925c2870287422d46596863dc29bd92131f"
+        },
+        "stacked": {
+          "file": "identity-development-09/exports/shared-rhythm-stacked-DRAFT.svg",
+          "sha256": "b9e2c5a569bb2c1db7057f1fe774e3b65344d5adaa82e89a571c8f21f70991ba"
+        }
+      }
+    },
+    {
+      "id": "open-praise",
+      "name": "Open Praise",
+      "signage": "open-praise-entrance-sign.svg",
+      "letterhead": "open-praise-a4-letterhead.svg",
+      "letterheadContext": "open-praise-letterhead-context.svg",
+      "welcome": "open-praise-welcome-post.svg",
+      "social": "open-praise-avatar-profile.svg",
+      "masters": {
+        "primary": {
+          "file": "identity-development-09/open-praise/primary.svg",
+          "sha256": "c94946244aa0e95ffe2f89698ce6014adb14c6b08c3c8bbed8ef64bb9b4f603d"
+        },
+        "compact": {
+          "file": "identity-development-09/open-praise/compact.svg",
+          "sha256": "0fa719481613e14c074b327d4c41dec9adb59ac0ae418a1a11ec26e43ccaf0d3"
+        },
+        "horizontal": {
+          "file": "identity-development-09/exports/open-praise-horizontal-DRAFT.svg",
+          "sha256": "59f90ab38a9ed6f9eab3a7e028ceee69690e135d65f9a749c60de184422c363c"
+        },
+        "stacked": {
+          "file": "identity-development-09/exports/open-praise-stacked-DRAFT.svg",
+          "sha256": "66eb993c5128b31df9408810a285671b9525c253f35ed0e51cd6d7c802675b50"
+        }
+      }
+    }
+  ],
+  "comparison": "applications-comparison.png"
+}

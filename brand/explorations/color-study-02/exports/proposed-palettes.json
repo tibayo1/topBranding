@@ -1,0 +1,115 @@
+{
+  "status": "DRAFT \u2014 NOT FOR PUBLICATION",
+  "palettes": [
+    {
+      "id": "navy",
+      "number": "01",
+      "name": "Navy & gold",
+      "family": "Navy + Gold + Ivory",
+      "mood": "Timeless \u00b7 elegant \u00b7 dignified",
+      "primary": "#14263D",
+      "secondary": "#946B2E",
+      "accent": "#C9A467",
+      "neutral": "#F6F1E8",
+      "recommended": true,
+      "names": {
+        "primary": "Midnight navy",
+        "secondary": "Antique gold",
+        "accent": "Pale warm gold",
+        "neutral": "Ivory"
+      },
+      "note": "A dignified, dependable foundation. The familiar church and luxury associations place more responsibility on the mark to feel distinctive.",
+      "print": "Strong dark-on-light reproduction. Gold is a flat screen color here; foil or metallic ink would be a separate material decision."
+    },
+    {
+      "id": "forest",
+      "number": "02",
+      "name": "Forest & cream",
+      "family": "Forest Green + Warm Gold + Cream",
+      "mood": "Welcoming \u00b7 calm \u00b7 grounded",
+      "primary": "#1C3D32",
+      "secondary": "#8B6838",
+      "accent": "#C2A069",
+      "neutral": "#F5F0E4",
+      "recommended": false,
+      "names": {
+        "primary": "Deep forest",
+        "secondary": "Warm bronze",
+        "accent": "Warm gold",
+        "neutral": "Cream"
+      },
+      "note": "Warm and grounded, with a generous feeling of welcome. It can lean toward heritage, nature, or hospitality rather than a distinctive contemporary church.",
+      "print": "A useful everyday one-color foundation. Proof cream papers and dark green inks together; screen warmth is not a paper specification."
+    },
+    {
+      "id": "teal",
+      "number": "03",
+      "name": "Teal & sand",
+      "family": "Deep Teal + Sand + Soft Gold",
+      "mood": "Contemporary \u00b7 refined \u00b7 distinctive",
+      "primary": "#10494C",
+      "secondary": "#D9CBB4",
+      "accent": "#B69255",
+      "neutral": "#F6F3EC",
+      "recommended": true,
+      "names": {
+        "primary": "Deep teal",
+        "secondary": "Sand",
+        "accent": "Soft gold",
+        "neutral": "Warm porcelain"
+      },
+      "note": "The strongest balance of contemporary distinction and tactile warmth. Sand softens the cool foundation, while gold adds a measured ceremonial note.",
+      "print": "Test teal on the intended stock and sign material. Sand works as a supporting surface with dark teal type; it is not a text color on porcelain."
+    },
+    {
+      "id": "burgundy",
+      "number": "04",
+      "name": "Burgundy & stone",
+      "family": "Burgundy + Muted Gold + Light Stone",
+      "mood": "Warm \u00b7 expressive \u00b7 ceremonial",
+      "primary": "#562C3B",
+      "secondary": "#96784D",
+      "accent": "#C7AA7D",
+      "neutral": "#F1EDE5",
+      "recommended": false,
+      "names": {
+        "primary": "Deep burgundy",
+        "secondary": "Muted gold",
+        "accent": "Champagne gold",
+        "neutral": "Light stone"
+      },
+      "note": "Expressive and ceremonial, with an intimate warmth. It feels more solemn than the other options; potentially useful seasonal territory.",
+      "print": "Deep burgundy can gain density in print. Proof it on the real stock; keep small text on the high-contrast primary/neutral pair."
+    },
+    {
+      "id": "charcoal",
+      "number": "05",
+      "name": "Charcoal & copper",
+      "family": "Charcoal + Ivory + Copper Accent",
+      "mood": "Sophisticated \u00b7 minimal \u00b7 versatile",
+      "primary": "#282C32",
+      "secondary": "#616A74",
+      "accent": "#C78362",
+      "neutral": "#F5F0E8",
+      "recommended": false,
+      "names": {
+        "primary": "Warm charcoal",
+        "secondary": "Slate",
+        "accent": "Muted copper",
+        "neutral": "Soft ivory"
+      },
+      "note": "The most neutral and versatile system. Copper supplies warmth; recognition depends heavily on the symbol and wordmark rather than the hue.",
+      "print": "A practical signage and monochrome foundation. Copper is a flat accent, not a promise of a metallic finish."
+    }
+  ],
+  "recommendations": {
+    "palettes": [
+      "teal",
+      "navy"
+    ],
+    "concept": "C",
+    "challenger": "D",
+    "note": "C is the current durability benchmark. D introduces a stronger shared-space association, with a possible leaf/growth reading. No replacement is approved."
+  },
+  "approved": false
+}

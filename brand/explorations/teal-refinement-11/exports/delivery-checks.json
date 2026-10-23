@@ -1,0 +1,237 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION",
+  "workingPaletteSelected": true,
+  "finalBrandApproval": false,
+  "coreSVGs": [
+    {
+      "file": "exports/open-praise-compact-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        28.0,
+        28.0,
+        228.0,
+        223.0
+      ]
+    },
+    {
+      "file": "exports/open-praise-compact-reverse-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        28.0,
+        28.0,
+        228.0,
+        223.0
+      ]
+    },
+    {
+      "file": "exports/open-praise-horizontal-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        38.246153836,
+        42.440000036,
+        654.9999999783875,
+        213.56000012599998
+      ]
+    },
+    {
+      "file": "exports/open-praise-horizontal-reverse-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        38.246153836,
+        42.440000036,
+        654.9999999783875,
+        213.56000012599998
+      ]
+    },
+    {
+      "file": "exports/open-praise-primary-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        28.0,
+        28.0,
+        228.0,
+        223.0
+      ]
+    },
+    {
+      "file": "exports/open-praise-primary-reverse-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        28.0,
+        28.0,
+        228.0,
+        223.0
+      ]
+    },
+    {
+      "file": "exports/open-praise-singleLine-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        30.86153842,
+        22.340000019999998,
+        969.9907349015589,
+        137.65999994499998
+      ]
+    },
+    {
+      "file": "exports/open-praise-singleLine-reverse-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        30.86153842,
+        22.340000019999998,
+        969.9907349015589,
+        137.65999994499998
+      ]
+    },
+    {
+      "file": "exports/open-praise-stacked-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        60.999999972,
+        29.350000036,
+        339.00000008978,
+        371.49238432000004
+      ]
+    },
+    {
+      "file": "exports/open-praise-stacked-reverse-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        60.999999972,
+        29.350000036,
+        339.00000008978,
+        371.49238432000004
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-compact-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        16.0,
+        22.0,
+        240.0,
+        217.0
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-compact-reverse-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        16.0,
+        22.0,
+        240.0,
+        217.0
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-horizontal-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        22.442211056,
+        35.999999988,
+        654.9999999783875,
+        220.000000072
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-horizontal-reverse-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        22.442211056,
+        35.999999988,
+        654.9999999783875,
+        220.000000072
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-primary-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        16.0,
+        18.0,
+        240.0,
+        217.0
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-primary-reverse-DRAFT.svg",
+      "outlinedLetters": 0,
+      "inkBounds": [
+        16.0,
+        18.0,
+        240.0,
+        217.0
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-singleLine-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        20.211055248,
+        18.000000004,
+        969.9907349015589,
+        142.00000002599998
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-singleLine-reverse-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        20.211055248,
+        18.000000004,
+        969.9907349015589,
+        142.00000002599998
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-stacked-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        60.999999972,
+        21.999999976,
+        339.00000008978,
+        371.49238432000004
+      ]
+    },
+    {
+      "file": "exports/shared-rhythm-stacked-reverse-DRAFT.svg",
+      "outlinedLetters": 18,
+      "inkBounds": [
+        60.999999972,
+        21.999999976,
+        339.00000008978,
+        371.49238432000004
+      ]
+    }
+  ],
+  "checks": [
+    "Complete outlined name in 12 arrangements; all 20 rootSVG contours within viewBox.",
+    "Actual symbol ink heights match the documented 93% Open Praise scale in all 3 arrangements, light and dark.",
+    "Shared Rhythm primary and compact sources identical to 09; all current input hashes match.",
+    "All saved PNGs decode, Python sources parse and local Markdown links resolve.",
+    "Review has 3 pages with Draft on every page. A4 proof is exact 210×297mm, one vector page, no embedded rasters,50 mm calibration verified."
+  ],
+  "files": [
+    {
+      "file": "exports/two-options-teal.png",
+      "bytes": 214719,
+      "sha256": "deb60e7400f7f379cc84525af5a8a3a848b21dd713b6970cc329498e86163f19"
+    },
+    {
+      "file": "exports/two-option-review-11.pdf",
+      "bytes": 420503,
+      "sha256": "bb049d471c690f21dd7c792ae7f8e6832e2226f641d21b8989600d0b03be5152"
+    },
+    {
+      "file": "proofs/a4-print-proof.pdf",
+      "bytes": 179974,
+      "sha256": "bd54fcc2120f506064205c41fb96e63f945990014463ffe0de8e12f54f9206d8"
+    },
+    {
+      "file": "proofs/screen-size-proof.png",
+      "bytes": 133897,
+      "sha256": "f8f6c0e4fff51d2096fad3dc1cdb1b240ca20b0db9fea9626aa82ae186ebbe5e"
+    }
+  ],
+  "limitations": "No physical printing, actual RCCG emblem pairing, audience recognition, legal clearance or final brand approval is claimed."
+}
